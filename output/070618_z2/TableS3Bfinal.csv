@@ -1,0 +1,94 @@
+Study ID,LRTI Category,Microbe,Clin+,LRM+,RBM+,log10( RNA-seq genus rpM ),log10( DNA-seq genus rpM ),Rank,Respiratory Pathogen?,Virus?,LRM Score,RNA Z-score,DNA Z-score
+chrf_rna_0002_s2.csv,LRTI+C/+M,Streptococcus pneumoniae,Y,Y,Y,4.282062175976147,4.282062175976147,1,True,False,0.9908784514611253,99.0,99.0
+chrf_rna_0003_s3.csv,LRTI+C/+M,Streptococcus pneumoniae,Y,Y,N,1.2648178230095364,1.2648178230095364,2,True,False,0.6460671173398006,14.5,14.5
+chrf_rna_0004_s4.csv,LRTI+C/+M,,,,,,,,,,,,
+chrf_rna_0005_s5.csv,LRTI+C/+M,Enterobacter hormaechei,Y,N,N,2.6692238739308056,2.6692238739308056,1,False,False,0.1744729046912737,99.0,99.0
+chrf_rna_0014_s14.csv,LRTI+C/+M,Streptococcus pneumoniae,Y,Y,Y,1.4871383754771865,1.4871383754771865,1,True,False,0.865083151264457,33.4,33.4
+chrf_rna_0015_s15.csv,LRTI+C/+M,Pseudomonas stutzeri,N,Y,N,2.9215304135012423,2.9215304135012423,1,False,False,0.21436720718644314,16.8,16.8
+chrf_rna_0015_s15.csv,LRTI+C/+M,Acinetobacter lwoffii,N,Y,Y,2.5727554651542195,2.5727554651542195,2,True,False,0.8728113304219683,80.8,80.8
+chrf_rna_0016_s16.csv,LRTI+C/+M,,,,,,,,,,,,
+chrf_rna_0017_s17.csv,LRTI+C/+M,,,,,,,,,,,,
+chrf_rna_0025_s25.csv,LRTI+C/+M,Streptococcus pneumoniae,Y,Y,Y,1.568201724066995,1.568201724066995,3,True,False,0.46945978073012723,30.7,30.7
+chrf_rna_0026_s26.csv,LRTI+C/+M,Streptococcus pneumoniae,Y,Y,Y,2.8195439355418688,2.8195439355418688,1,True,False,0.9611040235213584,99.0,99.0
+chrf_rna_0027_s27.csv,LRTI+C/+M,Haemophilus influenzae,Y,Y,Y,1.75815462196739,1.75815462196739,1,True,False,0.8940281387683979,64.3,64.3
+chrf_rna_0028_s28.csv,LRTI+C/+M,Sphingomonas taxi,N,Y,N,2.9028184680822533,2.9028184680822533,1,False,False,0.21119381549026925,32.9,32.9
+chrf_rna_0028_s28.csv,LRTI+C/+M,Acinetobacter lwoffii,N,Y,N,1.850033257689769,1.850033257689769,3,True,False,0.5406683902072036,15.3,15.3
+chrf_rna_0029_s29.csv,LRTI+C/+M,Elizabethkingia anophelis,Y,Y,Y,3.760399863329876,3.760399863329876,1,True,False,0.9846290136113731,99.0,99.0
+chrf_rna_0037_s37.csv,LRTI+C/+M,Streptococcus pneumoniae,Y,Y,Y,0.9294189257142927,0.9294189257142927,1,True,False,0.7847374923537189,9.4,9.4
+chrf_rna_0038_s38.csv,LRTI+C/+M,Streptococcus pneumoniae,Y,Y,N,1.2148438480476977,1.2148438480476977,2,True,False,0.6344136744889234,3.4,3.4
+chrf_rna_0039_s39.csv,LRTI+C/+M,,,,,,,,,,,,
+chrf_rna_0040_s40.csv,LRTI+C/+M,,,,,,,,,,,,
+chrf_rna_0041_s41.csv,LRTI+C/+M,Klebsiella pneumoniae,Y,Y,Y,1.3424226808222062,1.3424226808222062,1,True,False,0.8470496848916609,6.3,6.3
+chrf_rna_0041_s41.csv,LRTI+C/+M,Bacillus coagulans,N,Y,Y,0.8195439355418687,0.8195439355418687,3,True,False,0.29311374036789667,8.8,8.8
+chrf_rna_0050_s50.csv,LRTI+C/+M,Corynebacterium urealyticum,N,Y,N,2.868232868422465,2.868232868422465,1,False,False,0.20541928889505096,16.5,16.5
+chrf_rna_0050_s50.csv,LRTI+C/+M,Streptococcus pneumoniae,Y,N,N,1.651278013998144,1.651278013998144,5,True,False,0.10902344095654941,23.0,23.0
+chrf_rna_0051_s51.csv,LRTI+C/+M,Streptococcus pneumoniae,Y,Y,Y,1.816241299991783,1.816241299991783,1,True,False,0.8994722915381024,86.4,86.4
+chrf_rna_0052_s52.csv,LRTI+C/+M,Escherichia coli,Y,Y,Y,3.251638220448212,3.251638220448212,1,True,False,0.974535501892952,39.5,39.5
+chrf_rna_0052_s52.csv,LRTI+C/+M,Klebsiella pneumoniae,N,Y,N,0.785329835010767,0.785329835010767,3,True,False,0.28598800191579243,2.3,2.3
+chrf_rna_0061_s61.csv,LRTI+C/+M,Streptococcus pneumoniae,Y,Y,Y,1.8762178405916423,1.8762178405916423,1,True,False,0.9048314790182745,68.1,68.1
+chrf_rna_0062_s62.csv,LRTI+C/+M,Streptococcus pneumoniae,Y,Y,Y,1.6222140229662954,1.6222140229662954,1,True,False,0.8802634625620115,53.3,53.3
+chrf_rna_0063_s63.csv,LRTI+C/+M,Neisseria meningitidis,Y,Y,Y,3.5347112933903264,3.5347112933903264,1,True,False,0.9807589290822439,99.0,99.0
+chrf_rna_0064_s64.csv,LRTI+C/+M,Streptococcus pneumoniae,Y,Y,Y,3.47845105314715,3.47845105314715,1,True,False,0.9796540495543483,99.0,99.0
+chrf_rna_0073_s73.csv,LRTI+C/+M,Streptococcus pneumoniae,Y,Y,Y,2.744918542441353,2.744918542441353,1,True,False,0.9581789850105474,99.0,99.0
+chrf_rna_0074_s74.csv,LRTI+C/+M,Streptococcus pneumoniae,Y,Y,Y,0.785329835010767,0.785329835010767,2,True,False,0.5290490951089667,5.3,5.3
+chrf_rna_0075_s75.csv,LRTI+C/+M,Streptococcus pneumoniae,Y,Y,Y,1.0128372247051722,1.0128372247051722,1,True,False,0.7986615266884899,10.7,10.7
+chrf_rna_0076_s76.csv,LRTI+C/+M,Streptococcus pneumoniae,Y,Y,Y,2.552911450216509,2.552911450216509,1,True,False,0.9496566327470986,99.0,99.0
+chrf_rna_0085_s85.csv,LRTI+C/+M,,,,,,,,,,,,
+chrf_rna_0086_s86.csv,LRTI+C/+M,Streptococcus pneumoniae,Y,Y,Y,1.919078092376074,1.919078092376074,1,True,False,0.9085031944542349,76.0,76.0
+chrf_rna_0086_s86.csv,LRTI+C/+M,Bacillus coagulans,N,Y,N,1.1172712956557642,1.1172712956557642,2,True,False,0.6112118897628502,32.5,32.5
+chrf_rna_0087_s87.csv,LRTI+C/+M,,,,,,,,,,,,
+chrf_rna_0088_s88.csv,LRTI+C/+M,Elizabethkingia anophelis,Y,Y,Y,2.070037866607755,2.070037866607755,1,True,False,0.9204397583640637,99.0,99.0
+chrf_rna_0006_s6.csv,no-LRTI,,,,,,,,,,,,
+chrf_rna_0007_s7.csv,no-LRTI,,,,,,,,,,,,
+chrf_rna_0008_s8.csv,no-LRTI,,,,,,,,,,,,
+chrf_rna_0009_s9.csv,no-LRTI,,,,,,,,,,,,
+chrf_rna_0018_s18.csv,no-LRTI,,,,,,,,,,,,
+chrf_rna_0019_s19.csv,no-LRTI,,,,,,,,,,,,
+chrf_rna_0020_s20.csv,no-LRTI,Mycobacterium gilvum,N,Y,Y,2.4652340949880145,2.4652340949880145,4,True,False,0.43896361429800695,5.8,5.8
+chrf_rna_0021_s21.csv,no-LRTI,,,,,,,,,,,,
+chrf_rna_0031_s31.csv,no-LRTI,,,,,,,,,,,,
+chrf_rna_0032_s32.csv,no-LRTI,Bacillus cereus,N,Y,Y,0.7634279935629372,0.7634279935629372,3,True,False,0.2814814581580044,2.7,2.7
+chrf_rna_0042_s42.csv,no-LRTI,,,,,,,,,,,,
+chrf_rna_0043_s43.csv,no-LRTI,,,,,,,,,,,,
+chrf_rna_0044_s44.csv,no-LRTI,Mycobacterium smegmatis,N,Y,Y,1.5831987739686226,1.5831987739686226,1,True,False,0.8760370389366058,5.2,5.2
+chrf_rna_0053_s53.csv,no-LRTI,Bacillus subtilis,N,Y,N,0.4623979978989561,0.4623979978989561,3,True,False,0.22410374577901263,2.1,2.1
+chrf_rna_0054_s54.csv,no-LRTI,,,,,,,,,,,,
+chrf_rna_0056_s56.csv,no-LRTI,,,,,,,,,,,,
+chrf_rna_0065_s65.csv,no-LRTI,Acinetobacter junii,N,Y,Y,2.932169245920792,2.932169245920792,1,True,False,0.9651497156419832,5.8,5.8
+chrf_rna_0066_s66.csv,no-LRTI,,,,,,,,,,,,
+chrf_rna_0067_s67.csv,no-LRTI,,,,,,,,,,,,
+chrf_rna_0068_s68.csv,no-LRTI,Bacillus oceanisediminis,N,Y,N,0.8195439355418687,0.8195439355418687,2,True,False,0.5376705402239466,4.0,4.0
+chrf_rna_0077_s77.csv,no-LRTI,,,,,,,,,,,,
+chrf_rna_0078_s78.csv,no-LRTI,,,,,,,,,,,,
+chrf_rna_0079_s79.csv,no-LRTI,,,,,,,,,,,,
+chrf_rna_0080_s80.csv,no-LRTI,,,,,,,,,,,,
+chrf_rna_0089_s89.csv,no-LRTI,Stenotrophomonas maltophilia,N,Y,N,2.5449357658815024,2.5449357658815024,2,True,False,0.8696515252061228,5.8,5.8
+chrf_rna_0089_s89.csv,no-LRTI,Escherichia coli,N,Y,N,2.47158505418519,2.47158505418519,4,True,False,0.4405478192836141,4.8,4.8
+chrf_rna_0090_s90.csv,no-LRTI,Staphylococcus aureus,N,Y,Y,1.930949031167523,1.930949031167523,1,True,False,0.9094973828434757,5.3,5.3
+chrf_rna_0091_s91.csv,no-LRTI,,,,,,,,,,,,
+chrf_rna_0092_s92.csv,no-LRTI,,,,,,,,,,,,
+chrf_rna_0010_s10.csv,unk-LRTI,Enterovirus B,N,Y,Y,1.0128372247051722,1.0128372247051722,2,True,True,0.8445710125668215,99.0,99.0
+chrf_rna_0011_s11.csv,unk-LRTI,Mumps rubulavirus,N,Y,Y,0.2304489213782739,0.2304489213782739,2,True,True,0.711050745023506,100.0,100.0
+chrf_rna_0012_s12.csv,unk-LRTI,Chikungunya virus,N,Y,Y,3.262712062631726,3.262712062631726,1,True,True,0.9933194701144983,99.0,99.0
+chrf_rna_0012_s12.csv,unk-LRTI,Primate tetraparvovirus 1,N,Y,N,3.0704073217401198,3.0704073217401198,2,False,True,0.30293189843956997,99.0,99.0
+chrf_rna_0022_s22.csv,unk-LRTI,Klebsiella oxytoca,N,Y,N,0.9138138523837167,0.9138138523837167,3,True,False,0.31327268352675314,5.5,5.5
+chrf_rna_0023_s23.csv,unk-LRTI,Neisseria meningitidis,N,N,Y,1.2329961103921538,1.2329961103921538,14,True,False,7.461474769966625e-06,2.5,2.5
+chrf_rna_0034_s34.csv,unk-LRTI,,,,,,,,,,,,
+chrf_rna_0035_s35.csv,unk-LRTI,,,,,,,,,,,,
+chrf_rna_0046_s46.csv,unk-LRTI,Neisseria meningitidis,N,Y,N,1.8621313793130372,1.8621313793130372,3,True,False,0.5437088345555479,13.6,13.6
+chrf_rna_0047_s47.csv,unk-LRTI,,,,,,,,,,,,
+chrf_rna_0048_s48.csv,unk-LRTI,,,,,,,,,,,,
+chrf_rna_0058_s58.csv,unk-LRTI,Mycobacterium tuberculosis,N,Y,Y,1.021189299069938,1.021189299069938,1,True,False,0.8000178691861922,7.0,7.0
+chrf_rna_0059_s59.csv,unk-LRTI,Stenotrophomonas maltophilia,N,Y,Y,3.991638016861687,3.991638016861687,1,True,False,0.9877983287344306,99.0,99.0
+chrf_rna_0059_s59.csv,unk-LRTI,Acinetobacter baumannii,N,Y,Y,3.5107996144242795,3.5107996144242795,2,True,False,0.9466367110390707,99.0,99.0
+chrf_rna_0060_s60.csv,unk-LRTI,,,,,,,,,,,,
+chrf_rna_0070_s70.csv,unk-LRTI,Bacillus cereus,N,Y,Y,2.3951515915045425,2.3951515915045425,2,True,False,0.8514764980400368,99.0,99.0
+chrf_rna_0071_s71.csv,unk-LRTI,Chikungunya virus,N,Y,Y,2.387033701282363,2.387033701282363,1,True,True,0.9839403315835287,99.0,99.0
+chrf_rna_0072_s72.csv,unk-LRTI,,,,,,,,,,,,
+chrf_rna_0082_s82.csv,unk-LRTI,Salmonella enterica,N,Y,Y,1.994756944587628,1.994756944587628,1,True,False,0.9146762357785297,36.4,36.4
+chrf_rna_0082_s82.csv,unk-LRTI,Bacillus coagulans,N,Y,N,0.8750612633917001,0.8750612633917001,3,True,False,0.30489419735927964,5.6,5.6
+chrf_rna_0083_s83.csv,unk-LRTI,,,,,,,,,,,,
+chrf_rna_0084_s84.csv,unk-LRTI,,,,,,,,,,,,
+chrf_rna_0093_s93.csv,unk-LRTI,,,,,,,,,,,,
+chrf_rna_0094_s94.csv,unk-LRTI,Chikungunya virus,N,Y,Y,3.7401178363211565,3.7401178363211565,1,True,True,0.9958694909286654,99.0,99.0
+chrf_rna_0095_s95.csv,unk-LRTI,,,,,,,,,,,,

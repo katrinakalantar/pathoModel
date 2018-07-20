@@ -1,0 +1,1415 @@
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0005_s5.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	547	763.3	99.0	3807.3	78.4	Enterobacter hormaechei	80.3	99.8	99.0	465.9	99.0	Enterobacter hormaechei	11.2	Enterobacter hormaechei	0.9329559655958245	0.914605418138987
+1	1	1	Bacteria	544	231.1	22.1	259.0	7.7	Citrobacter freundii	27.1	36.4	99.0	40.1	50.9	Citrobacter freundii	4.6	Citrobacter freundii	0.06346639221740302	0.07872006281900275
+2	2	2	Bacteria	1330546	14.6	3.4	14.6	2.8	Pluralibacter gergoviae	2.7	3.1	59.8	3.1	42.2	Pluralibacter gergoviae	0.3	Pluralibacter gergoviae	0.0035776421867725256	0.006085590891244602
+3	3	27	Viruses	333922	0.0	0.0	0.0	0.0	0	0.0	0.3	5.3	0.3	2.2	Betapapillomavirus 2	0.3	Betapapillomavirus 2	0.0	0.0005889281507656066
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0041_s41.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	1	Bacteria	570	255.8	10.8	773.8	19.1	Klebsiella pneumoniae	122.8	6.6	6.3	21.0	14.1	Klebsiella pneumoniae	6.0	Klebsiella pneumoniae	0.41384105251898595	0.5691056910569106
+1	1	0	Bacteria	642	572.6	9.9	1010.1	8.4	Aeromonas hydrophila	18.3	4.6	6.3	13.9	3.5	Aeromonas hydrophila	0.6	Aeromonas hydrophila	0.5402182051556317	0.3766937669376694
+2	2	2	Bacteria	544	70.9	6.5	85.8	2.3	Citrobacter freundii	3.5	1.8	4.7	1.9	1.9	Citrobacter freundii	0.2	Citrobacter freundii	0.04588726066959033	0.051490514905149054
+3	3	19	Viruses	140568	0.0	0.0	0.0	0.0	0	0.0	0.1	100.0	0.1	100.0	Garlic virus A	0.1	Garlic virus A	0.0	0.002710027100271003
+4	4	4	Viruses	95341	0.1	100.0	0.1	100.0	Sapporo virus	0.1	0.0	0.0	0.0	0.0	0	0.0	Sapporo virus	5.3481655792063325e-05	0.0
+5	5	7	Viruses	687332	0.0	100.0	0.0	5.1	TTV-like mini virus	0.0	0.0	0.0	0.0	0.0	0	0.0	TTV-like mini virus	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0088_s88.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	308865	1450.9	99.0	1533.9	99.0	Elizabethkingia anophelis	1245.5	54.4	99.0	116.5	99.0	Elizabethkingia anophelis	45.9	Elizabethkingia anophelis	1.0	0.9982862039417311
+1	1	30	Viruses	12195	0.0	0.0	0.0	0.0	0	0.0	0.1	2.1	0.1	2.1	Zucchini yellow mosaic virus	0.1	Zucchini yellow mosaic virus	0.0	0.0008568980291345331
+2	3	37	Viruses	67753	0.0	0.0	0.0	0.0	0	0.0	0.1	100.0	0.1	100.0	Cucurbit chlorotic yellows virus	0.1	Cucurbit chlorotic yellows virus	0.0	0.0008568980291345331
+3	2	36	Viruses	-200039724	0.0	0.0	0.0	0.0	0	0.0	0.1	7.3	0.0	0.0	Dromedary stool-associated circular ssDNA virus	0.1	0	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0029_s29.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	308865	5397.1	99.0	5702.2	99.0	Elizabethkingia anophelis	2834.9	2380.0	99.0	5758.7	99.0	Elizabethkingia anophelis	154.3	Elizabethkingia anophelis	0.9974810201868244	0.9975575110864744
+1	2	2	Bacteria	59732	3.9	3.8	4.9	-0.8	Chryseobacterium gallinarum	9.3	1.5	4.2	7.9	3.4	Chryseobacterium indologenes	0.2	Chryseobacterium indologenes	0.0008571528530944969	0.0013684866962305987
+2	1	1	Bacteria	34084	7.5	7.2	7.8	7.6	Riemerella anatipestifer	11.8	4.4	8.5	4.5	8.7	Riemerella anatipestifer	392.8	Riemerella anatipestifer	0.0013644473988034848	0.0007795177383592018
+3	3	4	Bacteria	237	0.7	1.2	1.7	-0.7	Flavobacterium columnare	1.6	0.1	0.7	1.6	0.3	Flavobacterium branchiophilum	0.1	Flavobacterium columnare	0.00029737956127768255	0.0002771618625277162
+4	4	70	Viruses	12195	0.0	0.0	0.0	0.0	0	0.0	0.1	2.0	0.1	2.0	Zucchini yellow mosaic virus	0.1	Zucchini yellow mosaic virus	0.0	1.732261640798226e-05
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0052_s52.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	561	30126.7	99.0	30854.1	99.0	Escherichia coli	12955.1	1613.2	39.5	1784.0	33.6	Escherichia coli	1067.6	Escherichia coli	0.9942704120598481	0.9892973992125548
+1	1	3	Bacteria	544	22.2	1.7	39.5	0.9	Citrobacter freundii	31.4	5.7	99.0	7.4	9.0	Citrobacter braakii	0.1	Citrobacter freundii	0.0012728837099887536	0.004103587866688849
+2	2	1	Bacteria	570	37.3	0.6	42.2	0.1	Klebsiella pneumoniae	242.4	3.6	2.3	5.1	1.2	Klebsiella pneumoniae	28.2	Klebsiella pneumoniae	0.001359890950924694	0.0028281483946098816
+3	4	2	Bacteria	620	22.6	7.9	70.1	21.6	Shigella flexneri	190.3	2.1	2.1	5.1	2.8	Shigella flexneri	10.5	Shigella flexneri	0.002258965773929408	0.0028281483946098816
+4	5	4	Bacteria	629	21.2	3.1	22.4	0.4	Yersinia enterocolitica	88.6	0.7	6.9	1.0	1.0	Yersinia enterocolitica	2.3	Yersinia enterocolitica	0.0007218378507277994	0.0005545389009038984
+5	8	50	Viruses	687332	0.0	0.0	0.0	0.0	0	0.0	0.1	25.0	0.4	26.4	TTV-like mini virus	0.5	TTV-like mini virus	0.0	0.0002218155603615594
+6	7	9	Bacteria	579	1.0	0.2	1.1	-0.2	Kluyvera georgiana	1.1	0.1	0.5	0.2	0.7	Kluyvera intermedia	0.1	Kluyvera georgiana	3.544739445538302e-05	0.0001109077801807797
+7	6	7	Bacteria	1335483	2.4	0.3	2.4	0.3	Shimwellia blattae	2.7	0.1	0.3	0.1	0.3	Shimwellia blattae	0.1	Shimwellia blattae	7.733976972083565e-05	5.545389009038985e-05
+8	3	20	Viruses	-200687329	0.1	0.9	0.0	0.0	Torque teno virus	0.2	2.3	99.0	0.0	0.0	Torque teno virus	2.0	Torque teno virus	0.0	0.0
+9	9	23	Viruses	1977636	0.1	100.0	0.1	100.0	Hokovirus HKV1	0.0	0.0	0.0	0.0	0.0	0	0.0	Hokovirus HKV1	3.2224904050348193e-06	0.0
+10	10	28	Viruses	346673	0.0	100.0	0.0	100.0	Emiliania huxleyi virus 163	0.0	0.0	0.0	0.0	0.0	0	0.0	Emiliania huxleyi virus 163	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0017_s17.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	1	1	Bacteria	1301	0.6	0.4	0.8	-0.9	Streptococcus intermedius	0.3	0.9	0.3	14.1	-0.4	Streptococcus oralis	0.2	Streptococcus oralis	0.032388663967611336	0.592436974789916
+1	0	0	Bacteria	816	21.2	8.1	23.9	1.8	Bacteroides fragilis	10.8	6.2	30.0	9.5	3.9	Bacteroides fragilis	15.2	Bacteroides fragilis	0.9676113360323886	0.3991596638655462
+2	2	21	Viruses	11007	0.0	0.0	0.0	0.0	0	0.0	0.2	0.4	0.2	0.2	Saccharomyces cerevisiae virus L-A	0.1	Saccharomyces cerevisiae virus L-A	0.0	0.008403361344537815
+3	3	4	Viruses	-200687329	0.0	100.0	0.0	0.0	Torque teno midi virus	0.0	0.1	100.0	0.0	0.0	SEN virus	0.1	Torque teno midi virus	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0064_s64.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	1301	1195.6	47.7	1318.7	11.8	Streptococcus pneumoniae	652.1	2094.8	99.0	3008.2	99.0	Streptococcus pneumoniae	1295.5	Streptococcus pneumoniae	1.0	1.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0076_s76.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	1301	223.2	8.4	248.2	1.5	Streptococcus pneumoniae	127.6	141.0	99.0	356.2	12.0	Streptococcus pneumoniae	126.1	Streptococcus pneumoniae	0.9853116315998413	0.9897193664906919
+1	1	3	Bacteria	28065	1.2	0.3	3.7	-0.4	Rhodoferax saidenbachensis	0.8	1.2	2.0	3.3	1.7	Rhodoferax koreense	0.1	Rhodoferax saidenbachensis	0.014688368400158795	0.009169213670464018
+2	2	26	Viruses	12234	0.0	0.0	0.0	0.0	0	0.0	0.4	100.0	0.4	2.3	Tobacco mild green mosaic virus	0.3	Tobacco mild green mosaic virus	0.0	0.0011114198388441235
+3	3	8	Viruses	687332	0.0	100.0	0.0	4.5	TTV-like mini virus	0.0	0.0	0.0	0.0	0.0	0	0.0	TTV-like mini virus	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0003_s3.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	1	1	Viruses	687331	0.1	100.0	0.1	6.1	Torque teno virus 16	0.0	3.9	100.0	8.3	100.0	Torque teno virus 16	1.7	Torque teno virus 16	1.0	0.9222222222222223
+1	2	2	Viruses	687332	0.0	100.0	0.0	9.1	TTV-like mini virus	0.0	0.4	91.9	0.7	46.6	TTV-like mini virus	0.8	TTV-like mini virus	0.0	0.07777777777777778
+2	0	0	Viruses	-200687329	0.2	3.1	0.0	0.0	Torque teno virus	0.1	41.1	99.0	0.0	0.0	Torque teno virus	28.5	Torque teno virus	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0026_s26.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	1301	913.4	36.3	1020.2	9.0	Streptococcus pneumoniae	569.1	533.4	99.0	659.0	23.0	Streptococcus pneumoniae	463.9	Streptococcus pneumoniae	1.0	1.0
+1	1	1	Viruses	10375	0.0	0.2	0.0	0.2	Human gammaherpesvirus 4	0.0	0.0	0.0	0.0	0.0	0	0.0	Human gammaherpesvirus 4	0.0	0.0
+2	2	4	Viruses	-200687329	0.0	0.1	0.0	0.0	Torque teno virus	0.0	0.0	0.0	0.0	0.0	0	0.0	Torque teno virus	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0002_s2.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	1301	17725.4	99.0	19380.2	99.0	Streptococcus pneumoniae	10412.1	16162.5	99.0	19144.3	99.0	Streptococcus pneumoniae	9375.1	Streptococcus pneumoniae	1.0	1.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0051_s51.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	1301	302.1	11.6	336.9	2.4	Streptococcus pneumoniae	192.2	59.7	86.4	64.5	1.4	Streptococcus pneumoniae	35.8	Streptococcus pneumoniae	0.9997032640949555	0.9626865671641791
+1	2	3	Viruses	687332	0.0	100.0	0.1	21.8	TTV-like mini virus	0.0	0.9	99.0	2.5	99.0	TTV-like mini virus	3.6	TTV-like mini virus	0.00029673590504451043	0.03731343283582089
+2	1	1	Viruses	-200687329	0.2	4.9	0.0	0.0	Torque teno virus	0.3	44.6	99.0	0.0	0.0	Torque teno virus	36.9	Torque teno virus	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0061_s61.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	1301	405.6	15.8	445.0	3.4	Streptococcus pneumoniae	204.3	47.2	68.1	74.2	1.8	Streptococcus pneumoniae	45.4	Streptococcus pneumoniae	1.0	1.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0073_s73.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	1301	709.6	28.1	796.9	6.8	Streptococcus pneumoniae	445.2	503.9	99.0	554.8	19.2	Streptococcus pneumoniae	297.8	Streptococcus pneumoniae	1.0	1.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0062_s62.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	1301	44.8	1.2	50.1	-0.4	Streptococcus pneumoniae	28.9	37.0	53.3	40.9	0.6	Streptococcus pneumoniae	22.0	Streptococcus pneumoniae	1.0	0.8910675381263616
+1	2	3	Viruses	687332	0.0	100.0	0.0	12.5	TTV-like mini virus	0.0	2.6	99.0	4.7	99.0	TTV-like mini virus	3.2	TTV-like mini virus	0.0	0.10239651416122005
+2	3	7	Viruses	687331	0.0	0.0	0.0	0.0	0	0.0	0.1	100.0	0.3	100.0	Torque teno virus 3	0.1	Torque teno virus 3	0.0	0.006535947712418301
+3	1	1	Viruses	-200687329	0.0	0.2	0.0	0.0	Torque teno virus	0.1	3.0	99.0	0.0	0.0	Torque teno virus	4.2	Torque teno virus	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0086_s86.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	1	0	Bacteria	1301	55.8	1.7	63.2	-0.3	Streptococcus pneumoniae	39.5	52.6	76.0	82.0	2.1	Streptococcus pneumoniae	41.1	Streptococcus pneumoniae	1.0	0.9927360774818402
+1	2	19	Viruses	687332	0.0	0.0	0.0	0.0	0	0.0	0.3	31.5	0.6	41.0	Torque teno mini virus 5	0.1	Torque teno mini virus 5	0.0	0.007263922518159807
+2	0	1	Viruses	-200687329	0.1	1.1	0.0	0.0	Torque teno virus	0.1	56.7	99.0	0.0	0.0	Torque teno virus	45.9	Torque teno virus	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0085_s85.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	1301	96.3	3.3	108.1	0.2	Streptococcus pneumoniae	59.3	17.5	18.2	105.0	2.9	Streptococcus sanguinis	1.4	Streptococcus pneumoniae	1.0	0.9933774834437086
+1	1	19	Viruses	10509	0.0	0.0	0.0	0.0	0	0.0	0.6	0.2	0.7	0.0	Human mastadenovirus C	0.3	Human mastadenovirus C	0.0	0.00662251655629139
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0025_s25.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	1301	48.8	1.4	55.4	-0.3	Streptococcus pneumoniae	34.6	21.6	30.7	36.0	0.4	Streptococcus pneumoniae	18.6	Streptococcus pneumoniae	0.9981981981981982	0.8695652173913043
+1	3	2	Viruses	687331	0.0	100.0	0.1	8.4	Torque teno virus 5	0.1	0.2	100.0	4.9	100.0	Torque teno virus 5	1.7	Torque teno virus 5	0.0018018018018018018	0.11835748792270533
+2	2	16	Viruses	10358	0.0	0.0	0.0	0.0	0	0.0	0.3	38.9	0.3	0.7	Human betaherpesvirus 5	0.2	Human betaherpesvirus 5	0.0	0.007246376811594203
+3	4	17	Viruses	687332	0.0	0.0	0.0	0.0	0	0.0	0.2	100.0	0.2	13.8	Torque teno mini virus 1	0.5	Torque teno mini virus 1	0.0	0.004830917874396136
+4	1	1	Viruses	-200687329	0.3	5.9	0.0	0.0	Torque teno virus	0.4	9.5	99.0	0.0	0.0	Torque teno virus	7.3	Torque teno virus	0.0	0.0
+5	5	4	Viruses	10375	0.0	0.1	0.0	0.1	Human gammaherpesvirus 4	0.0	0.0	0.0	0.0	0.0	0	0.0	Human gammaherpesvirus 4	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0014_s14.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	1301	76.4	2.5	85.7	-0.1	Streptococcus pneumoniae	50.1	23.5	33.4	29.7	0.2	Streptococcus pneumoniae	19.0	Streptococcus pneumoniae	1.0	0.9166666666666666
+1	2	4	Viruses	687332	0.0	0.0	0.0	0.0	0	0.0	1.2	99.0	2.7	99.0	TTV-like mini virus	0.6	TTV-like mini virus	0.0	0.08333333333333334
+2	1	2	Viruses	-200687329	0.0	0.1	0.0	0.0	Torque teno virus	0.0	2.3	99.0	0.0	0.0	Torque teno virus	2.3	Torque teno virus	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0074_s74.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	1	2	Viruses	687331	0.0	100.0	0.2	20.4	Torque teno virus 24	0.1	3.0	100.0	18.1	100.0	Torque teno virus 12	1.7	Torque teno virus 12	0.5	0.8578199052132701
+1	2	4	Viruses	687332	0.0	100.0	0.0	11.5	TTV-like mini virus	0.0	1.2	99.0	3.0	99.0	TTV-like mini virus	0.4	TTV-like mini virus	0.0	0.14218009478672985
+2	0	0	Viruses	-200687329	1.5	34.8	0.0	0.0	Torque teno virus	1.4	133.4	99.0	0.0	0.0	Torque teno virus	77.8	Torque teno virus	0.0	0.0
+3	3	1	Viruses	10375	0.2	3.3	0.2	3.3	Human gammaherpesvirus 4	0.2	0.0	0.0	0.0	0.0	0	0.0	Human gammaherpesvirus 4	0.5	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0027_s27.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	724	970.7	29.3	978.4	12.5	Haemophilus influenzae	372.4	54.3	64.3	56.3	8.8	Haemophilus influenzae	20.3	Haemophilus influenzae	1.0	1.0
+1	1	11	Viruses	10294	0.0	0.3	0.0	-0.3	Human alphaherpesvirus 1	0.0	0.0	0.0	0.0	0.0	0	0.0	Human alphaherpesvirus 1	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0037_s37.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	1301	89.2	3.0	98.3	0.1	Streptococcus pneumoniae	57.2	7.0	9.4	7.5	-0.6	Streptococcus pneumoniae	4.0	Streptococcus pneumoniae	1.0	1.0
+1	1	5	Viruses	-200687329	0.0	0.0	0.0	0.0	0	0.0	0.5	22.8	0.0	0.0	Torque teno virus	0.4	0	0.0	0.0
+2	2	4	Viruses	10375	0.0	0.1	0.0	0.1	Human gammaherpesvirus 4	0.0	0.0	0.0	0.0	0.0	0	0.0	Human gammaherpesvirus 4	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0075_s75.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	1301	51.0	1.5	58.5	-0.3	Streptococcus pneumoniae	33.5	7.9	10.7	9.3	-0.6	Streptococcus pneumoniae	5.3	Streptococcus pneumoniae	1.0	1.0
+1	1	1	Viruses	-200687329	0.0	0.0	0.0	0.0	0	0.0	0.4	15.9	0.0	0.0	Torque teno virus	0.2	0	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0038_s38.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	1301	15.6	0.1	17.2	-0.7	Streptococcus pneumoniae	9.1	2.9	3.4	15.4	-0.3	Streptococcus pneumoniae	5.7	Streptococcus pneumoniae	1.0	1.0
+1	1	6	Viruses	-200687329	0.0	0.0	0.0	0.0	0	0.0	0.4	19.5	0.0	0.0	Torque teno virus	0.2	0	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0087_s87.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	1301	36.1	0.9	40.6	-0.5	Streptococcus pneumoniae	21.4	1.4	1.1	3.1	-0.8	Streptococcus pneumoniae	1.5	Streptococcus pneumoniae	1.0	0.96875
+1	2	4	Viruses	687331	0.0	0.0	0.0	0.0	0	0.0	0.1	100.0	0.1	100.0	Torque teno virus 3	0.1	Torque teno virus 3	0.0	0.03125
+2	1	2	Viruses	-200687329	0.0	0.0	0.0	0.0	0	0.0	0.2	8.1	0.0	0.0	Torque teno virus	0.1	0	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0050_s50.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	1301	57.3	1.7	63.3	-0.3	Streptococcus pneumoniae	32.3	16.4	23.0	43.8	0.7	Streptococcus pneumoniae	17.6	Streptococcus pneumoniae	1.0	0.9954545454545454
+1	1	66	Viruses	11007	0.0	0.0	0.0	0.0	0	0.0	0.2	2.0	0.2	0.3	Saccharomyces cerevisiae virus L-BC (La)	0.2	Saccharomyces cerevisiae virus L-BC (La)	0.0	0.004545454545454546
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0063_s63.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	482	4691.2	99.0	5258.1	99.0	Neisseria meningitidis	2517.8	3177.4	99.0	3424.4	99.0	Neisseria meningitidis	1483.8	Neisseria meningitidis	0.9997528235159906	0.9998540103360682
+1	3	9	Viruses	687331	0.0	100.0	0.0	3.2	Torque teno virus 8	0.0	0.1	100.0	0.3	100.0	Torque teno virus 24	0.5	Torque teno virus 24	0.0	8.759379835907617e-05
+2	2	1	Bacteria	1870884	0.9	1.2	0.9	1.2	Clostridioides difficile	14.5	0.2	0.2	0.2	0.2	Clostridioides difficile	8.4	Clostridioides difficile	0.0001711221812374035	5.839586557271746e-05
+3	1	2	Viruses	-200687329	0.2	100.0	0.0	0.0	Torque teno midi virus	1.1	10.6	100.0	0.0	0.0	Torque teno midi virus	48.1	Torque teno midi virus	0.0	0.0
+4	4	3	Viruses	687333	0.0	100.0	0.4	100.0	Torque teno midi virus 1	0.0	0.0	0.0	0.0	0.0	0	0.0	Torque teno midi virus 1	7.605430277217934e-05	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0028_s28.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	43	Viruses	10509	0.0	0.0	0.0	0.0	0	0.0	0.9	0.9	0.9	0.7	Human mastadenovirus C	0.6	Human mastadenovirus C	0.0	0.8181818181818181
+1	1	68	Viruses	11007	0.0	0.0	0.0	0.0	0	0.0	0.2	0.4	0.2	0.2	Saccharomyces cerevisiae virus L-A	0.2	Saccharomyces cerevisiae virus L-A	0.0	0.18181818181818182
+2	2	0	Viruses	10375	0.1	0.9	0.1	0.9	Human gammaherpesvirus 4	0.0	0.0	0.0	0.0	0.0	0	0.0	Human gammaherpesvirus 4	1.0	0.0
+3	3	6	Viruses	10814	0.0	100.0	0.0	100.0	Tomato leaf curl New Delhi virus	0.0	0.0	0.0	0.0	0.0	0	0.0	Tomato leaf curl New Delhi virus	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0039_s39.csv
+
+	level_0	index	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	category_name	genus_taxid	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	0.0	0.0	0.0	0.0	0	0.0	Viruses	687332	0.6	99.0	1.0	71.0	TTV-like mini virus	0.5	TTV-like mini virus		0.5555555555555556
+1	2	2	0.0	0.0	0.0	0.0	0	0.0	Viruses	687331	0.1	100.0	0.8	100.0	Torque teno virus 5	0.1	Torque teno virus 5		0.4444444444444445
+2	1	1	0.0	0.0	0.0	0.0	0	0.0	Viruses	-200687329	0.5	24.2	0.0	0.0	Torque teno virus	0.3	0		0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0004_s4.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	91	Viruses	10509	0.0	0.0	0.0	0.0	0	0.0	0.6	0.1	0.6	-0.1	Human mastadenovirus C	0.5	Human mastadenovirus C		0.8571428571428572
+1	1	188	Viruses	11051	0.0	0.0	0.0	0.0	0	0.0	0.1	100.0	0.1	100.0	Zika virus	0.1	Zika virus		0.14285714285714288
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0040_s40.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	3	Bacteria	361177	27.3	0.3	53.1	0.2	Altererythrobacter dongtanensis	21.9	2.4	1.4	4.2	1.1	Altererythrobacter dongtanensis	0.6	Altererythrobacter dongtanensis	0.23056882327399045	0.208955223880597
+1	12	25	Bacteria	44249	0.4	2.0	1.0	-0.9	Paenibacillus bovis	0.2	0.1	0.4	3.6	3.8	Paenibacillus beijingensis	0.1	Paenibacillus beijingensis	0.0043421623968736426	0.1791044776119403
+2	3	7	Bacteria	1041	16.0	0.2	28.6	0.2	Erythrobacter litoralis	10.0	1.0	2.0	2.4	1.9	Erythrobacter litoralis	0.2	Erythrobacter litoralis	0.12418584455058619	0.11940298507462685
+3	1	13	Bacteria	682522	5.4	0.3	5.4	0.3	Ilumatobacter coccineus	7.0	2.0	1.5	2.0	1.4	Ilumatobacter coccineus	0.7	Ilumatobacter coccineus	0.02344767694311767	0.09950248756218905
+4	2	10	Bacteria	337004	6.0	0.2	6.0	0.2	Microcella alkaliphila	1.3	1.7	1.0	1.7	1.0	Microcella alkaliphila	1.2	Microcella alkaliphila	0.026052974381241857	0.08457711442786069
+5	7	8	Bacteria	1111	8.3	0.1	18.5	0.1	Porphyrobacter sp. CACIAM 03H1	1.3	0.4	1.6	1.7	1.8	Porphyrobacter neustonensis	0.1	Porphyrobacter sp. CACIAM 03H1	0.08033000434216239	0.08457711442786069
+6	4	11	Bacteria	1742989	5.9	0.4	6.8	0.0	Glutamicibacter arilaitensis	3.6	0.9	2.8	1.3	2.0	Glutamicibacter arilaitensis	0.1	Glutamicibacter arilaitensis	0.02952670429874077	0.06467661691542288
+7	6	19	Bacteria	620	1.1	0.1	2.5	0.4	Shigella flexneri	8.2	0.7	0.1	1.2	0.0	Shigella flexneri	1.7	Shigella flexneri	0.010855405992184108	0.059701492537313425
+8	5	5	Bacteria	122277	25.0	1.4	27.5	0.9	Pectobacterium carotovorum	14.4	0.8	2.8	1.1	1.9	Pectobacterium carotovorum	0.4	Pectobacterium carotovorum	0.11940946591402518	0.05472636815920398
+9	9	15	Bacteria	59753	4.0	0.5	10.2	-0.1	Alcanivorax sp. N3-7A	0.4	0.1	0.2	0.4	0.3	Alcanivorax sp. N3-7A	0.1	Alcanivorax sp. N3-7A	0.044290056448111154	0.01990049751243781
+10	8	265	Viruses	11007	0.0	0.0	0.0	0.0	0	0.0	0.2	0.3	0.2	0.1	Saccharomyces cerevisiae virus L-A	0.2	Saccharomyces cerevisiae virus L-A	0.0	0.009950248756218905
+11	11	24	Bacteria	182269	0.7	0.3	1.3	0.3	Aurantimonas coralicida	0.8	0.1	0.7	0.1	-0.1	Aurantimonas manganoxydans	2.8	Aurantimonas coralicida	0.005644811115935736	0.004975124378109453
+12	10	21	Bacteria	1679002	0.9	0.8	0.9	0.6	Candidatus Methylopumilus turicensis	1.3	0.1	0.9	0.1	1.0	Candidatus Methylopumilus turicensis	0.1	Candidatus Methylopumilus turicensis	0.0039079461571862786	0.004975124378109453
+13	13	325	Viruses	11014	0.0	0.0	0.0	0.0	0	0.0	0.1	100.0	0.1	100.0	Persea americana chrysovirus	0.1	Persea americana chrysovirus	0.0	0.004975124378109453
+14	14	1	Viruses	1511911	67.8	1.7	68.5	1.8	Primate tetraparvovirus 1	24.8	0.0	0.0	0.0	0.0	0	0.0	Primate tetraparvovirus 1	0.29743812418584453	0.0
+15	15	34	Viruses	-200687329	0.1	2.4	0.0	0.0	Torque teno virus	0.1	0.0	0.0	0.0	0.0	0	0.0	Torque teno virus	0.0	0.0
+16	16	109	Viruses	687332	0.0	100.0	0.0	3.5	TTV-like mini virus	0.0	0.0	0.0	0.0	0.0	0	0.0	TTV-like mini virus	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0015_s15.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Viruses	1511911	1144.8	32.2	1168.3	32.7	Primate tetraparvovirus 1	517.8	136.6	80.4	139.6	82.2	Primate tetraparvovirus 1	69.8	Primate tetraparvovirus 1	0.7197954531452161	0.8455481526347669
+1	1	1	Bacteria	724	437.7	12.9	442.9	5.4	Haemophilus influenzae	149.9	9.8	1.9	14.7	1.5	[Haemophilus] ducreyi	0.5	Haemophilus influenzae	0.27287289754174116	0.08903694730466385
+2	2	4	Bacteria	195950	3.8	0.6	4.2	0.4	Tannerella sp. oral taxon HOT-286	4.4	4.2	34.9	4.9	27.6	Tannerella sp. oral taxon HOT-286	0.1	Tannerella sp. oral taxon HOT-286	0.002587640934015157	0.029678982434887955
+3	3	6	Bacteria	216851	3.0	0.9	3.1	0.9	Faecalibacterium prausnitzii	2.6	2.9	0.9	3.6	1.1	Faecalibacterium prausnitzii	3.0	Faecalibacterium prausnitzii	0.0019099254512969014	0.021804966686856456
+4	4	107	Viruses	10509	0.0	0.0	0.0	0.0	0	0.0	1.6	3.1	1.6	2.4	Human mastadenovirus C	1.1	Human mastadenovirus C	0.0	0.009691096305269537
+5	5	11	Bacteria	194	0.5	0.4	0.8	-0.3	Campylobacter gracilis	0.5	0.2	2.0	0.4	0.9	Campylobacter hominis	0.1	Campylobacter gracilis	0.0004928839874314585	0.002422774076317384
+6	6	159	Viruses	12176	0.0	0.0	0.0	0.0	0	0.0	0.2	100.0	0.2	3.1	Pepino mosaic virus	0.2	Pepino mosaic virus	0.0	0.001211387038158692
+7	7	189	Viruses	12195	0.0	0.0	0.0	0.0	0	0.0	0.1	2.7	0.1	2.7	Zucchini yellow mosaic virus	0.1	Zucchini yellow mosaic virus	0.0	0.000605693519079346
+8	8	5	Viruses	10358	3.6	40.6	3.8	12.1	Human betaherpesvirus 5	3.6	0.0	0.0	0.0	0.0	0	0.0	Human betaherpesvirus 5	0.0023411989402994274	0.0
+9	9	10	Viruses	-200010780	0.8	34.5	0.0	0.0	Human parvovirus 5	0.6	0.0	0.0	0.0	0.0	0	0.0	Human parvovirus 5	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0016_s16.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	1	Bacteria	1298	7.4	0.4	15.4	-0.2	Deinococcus radiodurans	3.0	0.3	0.7	3.9	-0.3	Deinococcus swuensis	0.1	Deinococcus radiodurans	0.9935483870967742	0.8666666666666667
+1	1	110	Viruses	12176	0.0	0.0	0.0	0.0	0	0.0	0.2	5.4	0.3	5.1	Clover yellow mosaic virus	0.2	Clover yellow mosaic virus	0.0	0.06666666666666667
+2	2	113	Viruses	12195	0.0	0.0	0.0	0.0	0	0.0	0.2	100.0	0.2	6.8	Leek yellow stripe virus	0.2	Leek yellow stripe virus	0.0	0.044444444444444446
+3	3	115	Viruses	11007	0.0	0.0	0.0	0.0	0	0.0	0.1	0.2	0.1	0.0	Saccharomyces cerevisiae virus L-A	0.1	Saccharomyces cerevisiae virus L-A	0.0	0.022222222222222223
+4	4	30	Viruses	40121	0.0	1.5	0.1	4.7	Primate erythroparvovirus 1	0.0	0.0	0.0	0.0	0.0	0	0.0	Primate erythroparvovirus 1	0.0064516129032258064	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0006_s6.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	11	21	Bacteria	1654	28.2	0.2	80.6	0.1	Actinomyces oris	15.4	0.1	0.1	11.7	1.0	Actinomyces odontolyticus	3.9	Actinomyces oris	0.12714939264868277	0.2549019607843137
+1	0	1	Bacteria	590	287.3	0.7	288.7	0.7	Salmonella enterica	186.5	9.0	0.2	9.2	0.2	Salmonella enterica	38.6	Salmonella enterica	0.45543461113740347	0.20043572984749455
+2	3	15	Bacteria	482	37.7	1.1	58.4	0.7	Neisseria sicca	3.5	1.0	0.3	7.1	0.4	Neisseria meningitidis	2.4	Neisseria sicca	0.09212809591418207	0.15468409586056645
+3	1	28	Bacteria	547	20.0	0.5	70.8	0.7	Enterobacter cloacae	13.1	5.0	1.2	5.4	0.6	Enterobacter cloacae	0.6	Enterobacter cloacae	0.11168954093705634	0.11764705882352942
+4	2	46	Bacteria	1696	9.8	0.1	18.5	0.0	Brevibacterium linens	5.3	1.7	0.7	3.0	0.2	Brevibacterium linens	0.1	Brevibacterium linens	0.029184413945417265	0.06535947712418301
+5	8	40	Bacteria	816	11.6	4.0	15.4	0.8	Bacteroides fragilis	8.0	0.3	0.7	1.9	-0.2	Bacteroides ovatus	0.2	Bacteroides fragilis	0.024294052689698697	0.04139433551198257
+6	10	38	Bacteria	1663	12.0	0.3	67.3	0.3	Arthrobacter saudimassiliensis	1.2	0.1	0.3	1.9	-0.3	Arthrobacter sp. LS16	0.1	Arthrobacter saudimassiliensis	0.10616816532576118	0.04139433551198257
+7	7	66	Bacteria	53460	7.0	0.1	7.9	0.0	Nakamurella multipartita	5.4	0.5	0.8	1.5	0.3	Nakamurella multipartita	0.1	Nakamurella multipartita	0.012462533522637643	0.032679738562091505
+8	4	135	Bacteria	398041	1.9	0.8	1.9	0.8	Flavisolibacter tropicus	10.4	0.7	0.7	1.5	1.9	Flavisolibacter tropicus	0.1	Flavisolibacter tropicus	0.0029973181889888	0.032679738562091505
+9	6	60	Bacteria	165696	7.4	0.1	20.6	0.2	Novosphingobium resinovorum	1.1	0.5	0.6	1.0	-0.3	Novosphingobium resinovorum	0.1	Novosphingobium resinovorum	0.032497239312194365	0.02178649237472767
+10	5	203	Bacteria	162289	0.4	2.3	0.4	1.6	Peptoniphilus sp. ING2-D1G	0.1	0.7	0.7	0.9	0.5	Peptoniphilus sp. ING2-D1G	0.2	Peptoniphilus sp. ING2-D1G	0.0006310143555765895	0.0196078431372549
+11	9	138	Bacteria	1485	1.7	5.1	3.3	0.6	Clostridium botulinum	1.0	0.2	0.8	0.5	-0.5	Clostridium perfringens	0.3	Clostridium botulinum	0.005205868433506863	0.010893246187363835
+12	12	423	Viruses	2003394	0.0	0.0	0.0	0.0	0	0.0	0.1	5.8	0.2	3.8	Oryza sativa alphaendornavirus	0.1	Oryza sativa alphaendornavirus	0.0	0.004357298474945534
+13	13	424	Viruses	1308858	0.0	0.0	0.0	0.0	0	0.0	0.1	5.8	0.1	5.8	Drosophila melanogaster sigmavirus	0.1	Drosophila melanogaster sigmavirus	0.0	0.002178649237472767
+14	14	280	Viruses	333922	0.1	0.2	0.1	-0.3	Betapapillomavirus 1	0.1	0.0	0.0	0.0	0.0	0	0.0	Betapapillomavirus 1	0.00015775358889414737	0.0
+15	15	333	Viruses	10358	0.0	2.2	0.0	-0.5	Cercopithecine betaherpesvirus 5	0.0	0.0	0.0	0.0	0.0	0	0.0	Cercopithecine betaherpesvirus 5	0.0	0.0
+16	16	343	Viruses	-200687329	0.0	0.4	0.0	0.0	Torque teno virus	0.0	0.0	0.0	0.0	0.0	0	0.0	Torque teno virus	0.0	0.0
+17	17	344	Viruses	-200564644	0.0	5.7	0.0	0.0	uncultured endornavirus	0.0	0.0	0.0	0.0	0.0	0	0.0	uncultured endornavirus	0.0	0.0
+18	18	345	Viruses	-200151340	0.0	0.1	0.0	0.0	Human papillomavirus	0.0	0.0	0.0	0.0	0.0	0	0.0	Human papillomavirus	0.0	0.0
+19	19	389	Viruses	1941236	0.0	100.0	0.0	100.0	Human associated gemykibivirus 1	0.0	0.0	0.0	0.0	0.0	0	0.0	Human associated gemykibivirus 1	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0007_s7.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	1	0	Bacteria	57493	2374.0	5.7	2688.9	5.3	Kocuria turfanensis	305.5	30.5	5.5	75.1	3.5	Kocuria turfanensis	0.7	Kocuria turfanensis	0.2606685150357717	0.21933411214953272
+1	0	1	Bacteria	1912216	1399.8	0.1	1407.7	0.1	Cutibacterium acnes	481.0	68.8	0.2	71.8	0.2	Cutibacterium acnes	67.2	Cutibacterium acnes	0.13646586656843163	0.209696261682243
+2	7	23	Bacteria	13687	35.9	0.3	219.3	0.4	Sphingomonas melonis	5.3	2.1	0.5	56.5	0.3	Sphingomonas koreensis	0.3	Sphingomonas melonis	0.02125947612307811	0.16501168224299068
+3	8	4	Bacteria	1763	276.7	0.3	3838.1	0.3	Mycobacterium sp. YC-RL4	8.1	1.9	0.9	34.2	0.2	Mycobacterium abscessus	37.5	Mycobacterium sp. YC-RL4	0.3720747620063205	0.09988317757009348
+4	11	9	Bacteria	1298	81.7	5.7	321.9	5.5	Deinococcus geothermalis	32.3	1.4	4.7	20.1	1.5	Deinococcus geothermalis	0.1	Deinococcus geothermalis	0.031205770013765812	0.05870327102803739
+5	2	2	Bacteria	38501	571.4	5.3	573.3	5.3	Blastococcus saxobsidens	172.5	10.8	0.2	15.1	0.2	Blastococcus saxobsidens	0.4	Blastococcus saxobsidens	0.055577098319018144	0.04410046728971963
+6	4	155	Bacteria	1678	2.6	1.4	9.1	-0.4	Bifidobacterium thermophilum	0.2	4.6	5.1	9.0	4.0	Bifidobacterium adolescentis	13.0	Bifidobacterium thermophilum	0.0008821761637939388	0.026285046728971966
+7	3	5	Bacteria	332248	225.6	5.7	225.7	5.7	Truepera radiovictrix	661.6	6.2	5.6	6.2	5.6	Truepera radiovictrix	0.9	Truepera radiovictrix	0.021879907710801318	0.01810747663551402
+8	6	141	Bacteria	45669	3.3	0.3	5.5	0.4	Salinicoccus halodurans	1.7	3.1	0.3	6.2	0.2	Salinicoccus halodurans	3.7	Salinicoccus halodurans	0.0005331833956996334	0.01810747663551402
+9	19	14	Bacteria	1386	56.5	0.7	78.2	0.6	Bacillus cereus	13.5	0.9	2.3	6.1	0.1	Bacillus cereus	1.9	Bacillus cereus	0.007580898462492969	0.017815420560747662
+10	45	111	Bacteria	1883	4.6	1.1	164.9	0.8	Streptomyces albus	1.2	0.3	1.0	5.8	-0.2	Streptomyces griseoplanus	0.1	Streptomyces albus	0.015985807627430827	0.0169392523364486
+11	5	3	Bacteria	1860	290.4	5.0	290.7	5.0	Geodermatophilus obscurus	64.9	4.1	0.2	4.2	0.2	Geodermatophilus obscurus	0.6	Geodermatophilus obscurus	0.028181166023615166	0.012266355140186917
+12	18	144	Bacteria	89966	3.2	0.2	14.3	0.2	Hymenobacter sedentarius	1.2	1.0	0.8	3.9	-0.2	Hymenobacter sp. PAMC 26628	0.1	Hymenobacter sedentarius	0.001386276828819047	0.011390186915887852
+13	15	54	Bacteria	85413	10.1	0.5	25.9	0.5	Bosea sp. RAC05	1.6	1.1	0.6	3.8	0.8	Bosea sp. RAC05	0.1	Bosea sp. RAC05	0.0025108090815673645	0.011098130841121495
+14	9	92	Bacteria	165695	6.0	0.6	37.0	0.2	Sphingobium cloacae	0.9	1.5	0.4	3.7	-0.1	Sphingobium cloacae	0.1	Sphingobium cloacae	0.0035868701165248065	0.010806074766355141
+15	13	173	Bacteria	107	1.7	3.0	5.1	1.2	Spirosoma radiotolerans	1.8	1.2	0.9	3.5	0.8	Spirosoma rigui	0.3	Spirosoma radiotolerans	0.0004944064214669327	0.010221962616822431
+16	12	28	Bacteria	68	25.1	0.1	50.0	0.0	Lysobacter enzymogenes	3.5	1.3	0.8	3.0	1.1	Lysobacter enzymogenes	0.2	Lysobacter enzymogenes	0.004847121779087576	0.008761682242990655
+17	37	26	Bacteria	374	26.0	0.4	152.2	0.3	Bradyrhizobium diazoefficiens	1.6	0.4	1.3	2.6	0.5	Bradyrhizobium sp. BTAi1	0.3	Bradyrhizobium diazoefficiens	0.01475463869554258	0.0075934579439252345
+18	10	29	Bacteria	361177	24.9	0.2	45.7	0.1	Altererythrobacter dongtanensis	17.0	1.4	0.6	2.3	0.3	Altererythrobacter dongtanensis	0.3	Altererythrobacter dongtanensis	0.004430269306086045	0.006717289719626168
+19	20	131	Bacteria	75	3.8	0.3	10.6	-0.1	Caulobacter sp. K31	1.5	0.8	1.6	1.7	0.3	Caulobacter vibrioides	0.5	Caulobacter sp. K31	0.0010275898171665662	0.004964953271028038
+20	23	42	Bacteria	106589	14.3	0.3	56.6	0.2	Cupriavidus gilardii	4.5	0.7	1.0	1.7	0.2	Cupriavidus gilardii	0.4	Cupriavidus gilardii	0.005486941853927137	0.004964953271028038
+21	56	134	Bacteria	2034	3.5	0.9	9.2	0.3	Curtobacterium sp. BH-2-1-1	0.2	0.1	0.4	1.6	2.2	Curtobacterium sp. MR_MD2014	0.2	Curtobacterium sp. BH-2-1-1	0.000891870407352114	0.004672897196261683
+22	35	197	Bacteria	2747	1.0	0.2	1.6	0.0	Carnobacterium inhibens	0.8	0.4	0.9	1.5	0.2	Carnobacterium maltaromaticum	0.8	Carnobacterium inhibens	0.00015510789693080245	0.004380841121495328
+23	16	21	Bacteria	33057	39.4	0.7	60.3	0.6	Thauera humireducens	6.2	1.0	2.6	1.4	1.0	Thauera humireducens	0.1	Thauera humireducens	0.005845628865579617	0.0040887850467289715
+24	27	93	Bacteria	1865	6.0	1.2	23.6	0.5	Actinoplanes sp. SE50/110	0.6	0.6	0.8	1.4	0.2	Actinoplanes friuliensis	0.1	Actinoplanes sp. SE50/110	0.002287841479729336	0.0040887850467289715
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0008_s8.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	1	Bacteria	561	85.4	1.5	88.3	1.3	Escherichia coli	216.1	81.4	0.4	105.9	0.5	Escherichia coli	176.6	Escherichia coli	0.27396835246664597	0.7510638297872341
+1	1	0	Bacteria	286	112.4	0.1	164.8	-0.3	Pseudomonas aeruginosa	58.0	4.5	1.0	34.3	0.1	Pseudomonas putida	1.9	Pseudomonas aeruginosa	0.511324852621781	0.24326241134751772
+2	2	3	Bacteria	33042	0.3	0.4	0.3	0.2	Coprococcus catus	0.2	0.1	0.3	0.3	0.7	Coprococcus catus	0.1	Coprococcus catus	0.0009308098045299409	0.002127659574468085
+3	3	8	Bacteria	400634	0.1	0.1	0.1	-0.8	Lysinibacillus saudimassiliensis	0.1	0.1	0.1	0.3	-0.2	Lysinibacillus fusiformis	0.1	Lysinibacillus fusiformis	0.0003102699348433137	0.002127659574468085
+4	4	149	Viruses	12176	0.0	0.0	0.0	0.0	0	0.0	0.1	5.8	0.2	4.7	White clover mosaic virus	0.1	White clover mosaic virus	0.0	0.0014184397163120568
+5	5	2	Viruses	153135	58.1	5.2	68.8	5.3	Murine leukemia virus	1.6	0.0	0.0	0.0	0.0	0	0.0	Murine leukemia virus	0.2134657151721998	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0009_s9.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	9	Bacteria	1279	8.3	1.4	31.9	-0.6	Staphylococcus saprophyticus	3.2	39.3	5.8	98.4	1.3	Staphylococcus saprophyticus	5.6	Staphylococcus saprophyticus	0.03995490981963928	0.2998171846435101
+1	1	0	Bacteria	1716	86.2	3.5	321.1	-0.0	Corynebacterium timonense	73.5	24.2	2.7	91.6	1.1	Corynebacterium ureicelerivorans	0.4	Corynebacterium timonense	0.40217935871743493	0.2790981109079829
+2	2	15	Bacteria	914	0.9	1.3	2.0	-0.1	Nitrosomonas sp. Is79A3	0.6	21.8	5.8	42.9	5.8	Nitrosomonas sp. Is79A3	0.2	Nitrosomonas sp. Is79A3	0.00250501002004008	0.13071297989031078
+3	5	6	Bacteria	1301	24.4	0.4	60.8	-0.3	Streptococcus pneumoniae	15.0	3.8	0.7	34.0	0.3	Streptococcus mitis	0.5	Streptococcus pneumoniae	0.07615230460921843	0.1035953686776356
+4	3	4	Bacteria	724	38.8	0.7	41.7	0.1	Haemophilus influenzae	12.9	13.6	3.1	17.0	1.9	[Haemophilus] ducreyi	1.7	Haemophilus influenzae	0.052229458917835675	0.0517976843388178
+5	4	5	Bacteria	1350	37.8	2.9	44.2	2.5	Enterococcus faecium	18.5	5.4	4.6	13.0	0.5	Enterococcus faecium	2.9	Enterococcus faecium	0.05536072144288578	0.039609993906154786
+6	6	3	Bacteria	475	43.9	5.2	72.2	-0.5	Moraxella catarrhalis	27.8	3.6	4.7	8.5	0.3	Moraxella catarrhalis	0.5	Moraxella catarrhalis	0.0904308617234469	0.0258988421694089
+7	7	12	Bacteria	1578	2.0	0.1	5.3	-0.8	Lactobacillus rhamnosus	0.8	2.2	0.4	7.6	-0.1	Lactobacillus crispatus	4.6	Lactobacillus crispatus	0.006638276553106212	0.02315661182205972
+8	9	10	Bacteria	816	6.6	1.9	11.5	0.4	Bacteroides fragilis	3.4	1.0	4.5	5.4	1.7	Bacteroides fragilis	19.8	Bacteroides fragilis	0.014403807615230461	0.016453382084095067
+9	11	1	Bacteria	1678	82.0	3.7	170.6	3.8	Bifidobacterium longum	53.2	0.6	2.2	2.7	0.3	Bifidobacterium longum	4.3	Bifidobacterium longum	0.21367735470941884	0.008226691042047533
+10	10	11	Bacteria	838	2.8	1.2	6.5	-0.4	Prevotella dentalis	0.3	0.9	1.4	2.5	0.3	Prevotella melaninogenica	0.1	Prevotella dentalis	0.00814128256513026	0.007617306520414382
+11	8	99	Viruses	11007	0.0	0.0	0.0	0.0	0	0.0	1.3	4.8	1.5	4.4	Saccharomyces cerevisiae virus L-A	1.1	Saccharomyces cerevisiae virus L-A	0.0	0.004570383912248629
+12	12	28	Viruses	10509	0.2	0.6	0.2	0.3	Human mastadenovirus C	0.1	0.6	0.2	1.1	1.2	Human mastadenovirus C	0.3	Human mastadenovirus C	0.00025050100200400805	0.003351614868982328
+13	14	7	Bacteria	72763	17.5	1.1	25.6	-0.2	Tessaracoccus flavescens	13.7	0.3	0.5	1.0	-0.2	Tessaracoccus flavus	0.1	Tessaracoccus flavescens	0.03206412825651303	0.0030469226081657527
+14	13	16	Bacteria	572511	0.8	1.0	1.5	0.9	[Ruminococcus] torques	0.3	0.4	0.2	0.7	-0.1	Blautia obeum	1.5	[Ruminococcus] torques	0.0018787575150300603	0.0021328458257160268
+15	15	126	Viruses	325455	0.0	0.0	0.0	0.0	0	0.0	0.3	5.8	0.3	5.8	Gammapapillomavirus 22	0.1	Gammapapillomavirus 22	0.0	0.0009140767824497258
+16	16	17	Viruses	40272	0.8	3.2	3.3	3.2	Human herpesvirus 6	0.4	0.0	0.0	0.0	0.0	0	0.0	Human herpesvirus 6	0.004133266533066132	0.0
+17	17	62	Viruses	-200151340	0.0	5.7	0.0	0.0	Human papillomavirus type 174	0.0	0.0	0.0	0.0	0.0	0	0.0	Human papillomavirus type 174	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0018_s18.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	590	1671.5	5.3	1680.2	5.3	Salmonella enterica	1090.8	12.6	1.7	12.7	1.8	Salmonella enterica	44.8	Salmonella enterica	0.8754689453939142	0.4349315068493151
+1	1	2	Bacteria	724	182.3	5.1	187.5	2.0	Haemophilus influenzae	63.6	2.2	0.1	4.1	-0.4	Haemophilus parainfluenzae	0.4	Haemophilus influenzae	0.09769695706544393	0.1404109589041096
+2	4	19	Bacteria	1578	2.3	0.1	8.0	-0.6	Lactobacillus rhamnosus	0.8	0.5	1.3	3.7	-0.4	Lactobacillus sakei	0.5	Lactobacillus rhamnosus	0.004168403501458941	0.12671232876712332
+3	3	12	Bacteria	816	5.7	1.6	7.9	-0.1	Bacteroides fragilis	3.9	0.5	1.4	2.4	0.0	Bacteroides vulgatus	0.5	Bacteroides fragilis	0.004116298457690705	0.08219178082191782
+4	6	8	Bacteria	838	8.7	1.2	10.8	-0.2	Prevotella intermedia	4.0	0.4	0.1	2.3	0.2	Prevotella intermedia	0.1	Prevotella intermedia	0.005627344726969571	0.07876712328767124
+5	2	181	Viruses	10509	0.0	0.0	0.0	0.0	0	0.0	0.9	1.0	1.0	0.8	Human mastadenovirus C	0.7	Human mastadenovirus C	0.0	0.03424657534246576
+6	8	11	Bacteria	323449	6.3	0.3	15.4	0.2	Pontibacter actiniarum	5.1	0.4	0.6	0.9	0.0	Pontibacter korlensis	0.6	Pontibacter actiniarum	0.008024176740308461	0.030821917808219183
+7	7	10	Bacteria	54298	6.5	0.4	6.7	0.4	Chroococcidiopsis thermalis	4.3	0.4	0.1	0.8	-0.1	Chroococcidiopsis thermalis	0.5	Chroococcidiopsis thermalis	0.0034910379324718634	0.027397260273972608
+8	5	160	Viruses	333922	0.0	2.1	0.1	-0.4	Betapapillomavirus 3	0.0	0.5	5.8	0.5	4.9	Betapapillomavirus 4	0.5	Betapapillomavirus 4	5.2105043768236766e-05	0.01712328767123288
+9	9	189	Viruses	11007	0.0	0.0	0.0	0.0	0	0.0	0.4	3.7	0.5	1.1	Saccharomyces cerevisiae virus L-BC (La)	0.5	Saccharomyces cerevisiae virus L-BC (La)	0.0	0.01712328767123288
+10	10	57	Bacteria	780	0.1	0.3	0.1	0.2	Rickettsia felis	0.1	0.2	3.9	0.2	1.4	Rickettsia felis	0.4	Rickettsia felis	5.2105043768236766e-05	0.006849315068493152
+11	11	20	Bacteria	543311	2.2	1.4	2.2	1.4	Parvimonas micra	0.9	0.1	0.9	0.1	0.9	Parvimonas micra	0.2	Parvimonas micra	0.0011463109629012088	0.003424657534246576
+12	12	80	Viruses	10358	0.1	0.1	0.2	-0.1	Human betaherpesvirus 5	0.1	0.0	0.0	0.0	0.0	0	0.0	Human betaherpesvirus 5	0.00010421008753647353	0.0
+13	13	94	Viruses	40272	0.1	5.7	0.1	-0.3	Human betaherpesvirus 7	0.1	0.0	0.0	0.0	0.0	0	0.0	Human betaherpesvirus 7	5.2105043768236766e-05	0.0
+14	14	136	Viruses	-200151340	0.0	0.1	0.0	0.0	Human papillomavirus	0.0	0.0	0.0	0.0	0.0	0	0.0	Human papillomavirus	0.0	0.0
+15	15	141	Viruses	1542744	0.0	5.6	0.0	5.6	Gemycircularvirus HV-GcV1	0.0	0.0	0.0	0.0	0.0	0	0.0	Gemycircularvirus HV-GcV1	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0019_s19.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	7	13	Bacteria	1663	9.0	0.1	57.9	0.1	Arthrobacter saudimassiliensis	0.2	1.0	4.7	126.7	4.6	Arthrobacter sp. Hiyo4	0.4	Arthrobacter sp. Hiyo4	0.07718970803892815	0.6804511278195486
+1	1	11	Bacteria	33882	9.6	0.1	90.0	-0.2	Microbacterium chocolatum	1.9	2.9	3.2	23.1	0.1	Microbacterium aurum	0.4	Microbacterium chocolatum	0.11998400213304894	0.1240601503759398
+2	2	0	Bacteria	149698	176.1	2.9	331.3	3.1	Massilia sp. WG5	0.7	2.5	2.0	14.3	0.8	Massilia sp. NR 4-1	0.2	Massilia sp. WG5	0.44167444340754575	0.07679914070891512
+3	0	1	Bacteria	150247	77.2	1.3	113.4	0.5	Anoxybacillus flavithermus	23.0	4.6	3.4	8.6	3.4	Anoxybacillus flavithermus	0.8	Anoxybacillus flavithermus	0.15117984268764167	0.04618689581095594
+4	4	59	Bacteria	1234	0.7	0.4	1.5	-0.1	Nitrospira moscoviensis	0.9	1.5	0.1	2.9	-0.1	Nitrospira moscoviensis	0.8	Nitrospira moscoviensis	0.001999733368884149	0.01557465091299677
+5	8	9	Bacteria	1041	13.6	0.1	27.0	0.2	Erythrobacter litoralis	8.3	0.8	1.5	2.5	2.0	Erythrobacter litoralis	0.2	Erythrobacter litoralis	0.03599520063991468	0.013426423200859286
+6	3	7	Bacteria	528	23.2	0.5	24.5	0.4	Ochrobactrum anthropi	6.0	1.7	3.1	1.7	1.3	Ochrobactrum anthropi	0.6	Ochrobactrum anthropi	0.032662311691774436	0.009129967776584313
+7	6	2	Bacteria	83654	74.2	4.0	74.3	4.0	Leclercia adecarboxylata	40.2	1.3	3.4	1.3	3.4	Leclercia adecarboxylata	0.8	Leclercia adecarboxylata	0.09905345953872818	0.006981740064446829
+8	5	46	Bacteria	1742992	1.3	0.1	1.3	0.0	Paenarthrobacter aurescens	0.2	1.3	5.7	1.3	5.7	Paenarthrobacter aurescens	1.3	Paenarthrobacter aurescens	0.0017331022530329293	0.006981740064446829
+9	9	79	Bacteria	1936111	0.3	0.9	0.3	0.9	Fuerstia marisgermanicae	1.3	0.8	1.5	0.8	1.5	Fuerstia marisgermanicae	0.8	Fuerstia marisgermanicae	0.0003999466737768298	0.004296455424274971
+10	10	25	Bacteria	911	4.5	0.8	8.1	0.6	Nitrobacter winogradskyi	0.8	0.8	1.9	0.8	1.3	Nitrobacter hamburgensis	0.8	Nitrobacter winogradskyi	0.010798560191974404	0.004296455424274971
+11	11	21	Bacteria	1295327	5.6	0.4	9.1	0.3	Croceicoccus marinus	2.2	0.6	1.1	0.8	0.6	Croceicoccus marinus	0.4	Croceicoccus marinus	0.012131715771230504	0.004296455424274971
+12	12	15	Bacteria	1158	8.3	0.2	9.3	0.2	Oscillatoria acuminata	9.2	0.4	1.5	0.8	1.3	Oscillatoria acuminata	0.4	Oscillatoria acuminata	0.012398346887081725	0.004296455424274971
+13	13	292	Viruses	333750	0.0	0.0	0.0	0.0	0	0.0	0.4	5.8	0.4	5.8	Alphapapillomavirus 4	0.2	Alphapapillomavirus 4	0.0	0.0021482277121374856
+14	14	44	Bacteria	182269	1.3	1.2	2.0	0.9	Aurantimonas coralicida	2.3	0.2	3.2	0.2	-0.1	Aurantimonas manganoxydans	2.1	Aurantimonas coralicida	0.002666311158512199	0.0010741138560687428
+15	15	149	Viruses	558016	0.1	4.9	0.1	0.7	Hyphantria cunea nucleopolyhedrovirus	0.1	0.0	0.0	0.0	0.0	0	0.0	Hyphantria cunea nucleopolyhedrovirus	0.00013331555792560993	0.0
+16	16	166	Viruses	10358	0.0	1.5	0.0	-0.5	Cercopithecine betaherpesvirus 5	0.0	0.0	0.0	0.0	0.0	0	0.0	Cercopithecine betaherpesvirus 5	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0020_s20.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	1	Bacteria	41275	443.8	5.5	712.7	4.0	Brevundimonas diminuta	194.9	46.6	5.8	324.1	5.8	Brevundimonas naejangsanensis	1.5	Brevundimonas diminuta	0.1981759030114284	0.34058427910886935
+1	1	42	Bacteria	46913	9.3	0.3	17.4	0.2	Devosia sp. H5989	1.1	43.8	5.8	207.0	5.8	Devosia sp. H5989	0.1	Devosia sp. H5989	0.004838306036760002	0.2175283732660782
+2	4	16	Bacteria	379	31.8	2.8	48.4	0.6	Rhizobium sp. NT-26	6.2	18.9	5.8	101.8	5.7	Rhizobium sp. NT-26	20.8	Rhizobium sp. NT-26	0.013458276562022075	0.1069777217318201
+3	2	76	Bacteria	517	2.0	0.1	17.1	-0.1	Bordetella petrii	1.6	26.9	5.8	53.3	5.7	Bordetella sp. N	0.1	Bordetella sp. N	0.0047548869671606925	0.056010928961748634
+4	6	59	Bacteria	28105	4.5	0.6	13.3	0.1	Sinorhizobium sp. RAC02	2.6	8.1	5.8	37.6	5.7	Sinorhizobium sp. RAC02	2.0	Sinorhizobium sp. RAC02	0.0036982454189027607	0.03951240016813788
+5	3	25	Bacteria	323620	17.4	1.2	17.4	1.2	Shinella sp. HZN7	8.4	23.5	5.8	32.6	5.8	Shinella sp. HZN7	1.0	Shinella sp. HZN7	0.004838306036760002	0.03425809163514082
+6	9	0	Bacteria	286	1139.1	5.0	1379.4	0.1	Pseudomonas stutzeri	281.1	7.5	2.2	27.6	-0.1	Pseudomonas stutzeri	2.1	Pseudomonas stutzeri	0.38356088201762917	0.02900378310214376
+7	14	5	Bacteria	1716	93.8	2.3	633.4	0.7	Corynebacterium jeikeium	48.0	2.3	0.6	24.3	-0.3	Corynebacterium jeikeium	0.8	Corynebacterium jeikeium	0.17612546228067733	0.025535939470365702
+8	7	40	Bacteria	32	10.8	2.5	16.2	0.3	Myxococcus xanthus	5.2	7.6	5.6	21.5	5.8	Myxococcus fulvus	0.2	Myxococcus fulvus	0.004504629758362761	0.02259352669188735
+9	5	78	Bacteria	305976	1.9	1.6	1.9	1.7	Pusillimonas sp. T7-7	9.4	15.1	5.8	19.1	5.8	Pusillimonas sp. T7-7	0.2	Pusillimonas sp. T7-7	0.0005283207741289658	0.020071458596048763
+10	30	58	Bacteria	165695	4.7	0.1	25.9	-0.2	Sphingobium sp. RAC03	0.3	0.5	1.2	17.8	2.0	Sphingobium chlorophenolicum	0.3	Sphingobium sp. RAC03	0.007201846342073796	0.018705338377469526
+11	15	9	Bacteria	1301	61.7	5.3	181.3	0.9	Streptococcus gordonii	14.3	1.6	3.4	14.1	-0.4	Streptococcus gordonii	0.3	Streptococcus gordonii	0.050412924394516584	0.014817150063051704
+12	8	43	Bacteria	338	9.0	0.2	35.3	0.0	Xanthomonas translucens	1.5	7.6	5.7	14.0	5.0	Xanthomonas fragariae	4.7	Xanthomonas translucens	0.00981564385618552	0.014712063892391762
+13	33	113	Bacteria	182269	0.6	0.2	0.9	-0.0	Aurantimonas coralicida	1.2	0.3	4.7	11.1	5.8	Aurantimonas manganoxydans	42.9	Aurantimonas manganoxydans	0.0002502572087979312	0.011664564943253469
+14	17	7	Bacteria	1654	62.9	0.8	217.0	1.0	Actinomyces oris	26.5	1.4	1.3	5.9	0.1	Actinomyces naeslundii	0.6	Actinomyces oris	0.060339793676834515	0.006200084068936529
+15	12	71	Bacteria	958	2.3	0.1	2.5	0.2	Bdellovibrio bacteriovorus	7.5	3.0	5.0	5.6	4.9	Bdellovibrio bacteriovorus	0.6	Bdellovibrio bacteriovorus	0.0006951589133275866	0.0058848255569567045
+16	28	13	Bacteria	12916	40.3	3.7	128.7	0.6	Acidovorax ebreus	10.1	0.6	2.6	5.3	0.4	Acidovorax sp. JS42	0.4	Acidovorax ebreus	0.035786780858104154	0.005569567044976882
+17	10	11	Bacteria	53457	56.0	0.1	56.2	0.1	Janibacter indicus	19.5	3.9	1.1	5.1	1.3	Janibacter indicus	0.5	Janibacter indicus	0.01562717237160415	0.005359394703656999
+18	38	19	Bacteria	528	23.3	0.5	25.3	0.5	Ochrobactrum anthropi	3.5	0.1	4.0	4.8	4.9	Ochrobactrum intermedium	0.1	Ochrobactrum anthropi	0.0070350082028751764	0.005044136191677175
+19	11	80	Bacteria	1649482	1.8	2.6	1.8	2.6	Pseudopedobacter saltans	3.3	3.8	5.4	4.2	5.5	Pseudopedobacter saltans	0.4	Pseudopedobacter saltans	0.0005005144175958624	0.004413619167717529
+20	22	81	Bacteria	237	1.8	1.1	5.7	0.3	Flavobacterium psychrophilum	1.9	0.8	4.2	3.8	2.0	Flavobacterium columnare	0.2	Flavobacterium psychrophilum	0.0015849623223868974	0.003993274485077764
+21	19	82	Bacteria	293088	1.8	0.1	4.4	0.1	Martelella mediterranea	0.7	1.3	5.3	3.2	4.0	Martelella sp. AD-3	0.1	Martelella mediterranea	0.0012234796874565524	0.0033627574611181173
+22	24	21	Bacteria	1060	21.5	0.2	32.3	0.1	Rhodobacter sphaeroides	3.6	0.8	0.6	2.9	0.9	Rhodobacter sphaeroides	0.1	Rhodobacter sphaeroides	0.008981453160192417	0.0030474989491382936
+23	26	48	Bacteria	416916	6.4	1.0	8.0	0.7	Aggregatibacter aphrophilus	1.9	0.7	0.4	2.5	2.3	Aggregatibacter aphrophilus	0.2	Aggregatibacter aphrophilus	0.002224508522648277	0.002627154266498529
+24	13	33	Bacteria	1912217	13.8	0.9	13.8	0.9	Pseudopropionibacterium propionicum	13.2	2.4	4.5	2.4	4.4	Pseudopropionibacterium propionicum	0.1	Pseudopropionibacterium propionicum	0.003837277201568278	0.0025220680958385876
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0021_s21.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	2	3	Bacteria	1279	104.8	1.3	199.2	0.3	Staphylococcus epidermidis	24.7	33.0	5.3	267.8	4.9	Staphylococcus epidermidis	11.0	Staphylococcus epidermidis	0.05112805112805111	0.32911392405063283
+1	0	1	Bacteria	1269	215.6	0.3	229.7	0.3	Micrococcus luteus	80.0	63.9	4.1	168.5	5.1	Micrococcus luteus	1.4	Micrococcus luteus	0.05895639228972561	0.20707877596165655
+2	8	6	Bacteria	1301	17.3	0.1	104.9	0.1	Streptococcus mitis	5.4	4.4	0.9	101.9	2.8	Streptococcus mitis	0.4	Streptococcus mitis	0.026924360257693587	0.1252304289050018
+3	3	9	Bacteria	1350	4.1	1.3	8.8	-0.1	Enterococcus cecorum	3.7	22.4	5.8	86.2	5.3	Enterococcus cecorum	3.2	Enterococcus cecorum	0.0022586689253355917	0.10593584859284745
+4	1	0	Bacteria	1912216	3010.2	1.1	3040.9	1.1	Cutibacterium acnes	992.8	61.4	0.1	68.7	0.1	Cutibacterium acnes	121.5	Cutibacterium acnes	0.7804984471651137	0.0844291507926754
+5	5	11	Bacteria	1578	2.4	2.9	12.1	-0.2	Lactobacillus fermentum	1.8	8.2	3.4	59.9	3.9	Lactobacillus crispatus	37.0	Lactobacillus crispatus	0.0031056697723364384	0.07361435418458889
+6	6	27	Bacteria	1470540	0.3	0.7	0.4	0.4	Jeotgalibaca sp. PTS2502	0.2	5.9	5.3	14.6	5.6	Jeotgalibaca sp. PTS2502	0.1	Jeotgalibaca sp. PTS2502	0.00010266676933343598	0.017942730736143536
+7	4	10	Bacteria	42255	4.0	0.7	6.1	0.6	Rubrobacter xylanophilus	11.9	9.2	5.8	13.8	5.7	Rubrobacter radiotolerans	0.3	Rubrobacter radiotolerans	0.0015656682323348986	0.016959567408135673
+8	7	2	Bacteria	150247	130.0	2.8	186.8	1.5	Anoxybacillus flavithermus	56.5	4.7	3.4	7.9	3.0	Anoxybacillus flavithermus	2.4	Anoxybacillus flavithermus	0.0479453812787146	0.009708737864077667
+9	15	68	Bacteria	1485	0.1	0.1	0.3	-0.7	Clostridium kluyveri	0.1	0.3	1.7	5.1	2.4	Clostridium perfringens	0.3	Clostridium perfringens	7.700007700007698e-05	0.006267666216050139
+10	16	31	Bacteria	1508657	0.2	1.0	0.4	-0.2	[Eubacterium] siraeum	0.1	0.2	3.6	3.7	5.6	[Clostridium] cellulosi	1.5	[Clostridium] cellulosi	0.00010266676933343598	0.0045471303920363755
+11	11	7	Bacteria	1678	12.7	0.1	21.8	-0.1	Bifidobacterium longum	8.2	1.1	4.6	3.3	0.7	Bifidobacterium thermophilum	0.1	Bifidobacterium longum	0.005595338928672261	0.0040555487280324425
+12	14	13	Bacteria	1637	1.8	1.1	1.9	1.1	Listeria monocytogenes	0.6	0.4	5.8	3.2	5.3	Listeria grayi	17.1	Listeria grayi	0.0004876671543338209	0.00393265331203146
+13	9	18	Bacteria	34084	1.1	0.1	1.1	0.1	Riemerella anatipestifer	0.6	2.6	4.7	2.6	4.7	Riemerella anatipestifer	0.9	Riemerella anatipestifer	0.00028233361566694896	0.0031952808160255614
+14	20	52	Bacteria	1329200	0.1	0.4	0.3	0.5	Fictibacillus arsenicus	1.0	0.1	1.0	1.8	5.7	Fictibacillus arsenicus	0.1	Fictibacillus arsenicus	7.700007700007698e-05	0.002212117488017696
+15	12	4	Bacteria	270	31.0	4.3	70.1	4.1	Thermus thermophilus	16.4	0.5	4.8	1.8	4.0	Thermus thermophilus	0.1	Thermus thermophilus	0.017992351325684653	0.002212117488017696
+16	10	8	Bacteria	1912215	9.3	0.3	9.3	0.3	Acidipropionibacterium acidipropionici	1.2	1.7	1.3	1.7	1.3	Acidipropionibacterium acidipropionici	0.1	Acidipropionibacterium acidipropionici	0.0023870023870023868	0.002089222072016713
+17	13	171	Viruses	11007	0.0	0.0	0.0	0.0	0	0.0	0.5	1.6	0.7	1.8	Saccharomyces cerevisiae virus L-A	0.3	Saccharomyces cerevisiae virus L-A	0.0	0.0008602679120068818
+18	17	67	Viruses	333922	0.1	0.1	0.1	-0.4	Betapapillomavirus 1	0.2	0.2	5.8	0.2	1.6	Betapapillomavirus 5	0.2	Betapapillomavirus 5	2.5666692333358996e-05	0.00024579083200196625
+19	18	190	Viruses	12234	0.0	0.0	0.0	0.0	0	0.0	0.2	0.8	0.2	0.7	Tomato mosaic virus	0.2	Tomato mosaic virus	0.0	0.00024579083200196625
+20	19	33	Bacteria	780	0.2	4.9	0.4	1.6	Rickettsia bellii	0.1	0.1	5.8	0.1	0.7	Rickettsia typhi	0.6	Rickettsia bellii	0.00010266676933343598	0.00012289541600098313
+21	21	25	Viruses	40272	0.3	1.0	1.3	1.0	Human herpesvirus 6	0.2	0.0	0.0	0.0	0.0	0	0.0	Human herpesvirus 6	0.00033366700033366696	0.0
+22	22	55	Viruses	325455	0.1	5.7	0.2	3.5	Gammapapillomavirus 13	0.1	0.0	0.0	0.0	0.0	0	0.0	Gammapapillomavirus 13	5.133338466671799e-05	0.0
+23	23	62	Viruses	-200151340	0.1	0.8	0.0	0.0	Human papillomavirus	0.1	0.0	0.0	0.0	0.0	0	0.0	Human papillomavirus	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0030_s30.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	10	Bacteria	407	31.1	0.1	90.5	0.1	Methylobacterium populi	15.2	4.2	0.5	66.0	0.1	Methylobacterium aquaticum	0.4	Methylobacterium populi	0.6468906361686919	0.9606986899563318
+1	1	12	Bacteria	361177	21.9	0.1	37.4	-0.0	Altererythrobacter dongtanensis	18.6	1.1	0.3	1.2	-0.2	Altererythrobacter dongtanensis	0.3	Altererythrobacter dongtanensis	0.2673338098641887	0.017467248908296942
+2	3	33	Bacteria	323449	6.0	0.1	11.3	-0.1	Pontibacter akesuensis	9.4	0.4	0.2	0.9	0.0	Pontibacter akesuensis	0.5	Pontibacter akesuensis	0.08077197998570408	0.013100436681222707
+3	2	191	Bacteria	2147	0.1	0.2	0.1	0.0	Acholeplasma brassicae	0.1	0.5	0.2	0.5	-0.1	Acholeplasma laidlawii	0.3	Acholeplasma laidlawii	0.0007147962830593281	0.00727802037845706
+4	4	273	Viruses	10912	0.0	0.0	0.0	0.0	0	0.0	0.1	2.0	0.1	2.0	Rotavirus A	0.1	Rotavirus A	0.0	0.001455604075691412
+5	5	86	Viruses	333922	0.4	0.4	0.4	0.1	Betapapillomavirus 2	0.4	0.0	0.0	0.0	0.0	0	0.0	Betapapillomavirus 2	0.0028591851322373124	0.0
+6	6	161	Viruses	10509	0.1	0.7	0.1	-0.1	Human mastadenovirus F	0.1	0.0	0.0	0.0	0.0	0	0.0	Human mastadenovirus F	0.0007147962830593281	0.0
+7	7	202	Viruses	558016	0.1	2.6	0.1	0.8	Spodoptera litura nucleopolyhedrovirus	0.1	0.0	0.0	0.0	0.0	0	0.0	Spodoptera litura nucleopolyhedrovirus	0.0007147962830593281	0.0
+8	8	221	Viruses	40121	0.0	1.2	0.0	1.0	Primate erythroparvovirus 1	0.0	0.0	0.0	0.0	0.0	0	0.0	Primate erythroparvovirus 1	0.0	0.0
+9	9	229	Viruses	-200151340	0.0	0.2	0.0	0.0	Human papillomavirus	0.0	0.0	0.0	0.0	0.0	0	0.0	Human papillomavirus	0.0	0.0
+10	10	258	Viruses	1891714	0.0	1.1	0.0	0.6	Human polyomavirus 4	0.0	0.0	0.0	0.0	0.0	0	0.0	Human polyomavirus 4	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0031_s31.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	57	Bacteria	1847	8.0	0.3	33.0	0.3	Pseudonocardia dioxanivorans	1.3	173.5	5.8	462.6	5.5	Pseudonocardia dioxanivorans	0.2	Pseudonocardia dioxanivorans	0.040927694406548434	0.600779220779221
+1	2	28	Bacteria	13687	17.3	0.5	172.4	0.1	Sphingomonas koreensis	6.6	6.9	3.8	164.2	2.8	Sphingomonas sp. MM-1	0.1	Sphingomonas koreensis	0.2138161974451197	0.2132467532467533
+2	3	10	Bacteria	407	36.9	0.2	155.3	0.7	Methylobacterium populi	10.3	5.3	0.8	55.0	0.0	Methylobacterium aquaticum	1.3	Methylobacterium populi	0.1926082103435446	0.07142857142857145
+3	12	50	Bacteria	1883	9.3	3.8	113.7	0.2	Streptomyces sp. 4F	0.2	0.5	4.1	21.8	0.3	Streptomyces laurentii	1.8	Streptomyces sp. 4F	0.14101451072801688	0.028311688311688323
+4	1	12	Bacteria	2044	36.3	0.4	36.4	0.4	Pimelobacter simplex	5.9	17.9	5.5	17.9	5.5	Pimelobacter simplex	0.1	Pimelobacter simplex	0.04514448716358675	0.02324675324675325
+5	4	63	Bacteria	1372	7.5	0.1	28.7	0.0	Planococcus antarcticus	6.6	3.1	1.7	13.4	1.2	Planococcus antarcticus	0.2	Planococcus antarcticus	0.035594691802058785	0.01740259740259741
+6	15	22	Bacteria	1827	19.3	0.2	104.7	0.1	Rhodococcus opacus	1.4	0.2	0.1	9.3	0.2	Rhodococcus opacus	0.1	Rhodococcus opacus	0.12985241225350366	0.012077922077922082
+7	7	69	Bacteria	1578	7.1	1.4	13.4	-0.1	Lactobacillus rhamnosus	2.9	1.7	0.1	8.2	-0.1	Lactobacillus crispatus	5.3	Lactobacillus rhamnosus	0.016619124395386334	0.010649350649350652
+8	14	38	Bacteria	1663	11.5	0.3	60.3	0.2	Arthrobacter saudimassiliensis	1.2	0.2	0.7	5.9	-0.1	Arthrobacter sp. YC-RL1	0.1	Arthrobacter saudimassiliensis	0.0747860597792385	0.007662337662337665
+9	13	95	Bacteria	1743	5.2	0.2	8.5	-0.2	Propionibacterium freudenreichii	2.9	0.3	0.2	3.8	0.6	Propionibacterium freudenreichii	14.1	Propionibacterium freudenreichii	0.010541981892595809	0.004935064935064936
+10	5	64	Bacteria	191494	7.5	0.2	7.6	0.2	Conexibacter woesei	5.7	2.1	0.5	2.3	0.6	Conexibacter woesei	0.1	Conexibacter woesei	0.009425772045144488	0.0029870129870129877
+11	6	83	Bacteria	33981	6.4	0.2	6.5	0.2	Kineococcus radiotolerans	3.7	2.0	0.9	2.0	0.6	Kineococcus radiotolerans	0.1	Kineococcus radiotolerans	0.008061515564926207	0.0025974025974025983
+12	8	87	Bacteria	1278221	5.8	0.1	5.8	0.1	Auraticoccus monumenti	0.6	1.0	1.0	1.0	0.9	Auraticoccus monumenti	0.1	Auraticoccus monumenti	0.007193352350241846	0.0012987012987012991
+13	11	154	Bacteria	34084	1.5	0.5	1.5	0.5	Riemerella anatipestifer	0.3	0.6	0.5	0.6	0.5	Riemerella anatipestifer	0.1	Riemerella anatipestifer	0.0018603497457522016	0.0007792207792207794
+14	10	102	Bacteria	1137960	4.8	0.5	4.8	0.5	Allokutzneria albata	0.4	0.6	0.5	0.6	0.5	Allokutzneria albata	0.1	Allokutzneria albata	0.005953119186407045	0.0007792207792207794
+15	9	67	Bacteria	337004	7.2	0.4	7.2	0.4	Microcella alkaliphila	1.4	0.6	0.1	0.6	0.1	Microcella alkaliphila	2.0	Microcella alkaliphila	0.008929678779610567	0.0007792207792207794
+16	16	43	Bacteria	338	10.6	0.4	40.3	0.2	Xanthomonas sacchari	0.5	0.1	0.3	0.5	-0.3	Xanthomonas citri	6.0	Xanthomonas sacchari	0.04998139650254248	0.0006493506493506496
+17	17	113	Bacteria	231454	3.7	0.2	5.7	0.0	Dyella thiooxydans	0.4	0.1	1.5	0.3	-0.2	Dyella sp. LLH-Slr-21	0.1	Dyella thiooxydans	0.007069329033858366	0.0003896103896103897
+18	18	263	Viruses	333922	0.2	0.4	0.3	-0.1	Betapapillomavirus 1	0.2	0.0	0.0	0.0	0.0	0	0.0	Betapapillomavirus 1	0.0003720699491504403	0.0
+19	19	382	Viruses	10358	0.0	1.9	0.2	-0.0	Cercopithecine betaherpesvirus 5	0.0	0.0	0.0	0.0	0.0	0	0.0	Cercopithecine betaherpesvirus 5	0.0002480466327669602	0.0
+20	20	383	Viruses	10509	0.0	0.2	0.0	-0.2	Human mastadenovirus F	0.0	0.0	0.0	0.0	0.0	0	0.0	Human mastadenovirus F	0.0	0.0
+21	21	422	Viruses	-200151340	0.0	0.3	0.0	0.0	Human papillomavirus	0.1	0.0	0.0	0.0	0.0	0	0.0	Human papillomavirus	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0032_s32.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Viruses	1511911	209.5	5.7	210.4	5.7	Primate tetraparvovirus 1	73.2	10.2	5.8	10.2	5.8	Primate tetraparvovirus 1	2.9	Primate tetraparvovirus 1	0.9418084153983884	0.6455696202531644
+1	1	3	Bacteria	1357	5.2	1.0	5.8	1.0	Lactococcus lactis	4.9	1.6	1.2	2.3	1.6	Lactococcus lactis	0.1	Lactococcus lactis	0.025962399283795876	0.14556962025316453
+2	2	38	Bacteria	620	0.1	0.1	0.4	-0.3	Shigella dysenteriae	0.3	0.8	0.3	1.3	0.1	Shigella flexneri	2.1	Shigella flexneri	0.0017905102954341985	0.08227848101265822
+3	5	9	Bacteria	1485	0.3	1.3	0.6	-0.5	Clostridium baratii	0.4	0.1	0.6	0.8	-0.3	Clostridium perfringens	0.1	Clostridium perfringens	0.0026857654431512975	0.05063291139240506
+4	3	65	Viruses	10509	0.0	0.9	0.0	-0.3	Human mastadenovirus B	0.0	0.6	0.1	0.7	0.2	Human mastadenovirus C	0.3	Human mastadenovirus C	0.0	0.044303797468354424
+5	4	30	Bacteria	194	0.1	0.2	0.3	-0.5	Campylobacter hominis	0.1	0.3	4.3	0.3	0.7	Campylobacter hominis	0.1	Campylobacter hominis	0.0013428827215756487	0.018987341772151896
+6	6	115	Viruses	119164	0.0	0.0	0.0	0.0	0	0.0	0.1	2.0	0.1	2.0	Cucurbit aphid-borne yellows virus	0.1	Cucurbit aphid-borne yellows virus	0.0	0.006329113924050633
+7	7	116	Viruses	12195	0.0	0.0	0.0	0.0	0	0.0	0.1	4.9	0.1	4.9	Zucchini yellow mosaic virus	0.1	Zucchini yellow mosaic virus	0.0	0.006329113924050633
+8	8	5	Viruses	333922	3.2	5.4	3.4	4.8	Betapapillomavirus 2	3.1	0.0	0.0	0.0	0.0	0	0.0	Betapapillomavirus 2	0.015219337511190686	0.0
+9	9	40	Viruses	10358	0.1	0.2	1.0	2.7	Human betaherpesvirus 5	1.5	0.0	0.0	0.0	0.0	0	0.0	Human betaherpesvirus 5	0.004476275738585496	0.0
+10	10	41	Viruses	10294	0.1	3.9	1.5	3.9	Human alphaherpesvirus 1	0.6	0.0	0.0	0.0	0.0	0	0.0	Human alphaherpesvirus 1	0.006714413607878244	0.0
+11	11	44	Viruses	-200010780	0.1	5.7	0.0	0.0	Human parvovirus 5	0.1	0.0	0.0	0.0	0.0	0	0.0	Human parvovirus 5	0.0	0.0
+12	12	63	Viruses	12103	0.0	4.1	0.0	4.1	Cardiovirus B	0.0	0.0	0.0	0.0	0.0	0	0.0	Cardiovirus B	0.0	0.0
+13	13	64	Viruses	12059	0.0	3.0	0.0	3.0	Enterovirus B	0.0	0.0	0.0	0.0	0.0	0	0.0	Enterovirus B	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0042_s42.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	4	Bacteria	1578	2.4	0.1	3.6	-0.9	Lactobacillus rhamnosus	1.2	0.2	5.6	3.7	-0.4	Lactobacillus pentosus	0.2	Lactobacillus pentosus	0.8571428571428571	0.925
+1	1	24	Bacteria	841	0.1	0.4	0.1	-0.6	Roseburia inulinivorans	0.1	0.1	0.3	0.3	-0.0	Roseburia intestinalis	0.2	Roseburia intestinalis	0.023809523809523808	0.075
+2	2	8	Viruses	1985367	0.4	5.7	0.5	5.6	Bovine associated gemykrogvirus 1	1.1	0.0	0.0	0.0	0.0	0	0.0	Bovine associated gemykrogvirus 1	0.11904761904761904	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0043_s43.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	1716	41.1	0.5	216.3	-0.3	Corynebacterium jeikeium	22.0	86.3	5.8	271.5	4.9	Corynebacterium urealyticum	0.3	Corynebacterium urealyticum	0.7183659913649945	0.7111052907281298
+1	1	4	Bacteria	1578	5.7	0.8	10.8	-0.3	Lactobacillus crispatus	5.4	25.0	5.8	51.2	3.3	Lactobacillus salivarius	1.9	Lactobacillus salivarius	0.03586848223181664	0.13410162388685173
+2	2	3	Bacteria	1298	6.0	0.1	21.3	-0.1	Deinococcus radiodurans	1.6	5.0	1.0	16.4	1.1	Deinococcus puniceus	0.2	Deinococcus radiodurans	0.07074061773497171	0.04295442640125719
+3	4	58	Bacteria	1186	0.2	0.3	0.8	-0.5	Calothrix sp. 336/3	0.2	1.8	5.7	9.5	5.8	Calothrix sp. NIES-2098	0.3	Calothrix sp. NIES-2098	0.002656924609764196	0.024882137244630693
+4	3	15	Bacteria	1203	0.9	0.6	1.1	-0.0	Scytonema sp. NIES-4073	0.1	3.0	5.8	6.2	5.8	Scytonema sp. NIES-4073	0.1	Scytonema sp. NIES-4073	0.003653271338425769	0.016238868517548452
+5	7	1	Bacteria	72763	20.3	0.9	29.3	-0.1	Tessaracoccus flavus	17.7	1.3	2.7	5.1	2.4	Tessaracoccus aquimaris	0.3	Tessaracoccus flavus	0.09730986383261367	0.013357778941854371
+6	15	12	Bacteria	107	1.2	0.1	2.1	-0.2	Spirosoma linguale	1.9	0.3	0.9	4.9	1.5	Spirosoma montaniterrae	0.1	Spirosoma montaniterrae	0.006974427100631014	0.012833944473546358
+7	8	8	Bacteria	237	3.2	1.2	4.3	-0.0	Flavobacterium johnsoniae	0.4	0.8	4.8	3.8	2.0	Flavobacterium gilvum	0.1	Flavobacterium johnsoniae	0.014280969777482552	0.009952854897852276
+8	6	91	Bacteria	84406	0.1	0.2	0.3	-0.3	Virgibacillus halodenitrificans	0.2	1.4	5.1	3.5	5.0	Virgibacillus sp. LM2416	0.1	Virgibacillus sp. LM2416	0.0009963467286615733	0.009167103195390255
+9	5	6	Bacteria	279	4.2	0.2	4.3	0.2	Xanthobacter autotrophicus	2.0	1.5	0.4	1.6	0.3	Xanthobacter autotrophicus	0.8	Xanthobacter autotrophicus	0.014280969777482552	0.004190675746464117
+10	10	22	Bacteria	47251	0.6	1.0	1.1	0.9	Leptolyngbya sp. O-77	0.6	0.6	5.7	1.4	4.2	Leptolyngbya boryana	1.3	Leptolyngbya boryana	0.003653271338425769	0.003666841278156102
+11	13	35	Bacteria	43988	0.3	1.0	0.3	-0.1	Cyanothece sp. PCC 7425	0.7	0.4	5.4	1.3	5.5	Cyanothece sp. PCC 7425	0.2	Cyanothece sp. PCC 7425	0.0009963467286615733	0.0034049240440020946
+12	20	45	Bacteria	1485	0.3	0.6	1.1	-0.3	Clostridium botulinum	0.2	0.1	0.2	1.0	-0.2	Clostridium botulinum	1.6	Clostridium botulinum	0.003653271338425769	0.002619172341540073
+13	9	26	Bacteria	914	0.5	0.6	2.0	-0.1	Nitrosomonas eutropha	0.1	0.6	1.0	0.8	-0.1	Nitrosomonas ureae	0.4	Nitrosomonas eutropha	0.0066423115244104896	0.0020953378732320583
+14	22	33	Bacteria	194	0.4	0.2	1.1	-0.2	Campylobacter gracilis	0.3	0.1	5.3	0.6	1.7	Campylobacter showae	0.1	Campylobacter gracilis	0.003653271338425769	0.0015715034049240437
+15	18	30	Bacteria	1508657	0.4	0.1	0.5	-0.1	[Clostridium] clariflavum	0.5	0.2	3.7	0.6	0.4	Ruminiclostridium thermocellum	1.1	Ruminiclostridium thermocellum	0.0016605778811026224	0.0015715034049240437
+16	12	101	Bacteria	32199	0.1	1.1	0.1	1.1	Buchnera aphidicola	0.1	0.4	0.4	0.5	0.6	Buchnera aphidicola	0.1	Buchnera aphidicola	0.0003321155762205245	0.0013095861707700365
+17	11	28	Bacteria	1329200	0.5	4.3	0.6	2.2	Fictibacillus arsenicus	1.6	0.4	5.3	0.4	1.1	Fictibacillus arsenicus	0.7	Fictibacillus arsenicus	0.0019926934573231466	0.0010476689366160292
+18	21	34	Bacteria	281915	0.4	0.1	0.6	-0.4	Curvibacter putative symbiont of Hydra magnipapillata	0.8	0.1	0.9	0.3	0.7	Curvibacter putative symbiont of Hydra magnipapillata	18.7	Curvibacter putative symbiont of Hydra magnipapillata	0.0019926934573231466	0.0007857517024620218
+19	14	372	Viruses	11007	0.0	0.0	0.0	0.0	0	0.0	0.3	0.7	0.3	0.4	Saccharomyces cerevisiae virus L-A	0.1	Saccharomyces cerevisiae virus L-A	0.0	0.0007857517024620218
+20	16	84	Bacteria	1205	0.1	0.1	0.1	-0.1	Trichodesmium erythraeum	0.1	0.2	5.8	0.3	5.8	Trichodesmium erythraeum	0.1	Trichodesmium erythraeum	0.0003321155762205245	0.0007857517024620218
+21	19	14	Bacteria	780	1.0	5.2	1.1	4.8	Rickettsia felis	0.2	0.2	4.0	0.2	2.2	Rickettsia felis	0.6	Rickettsia felis	0.003653271338425769	0.0005238344683080146
+22	17	74	Bacteria	33071	0.2	0.5	0.4	0.4	Gloeobacter violaceus	0.2	0.2	5.3	0.2	4.2	Gloeobacter violaceus	0.1	Gloeobacter violaceus	0.001328462304882098	0.0005238344683080146
+23	23	25	Bacteria	120961	0.5	0.3	0.7	-0.2	Roseiflexus sp. RS-1	0.8	0.1	0.8	0.1	-0.1	Roseiflexus sp. RS-1	0.1	Roseiflexus sp. RS-1	0.002324809033543671	0.0002619172341540073
+24	24	17	Bacteria	170610	0.8	3.5	0.8	3.5	Halomicronema hongdechloris	0.6	0.1	4.1	0.1	4.1	Halomicronema hongdechloris	0.3	Halomicronema hongdechloris	0.002656924609764196	0.0002619172341540073
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0044_s44.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	9	Bacteria	32207	6.6	0.2	14.4	-0.3	Rothia aeria	2.0	1.4	0.1	4.3	-0.6	Rothia aeria	0.4	Rothia aeria	0.7461139896373057	0.8113207547169812
+1	1	109	Viruses	10509	0.0	0.0	0.0	0.0	0	0.0	0.6	0.2	0.6	-0.1	Human mastadenovirus C	0.3	Human mastadenovirus C	0.0	0.11320754716981132
+2	2	62	Bacteria	194	0.1	0.5	0.2	-0.6	Campylobacter hominis	0.1	0.2	4.5	0.2	0.2	Campylobacter ureolyticus	0.2	Campylobacter hominis	0.010362694300518135	0.03773584905660378
+3	3	20	Viruses	40272	1.0	4.4	4.4	4.3	Human herpesvirus 6	0.3	0.1	5.8	0.2	5.8	Human herpesvirus 6	0.1	Human herpesvirus 6	0.22797927461139897	0.03773584905660378
+4	4	24	Viruses	10278	0.3	5.7	0.3	5.7	Molluscum contagiosum virus	0.3	0.0	0.0	0.0	0.0	0	0.0	Molluscum contagiosum virus	0.015544041450777202	0.0
+5	5	82	Viruses	10813	0.0	5.7	0.0	5.7	Beet curly top virus	0.0	0.0	0.0	0.0	0.0	0	0.0	Beet curly top virus	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0053_s53.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	10	Bacteria	57493	236.6	1.5	592.4	0.7	Kocuria palustris	103.6	76.2	5.7	82.3	3.9	Kocuria palustris	33.5	Kocuria palustris	0.19645818133580953	0.4324750394114555
+1	8	231	Bacteria	1350	6.8	2.7	32.3	1.6	Enterococcus cecorum	5.0	1.3	0.8	39.1	2.2	Enterococcus faecium	2.7	Enterococcus faecium	0.010711680042448763	0.2054650551760378
+2	6	21	Bacteria	1301	140.6	5.1	284.7	1.9	Streptococcus pneumoniae	93.0	1.7	0.9	12.1	-0.5	Streptococcus sanguinis	0.3	Streptococcus pneumoniae	0.09441533461563972	0.06358381502890172
+3	7	32	Bacteria	41275	86.2	0.7	376.2	1.7	Brevundimonas diminuta	46.1	1.7	0.2	7.8	-0.1	Brevundimonas diminuta	0.8	Brevundimonas diminuta	0.12475956755322679	0.04098791382028375
+4	27	256	Bacteria	1578	5.5	0.8	20.9	0.5	Lactobacillus crispatus	6.6	0.3	0.5	6.1	-0.3	Lactobacillus sakei	1.3	Lactobacillus crispatus	0.006931087086290377	0.03205465055176037
+5	4	36	Bacteria	68	78.1	2.3	175.1	2.5	Lysobacter enzymogenes	11.6	1.9	4.1	5.1	2.6	Lysobacter antibioticus	0.3	Lysobacter enzymogenes	0.05806858128274856	0.026799789805570146
+6	10	79	Bacteria	338	32.8	3.3	130.8	3.1	Xanthomonas translucens	2.8	1.2	1.7	4.5	1.2	Xanthomonas translucens	0.1	Xanthomonas translucens	0.0433773297075015	0.02364687335785601
+7	1	83	Bacteria	547	30.2	1.2	99.8	1.3	Enterobacter cloacae	13.1	3.9	0.2	4.1	-0.3	Enterobacter cloacae	0.4	Enterobacter cloacae	0.03309676991443922	0.02154492905937992
+8	3	40	Bacteria	570	73.6	2.3	110.1	1.8	Klebsiella pneumoniae	30.5	2.0	0.2	3.9	0.2	Klebsiella pneumoniae	7.1	Klebsiella pneumoniae	0.03651256881342443	0.020493956910141876
+9	2	31	Bacteria	361177	90.5	2.7	160.0	2.1	Altererythrobacter dongtanensis	54.4	2.0	1.1	3.6	0.8	Altererythrobacter dongtanensis	1.8	Altererythrobacter dongtanensis	0.053060953770644036	0.01891749868628481
+10	19	330	Bacteria	1243	2.3	2.9	6.3	1.9	Leuconostoc lactis	0.8	0.5	2.2	3.1	1.9	Leuconostoc mesenteroides	0.2	Leuconostoc lactis	0.002089275054719109	0.016290068313189698
+11	44	155	Bacteria	1883	12.9	4.0	310.9	2.4	Streptomyces albulus	1.3	0.1	1.1	2.5	-0.3	Streptomyces parvulus	0.2	Streptomyces albulus	0.10310406579558268	0.013137151865475562
+12	5	29	Bacteria	2044	93.5	2.3	94.0	2.3	Pimelobacter simplex	12.1	1.8	0.1	2.1	0.2	Pimelobacter simplex	0.3	Pimelobacter simplex	0.03117331034025337	0.011035207566999473
+13	12	35	Bacteria	1386	81.6	1.4	150.4	2.1	Bacillus cereus	21.9	1.1	2.1	1.9	-0.5	Bacillus subtilis	0.8	Bacillus cereus	0.04987729654440539	0.009984235417761427
+14	20	75	Bacteria	165697	34.5	3.6	170.6	3.5	Sphingopyxis macrogoltabida	5.3	0.5	1.5	1.7	-0.1	Sphingopyxis granuli	0.3	Sphingopyxis macrogoltabida	0.0565762419579492	0.008933263268523383
+15	9	95	Bacteria	53387	26.7	2.2	44.1	2.0	Friedmanniella luteola	5.0	1.3	0.6	1.5	-0.1	Friedmanniella luteola	0.1	Friedmanniella luteola	0.014624925383033763	0.007882291119285338
+16	13	140	Bacteria	75	15.1	3.4	44.3	3.2	Caulobacter segnis	2.3	1.0	2.0	1.4	0.1	Caulobacter vibrioides	0.1	Caulobacter segnis	0.014691251575247066	0.007356805044666314
+17	14	89	Bacteria	1111	28.5	2.4	62.5	2.3	Porphyrobacter sp. CACIAM 03H1	3.8	1.0	2.5	1.3	1.1	Porphyrobacter sp. CACIAM 03H1	0.4	Porphyrobacter sp. CACIAM 03H1	0.020726935066657827	0.006831318970047293
+18	11	198	Bacteria	152053	8.8	2.3	9.1	2.4	Starkeya novella	3.8	1.2	0.4	1.2	0.2	Starkeya novella	0.1	Starkeya novella	0.0030178417457053792	0.00630583289542827
+19	15	221	Bacteria	54298	7.6	0.6	7.6	0.6	Chroococcidiopsis thermalis	4.3	0.9	0.4	0.9	-0.1	Chroococcidiopsis thermalis	0.7	Chroococcidiopsis thermalis	0.0025203953041055913	0.004729374671571203
+20	29	120	Bacteria	68287	18.4	2.7	102.5	2.9	Mesorhizobium sp. B7	6.8	0.3	0.1	0.9	-0.2	Mesorhizobium sp. B7	0.1	Mesorhizobium sp. B7	0.03399217350931883	0.004729374671571203
+21	17	613	Viruses	10509	0.0	0.0	0.0	0.0	0	0.0	0.8	0.9	0.8	0.4	Human mastadenovirus C	0.3	Human mastadenovirus C	0.0	0.00420388859695218
+22	25	191	Bacteria	32	9.3	0.4	17.9	0.4	Myxococcus fulvus	5.5	0.4	0.9	0.8	-0.0	Myxococcus stipitatus	0.3	Myxococcus fulvus	0.005936194203090801	0.00420388859695218
+23	26	188	Bacteria	958	9.6	3.1	9.6	3.0	Bdellovibrio bacteriovorus	41.1	0.4	0.3	0.8	0.3	Bdellovibrio bacteriovorus	0.2	Bdellovibrio bacteriovorus	0.003183657226238642	0.00420388859695218
+24	16	297	Bacteria	1961799	3.3	1.8	3.3	1.8	Lacunisphaera limnophila	5.5	0.8	2.9	0.8	2.9	Lacunisphaera limnophila	0.7	Lacunisphaera limnophila	0.001094382171519533	0.00420388859695218
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0054_s54.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	3	104	Bacteria	1578	24.4	5.3	52.9	3.2	Lactobacillus amylovorus	4.7	1.4	0.8	7.9	-0.1	Lactobacillus gasseri	0.6	Lactobacillus amylovorus	0.05216962524654832	0.3237704918032787
+1	5	111	Bacteria	374	22.5	0.9	152.5	0.3	Bradyrhizobium sp. CCGE-LA001	0.9	0.5	1.9	3.5	1.1	Bradyrhizobium erythrophlei	0.1	Bradyrhizobium sp. CCGE-LA001	0.15039447731755423	0.1434426229508197
+2	2	69	Bacteria	20	36.4	2.1	36.5	2.1	Phenylobacterium zucineum	22.5	1.9	0.5	2.9	0.4	Phenylobacterium zucineum	0.1	Phenylobacterium zucineum	0.03599605522682446	0.11885245901639345
+3	12	140	Bacteria	1883	16.1	3.9	417.6	3.6	Streptomyces venezuelae	1.9	0.1	0.9	2.7	-0.2	Streptomyces clavuligerus	0.7	Streptomyces venezuelae	0.41183431952662725	0.11065573770491804
+4	1	34	Bacteria	2701	74.2	4.7	74.2	4.7	Gardnerella vaginalis	52.0	2.0	0.6	2.4	0.5	Gardnerella vaginalis	5.1	Gardnerella vaginalis	0.07317554240631163	0.09836065573770492
+5	0	204	Bacteria	29407	8.1	2.2	8.1	2.2	Rhodoplanes sp. Z2-YC6860	10.0	2.0	4.4	2.2	4.5	Rhodoplanes sp. Z2-YC6860	0.1	Rhodoplanes sp. Z2-YC6860	0.007988165680473372	0.09016393442622953
+6	4	12	Bacteria	150022	187.1	5.7	188.1	5.7	Finegoldia magna	221.1	0.9	0.1	1.0	-0.1	Finegoldia magna	0.2	Finegoldia magna	0.18550295857988164	0.04098360655737705
+7	6	78	Bacteria	29404	32.1	3.1	44.3	3.5	Microlunatus phosphovorus	48.9	0.4	0.1	0.8	0.3	Microlunatus phosphovorus	0.4	Microlunatus phosphovorus	0.04368836291913215	0.03278688524590164
+8	10	239	Bacteria	816	5.6	5.9	36.1	3.3	Bacteroides dorei	0.7	0.1	2.3	0.5	-1.0	Bacteroides uniformis	0.1	Bacteroides dorei	0.03560157790927022	0.020491803278688527
+9	7	405	Bacteria	434	1.1	1.9	1.8	0.4	Acetobacter pasteurianus	0.2	0.1	2.9	0.2	0.2	Acetobacter aceti	0.2	Acetobacter pasteurianus	0.001775147928994083	0.00819672131147541
+10	9	509	Bacteria	253238	0.5	3.7	0.5	3.7	Ethanoligenens harbinense	0.8	0.1	0.3	0.2	0.6	Ethanoligenens harbinense	0.1	Ethanoligenens harbinense	0.0004930966469428008	0.00819672131147541
+11	8	575	Bacteria	896	0.3	1.0	0.4	1.4	Desulfococcus multivorans	0.7	0.1	0.3	0.1	-0.1	Desulfococcus multivorans	0.1	Desulfococcus multivorans	0.00039447731755424067	0.004098360655737705
+12	11	336	Bacteria	-200080864	1.9	0.5	0.0	0.0	Comamonadaceae bacterium A1	0.5	0.1	0.6	0.0	0.0	Comamonadaceae bacterium A1	0.9	Comamonadaceae bacterium A1	0.0	0.0
+13	13	519	Viruses	10358	0.4	4.2	0.4	0.8	Human betaherpesvirus 5	0.3	0.0	0.0	0.0	0.0	0	0.0	Human betaherpesvirus 5	0.00039447731755424067	0.0
+14	14	607	Viruses	333922	0.2	0.7	0.4	0.1	Betapapillomavirus 1	0.2	0.0	0.0	0.0	0.0	0	0.0	Betapapillomavirus 1	0.00039447731755424067	0.0
+15	15	681	Viruses	1985367	0.1	4.3	0.1	1.1	Caribou associated gemykrogvirus 1	0.1	0.0	0.0	0.0	0.0	0	0.0	Caribou associated gemykrogvirus 1	9.861932938856017e-05	0.0
+16	16	708	Viruses	325455	0.1	2.9	0.1	0.8	Gammapapillomavirus 1	0.0	0.0	0.0	0.0	0.0	0	0.0	Gammapapillomavirus 1	9.861932938856017e-05	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0056_s56.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	2	3	Bacteria	265	87.0	0.4	242.5	0.6	Paracoccus yeei	24.7	5.5	1.5	18.8	0.6	Paracoccus denitrificans	0.1	Paracoccus yeei	0.14360158701960088	0.21123595505617979
+1	1	0	Bacteria	57493	416.3	3.3	478.6	0.4	Kocuria palustris	202.2	7.7	0.3	13.0	0.1	Kocuria palustris	3.5	Kocuria palustris	0.2834132764848701	0.14606741573033707
+2	0	1	Bacteria	1269	294.6	0.9	314.1	0.9	Micrococcus luteus	114.3	11.0	0.2	12.6	-0.1	Micrococcus luteus	3.7	Micrococcus luteus	0.1860010659086872	0.14157303370786517
+3	7	24	Bacteria	1827	8.2	0.7	48.1	-0.6	Rhodococcus sp. B7740	0.5	1.8	2.4	9.3	0.2	Rhodococcus sp. PBTS 1	0.5	Rhodococcus sp. B7740	0.028483448806774447	0.10449438202247192
+4	3	23	Bacteria	1578	8.6	1.8	20.9	0.5	Lactobacillus crispatus	7.5	2.6	0.6	4.9	-0.4	Lactobacillus crispatus	2.4	Lactobacillus crispatus	0.01237638420086457	0.055056179775280906
+5	10	15	Bacteria	482	19.5	0.1	37.0	0.1	Neisseria sicca	1.3	1.1	0.3	4.8	-0.2	Neisseria meningitidis	1.4	Neisseria sicca	0.02191034523598034	0.05393258426966292
+6	5	7	Bacteria	43668	60.4	1.2	133.6	1.1	Brachybacterium faecium	8.0	2.1	0.4	4.6	-0.1	Brachybacterium faecium	0.4	Brachybacterium faecium	0.07911411144667496	0.051685393258426963
+7	6	13	Bacteria	1060	21.6	0.2	42.0	0.4	Rhodobacter sphaeroides	2.2	1.8	2.2	3.3	1.2	Rhodobacter sphaeroides	0.2	Rhodobacter sphaeroides	0.02487120270030201	0.03707865168539325
+8	12	5	Bacteria	1678	81.3	3.7	121.1	2.5	Bifidobacterium longum	54.7	0.8	5.3	3.3	0.7	Bifidobacterium breve	0.7	Bifidobacterium longum	0.07171196778587079	0.03707865168539325
+9	4	2	Bacteria	53457	89.6	0.9	89.7	0.9	Janibacter indicus	44.6	2.3	0.3	2.4	0.2	Janibacter indicus	1.4	Janibacter indicus	0.05311778290993072	0.02696629213483146
+10	21	51	Bacteria	816	2.8	0.3	6.5	-0.2	Bacteroides fragilis	2.3	0.2	1.6	2.0	-0.2	Bacteroides xylanisolvens	0.2	Bacteroides fragilis	0.0038491147036181683	0.02247191011235955
+11	15	34	Bacteria	59732	4.9	0.7	17.2	1.0	Chryseobacterium indologenes	0.7	0.4	2.2	1.8	-0.0	Chryseobacterium sp. T16E-39	0.1	Chryseobacterium indologenes	0.010185349677266538	0.020224719101123598
+12	11	18	Bacteria	72763	13.8	0.6	35.5	0.1	Tessaracoccus flavescens	8.7	0.9	2.3	1.4	0.1	Tessaracoccus flavus	0.9	Tessaracoccus flavescens	0.02102208799668384	0.015730337078651683
+13	8	17	Bacteria	1097466	15.1	0.5	15.1	0.5	Defluviimonas alba	2.5	1.3	0.9	1.3	0.9	Defluviimonas alba	0.2	Defluviimonas alba	0.008941789542251437	0.014606741573033709
+14	9	8	Bacteria	1835	28.6	2.3	28.8	2.3	Saccharopolyspora erythraea	19.3	1.1	0.4	1.1	0.0	Saccharopolyspora erythraea	0.5	Saccharopolyspora erythraea	0.01705453899449281	0.012359550561797755
+15	18	63	Bacteria	1243	1.3	1.8	4.4	1.1	Leuconostoc mesenteroides	1.0	0.4	0.9	1.1	0.2	Leuconostoc gelidum	0.4	Leuconostoc mesenteroides	0.002605554568603068	0.012359550561797755
+16	13	10	Bacteria	125216	27.2	1.8	27.3	1.8	Roseomonas gilardii	5.6	0.6	0.1	0.6	-0.1	Roseomonas gilardii	0.1	Roseomonas gilardii	0.016166281755196306	0.006741573033707865
+17	14	43	Bacteria	360528	3.6	0.3	3.6	0.2	Pelagibaca abyssi	0.9	0.5	2.6	0.5	2.6	Pelagibaca abyssi	0.5	Pelagibaca abyssi	0.002131817374311601	0.0056179775280898875
+18	26	45	Bacteria	46255	3.2	0.6	3.7	0.4	Weissella cibaria	1.8	0.1	3.2	0.4	-0.2	Weissella confusa	0.1	Weissella cibaria	0.0021910345235980344	0.0044943820224719105
+19	17	61	Bacteria	34084	1.3	0.3	1.3	0.4	Riemerella anatipestifer	1.1	0.4	0.1	0.4	0.1	Riemerella anatipestifer	0.4	Riemerella anatipestifer	0.0007698229407236336	0.0044943820224719105
+20	16	28	Bacteria	1912217	6.4	0.1	6.4	0.1	Pseudopropionibacterium propionicum	7.2	0.4	0.3	0.4	0.3	Pseudopropionibacterium propionicum	0.2	Pseudopropionibacterium propionicum	0.003789897554331735	0.0044943820224719105
+21	23	57	Bacteria	293088	1.9	0.3	4.1	0.0	Martelella sp. AD-3	0.5	0.2	0.8	0.3	0.0	Martelella mediterranea	0.1	Martelella sp. AD-3	0.0024279031207437673	0.0033707865168539327
+22	25	55	Bacteria	92944	2.4	0.6	3.2	0.5	Ketogulonicigenium vulgare	0.6	0.1	0.9	0.3	1.7	Ketogulonicigenium robustum	0.1	Ketogulonicigenium vulgare	0.0018949487771658675	0.0033707865168539327
+23	20	286	Viruses	1985367	0.0	0.0	0.0	0.0	0	0.0	0.2	5.8	0.2	5.8	Caribou associated gemykrogvirus 1	0.2	Caribou associated gemykrogvirus 1	0.0	0.0022471910112359553
+24	19	40	Bacteria	1609958	4.0	0.2	4.0	0.2	Confluentimicrobium sp. EMB200-NS6	0.3	0.2	0.2	0.2	0.2	Confluentimicrobium sp. EMB200-NS6	0.2	Confluentimicrobium sp. EMB200-NS6	0.0023686859714573344	0.0022471910112359553
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0065_s65.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	469	49457.9	5.8	60009.9	5.8	Acinetobacter junii	18502.3	618.2	5.8	854.4	5.7	Acinetobacter junii	235.3	Acinetobacter junii	0.48950431182153664	0.49455892567724014
+1	1	2	Bacteria	67575	9142.3	5.8	9324.8	5.8	Rheinheimera sp. F8	1923.2	313.6	5.8	334.2	5.8	Rheinheimera sp. F8	28.3	Rheinheimera sp. F8	0.07606294639506922	0.1934475573049317
+2	3	3	Bacteria	286	5496.3	5.7	20603.6	5.7	Pseudomonas mendocina	1300.0	47.2	5.8	196.6	5.0	Pseudomonas mendocina	9.3	Pseudomonas mendocina	0.1680647866276433	0.11379949062282936
+3	2	1	Bacteria	283	21350.6	5.8	22203.5	5.8	Comamonas aquatica	18199.3	113.0	5.8	120.3	5.7	Comamonas aquatica	85.0	Comamonas aquatica	0.18111526577330553	0.06963417457744848
+4	7	5	Bacteria	22	424.5	6.0	2814.8	5.8	Shewanella putrefaciens	414.8	8.2	5.8	44.1	5.8	Shewanella putrefaciens	7.7	Shewanella putrefaciens	0.022960490467660525	0.025526742301458672
+5	4	4	Bacteria	662	837.0	5.8	1970.2	5.7	Vibrio cholerae	566.7	14.0	5.8	35.3	5.8	Vibrio cholerae	22.5	Vibrio cholerae	0.016071038197877207	0.02043297059504515
+6	13	11	Bacteria	53246	178.8	5.8	1147.3	5.9	Pseudoalteromonas rubra	14.3	3.2	5.8	31.7	5.8	Pseudoalteromonas rubra	0.1	Pseudoalteromonas rubra	0.009358594114518587	0.018349154896966893
+7	5	21	Bacteria	10	103.8	5.6	296.5	5.7	Cellvibrio sp. PSBB006	52.2	11.4	5.8	15.1	5.8	Cellvibrio sp. PSBB006	1.1	Cellvibrio sp. PSBB006	0.0024185680771853578	0.008740449178050474
+8	6	8	Bacteria	590	268.7	0.6	295.1	0.7	Salmonella enterica	163.5	9.8	0.5	10.2	0.7	Salmonella enterica	42.8	Salmonella enterica	0.0024071481941902164	0.0059041444778884
+9	19	23	Bacteria	642	94.1	1.1	348.0	2.5	Aeromonas hydrophila	76.5	1.6	1.7	9.6	2.2	Aeromonas hydrophila	7.4	Aeromonas hydrophila	0.002838656630220926	0.005556841861542023
+10	32	139	Bacteria	1654	8.2	0.7	15.4	-0.3	Actinomyces radicidentis	5.1	0.7	0.2	8.3	0.5	Actinomyces oris	0.9	Actinomyces radicidentis	0.0001256187129465582	0.004804352859458208
+11	15	12	Bacteria	226	153.9	5.6	574.4	5.9	Alteromonas macleodii	85.5	2.2	5.8	7.9	5.8	Alteromonas macleodii	1.5	Alteromonas macleodii	0.0046854148517209765	0.004572817781893957
+12	8	7	Bacteria	1751872	337.7	5.7	337.7	5.7	Lacimicrobium alkaliphilum	266.9	7.7	5.8	7.7	5.8	Lacimicrobium alkaliphilum	2.9	Lacimicrobium alkaliphilum	0.002754638919613812	0.004457050243111832
+13	10	26	Bacteria	570	82.7	2.7	194.6	4.0	Klebsiella pneumoniae	178.3	4.1	2.9	6.7	2.5	Klebsiella pneumoniae	18.2	Klebsiella pneumoniae	0.00158736373632469	0.0038782125492012043
+14	9	24	Bacteria	547	93.4	5.2	258.3	4.6	Enterobacter cloacae	73.9	4.4	0.7	6.2	1.1	Enterobacter cloacae	1.2	Enterobacter cloacae	0.0021069684126036356	0.0035887937022458906
+15	26	30	Bacteria	28228	72.3	6.9	274.0	6.2	Colwellia sp. MT41	1.3	1.1	5.8	4.5	5.8	Colwellia psychrerythraea	0.4	Colwellia sp. MT41	0.002235034243334867	0.002604769622597824
+16	12	14	Bacteria	135575	144.1	5.8	219.5	5.7	Idiomarina loihiensis	4.8	3.2	5.8	4.4	5.8	Idiomarina loihiensis	0.1	Idiomarina loihiensis	0.0017904745124525667	0.0025468858532067614
+17	18	22	Bacteria	225143	99.8	5.8	164.9	5.9	Oceanisphaera profunda	6.8	1.8	5.8	4.2	5.8	Oceanisphaera profunda	0.2	Oceanisphaera profunda	0.0013450990756420423	0.0024311183144246355
+18	21	42	Bacteria	657	52.5	6.0	135.1	5.9	Photobacterium damselae	40.8	1.4	5.5	4.0	5.8	Photobacterium damselae	8.8	Photobacterium damselae	0.0011020187090311697	0.00231535077564251
+19	28	33	Bacteria	544	63.7	5.8	185.6	5.4	Citrobacter freundii	3.3	1.0	2.2	3.9	4.4	Citrobacter freundii	0.1	Citrobacter freundii	0.0015139502027844936	0.0022574670062514473
+20	33	31	Bacteria	613	70.5	1.0	271.3	3.2	Serratia marcescens	25.3	0.7	5.3	3.9	0.0	Serratia plymuthica	0.1	Serratia marcescens	0.002213010183272808	0.0022574670062514473
+21	38	72	Bacteria	29580	25.8	5.0	57.5	1.8	Janthinobacterium sp. Marseille	13.9	0.5	0.2	3.8	0.2	Janthinobacterium sp. Marseille	0.1	Janthinobacterium sp. Marseille	0.0004690309087290323	0.0021995832368603844
+22	39	53	Bacteria	53335	37.3	2.9	237.2	4.7	Pantoea agglomerans	0.7	0.5	2.5	3.6	2.6	Pantoea ananatis	11.6	Pantoea agglomerans	0.001934854461748286	0.002083815698078259
+23	41	49	Bacteria	629	42.6	6.5	247.7	5.8	Yersinia enterocolitica	21.0	0.5	4.6	3.5	4.7	Yersinia ruckeri	0.1	Yersinia enterocolitica	0.0020205035842118485	0.002025931928687196
+24	40	38	Bacteria	12916	59.5	1.4	406.3	3.8	Acidovorax sp. KKS102	4.9	0.5	0.2	3.5	0.0	Acidovorax sp. KKS102	0.2	Acidovorax sp. KKS102	0.0033142131863757537	0.002025931928687196
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0066_s66.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	1	10	Bacteria	1578	9.3	1.5	34.3	1.6	Lactobacillus plantarum	6.2	8.4	5.8	16.1	0.5	Lactobacillus reuteri	1.1	Lactobacillus plantarum	0.502932551319648	0.39172749391727496
+1	0	13	Bacteria	191494	7.2	0.1	7.2	0.1	Conexibacter woesei	7.0	11.5	5.2	11.9	5.1	Conexibacter woesei	0.2	Conexibacter woesei	0.10557184750733138	0.2895377128953771
+2	9	42	Bacteria	497	1.4	0.5	5.0	-0.3	Psychrobacter sp. PRwf-1	0.4	0.2	4.0	6.7	0.7	Psychrobacter sp. G	0.2	Psychrobacter sp. G	0.07331378299120234	0.1630170316301703
+3	2	37	Bacteria	1763521	2.2	0.5	2.2	0.5	Paludisphaera borealis	3.0	2.0	5.1	2.0	5.1	Paludisphaera borealis	0.1	Paludisphaera borealis	0.03225806451612903	0.048661800486618
+4	3	31	Bacteria	118	2.7	0.4	3.4	0.2	Planctomyces sp. SH-PL62	3.6	1.4	2.3	1.4	0.6	Planctomyces sp. SH-PL62	0.3	Planctomyces sp. SH-PL62	0.04985337243401759	0.0340632603406326
+5	4	93	Viruses	10509	0.2	5.6	0.2	0.4	Human mastadenovirus B	0.2	0.9	1.1	0.9	0.7	Human mastadenovirus C	0.2	Human mastadenovirus C	0.002932551319648094	0.021897810218978103
+6	5	144	Bacteria	361607	0.1	4.1	0.1	4.1	Patulibacter medicamentivorans	1.3	0.5	0.1	0.7	0.2	Patulibacter medicamentivorans	0.3	Patulibacter medicamentivorans	0.001466275659824047	0.0170316301703163
+7	7	33	Bacteria	841	2.4	3.6	4.9	4.4	Roseburia intestinalis	0.9	0.4	0.9	0.6	0.6	Roseburia hominis	0.1	Roseburia intestinalis	0.0718475073313783	0.014598540145985401
+8	6	14	Bacteria	63132	6.5	0.6	6.5	0.6	Geitlerinema sp. PCC 7407	6.3	0.4	0.7	0.4	0.6	Geitlerinema sp. PCC 7407	0.3	Geitlerinema sp. PCC 7407	0.09530791788856305	0.009732360097323601
+9	8	35	Bacteria	572511	2.4	4.3	4.4	4.4	[Ruminococcus] torques	1.0	0.3	0.2	0.3	-0.5	[Ruminococcus] torques	2.6	[Ruminococcus] torques	0.06451612903225806	0.0072992700729927005
+10	11	255	Viruses	10912	0.0	0.0	0.0	0.0	0	0.0	0.1	1.4	0.1	1.4	Rotavirus A	0.1	Rotavirus A	0.0	0.0024330900243309003
+11	10	138	Viruses	-200687329	0.1	3.0	0.0	0.0	Torque teno virus	0.0	0.1	5.8	0.0	0.0	Torque teno virus	0.2	Torque teno virus	0.0	0.0
+12	12	176	Viruses	12109	0.0	5.1	0.0	5.1	Foot-and-mouth disease virus	0.0	0.0	0.0	0.0	0.0	0	0.0	Foot-and-mouth disease virus	0.0	0.0
+13	13	185	Viruses	558016	0.0	2.8	0.0	0.2	Hyphantria cunea nucleopolyhedrovirus	0.0	0.0	0.0	0.0	0.0	0	0.0	Hyphantria cunea nucleopolyhedrovirus	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0067_s67.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	2	Bacteria	286	41.8	0.8	198.0	-0.3	Pseudomonas alcaligenes	32.4	3.9	1.5	39.2	0.2	Pseudomonas alcaliphila	1.0	Pseudomonas alcaligenes	0.6346153846153846	0.5576102418207682
+1	2	7	Bacteria	1298	6.0	0.1	10.9	-0.3	Deinococcus radiodurans	1.1	2.7	2.3	13.8	0.8	Deinococcus soli Cha et al. 2016	0.2	Deinococcus soli Cha et al. 2016	0.03493589743589744	0.19630156472261737
+2	3	1	Bacteria	33882	47.3	0.3	83.2	-0.3	Microbacterium aurum	32.9	1.5	1.3	9.9	-0.1	Microbacterium aurum	0.3	Microbacterium aurum	0.26666666666666666	0.14082503556187767
+3	1	4	Bacteria	352	7.5	2.7	10.0	0.9	Azotobacter vinelandii	5.7	3.5	5.2	4.6	5.3	Azotobacter vinelandii	0.3	Azotobacter vinelandii	0.03205128205128205	0.06543385490753911
+4	4	44	Bacteria	1485	0.1	0.4	0.4	-0.6	Clostridium argentinense	0.1	0.2	2.1	2.0	0.5	Clostridium tetani	0.1	Clostridium tetani	0.001282051282051282	0.02844950213371266
+5	5	22	Bacteria	47251	0.3	0.4	0.6	-0.1	Leptolyngbya boryana	0.4	0.1	0.2	0.8	2.2	Leptolyngbya boryana	0.1	Leptolyngbya boryana	0.001923076923076923	0.011379800853485065
+6	11	21	Viruses	-200151340	0.3	4.0	0.0	0.0	Human papillomavirus	0.2	0.0	0.0	0.0	0.0	0	0.0	Human papillomavirus	0.0	0.0
+7	15	9	Viruses	333750	5.4	5.7	5.4	5.7	Alphapapillomavirus 4	3.1	0.0	0.0	0.0	0.0	0	0.0	Alphapapillomavirus 4	0.01730769230769231	0.0
+8	14	12	Viruses	333922	0.9	4.3	1.3	1.5	Betapapillomavirus 1	0.9	0.0	0.0	0.0	0.0	0	0.0	Betapapillomavirus 1	0.004166666666666667	0.0
+9	13	23	Viruses	10509	0.2	2.1	0.2	0.1	Human mastadenovirus F	0.2	0.0	0.0	0.0	0.0	0	0.0	Human mastadenovirus F	0.000641025641025641	0.0
+10	12	33	Viruses	40272	0.1	0.9	0.3	-0.0	Human betaherpesvirus 6B	0.0	0.0	0.0	0.0	0.0	0	0.0	Human betaherpesvirus 6B	0.0009615384615384615	0.0
+11	8	74	Viruses	1891714	0.0	5.7	0.2	3.9	Macaca mulatta polyomavirus 1	0.0	0.0	0.0	0.0	0.0	0	0.0	Macaca mulatta polyomavirus 1	0.000641025641025641	0.0
+12	10	56	Viruses	12059	0.0	2.6	0.0	2.6	Enterovirus B	0.0	0.0	0.0	0.0	0.0	0	0.0	Enterovirus B	0.0	0.0
+13	9	70	Viruses	-200011632	0.0	5.7	0.0	0.0	LNras*SN acutely transforming retrovirus	0.0	0.0	0.0	0.0	0.0	0	0.0	LNras*SN acutely transforming retrovirus	0.0	0.0
+14	7	83	Viruses	558016	0.0	0.9	0.0	0.1	Spodoptera litura nucleopolyhedrovirus	0.0	0.0	0.0	0.0	0.0	0	0.0	Spodoptera litura nucleopolyhedrovirus	0.0	0.0
+15	6	43	Viruses	10294	0.1	3.4	1.5	3.9	Human alphaherpesvirus 1	0.6	0.0	0.0	0.0	0.0	0	0.0	Human alphaherpesvirus 1	0.004807692307692308	0.0
+16	16	87	Viruses	325455	0.0	5.7	0.0	0.3	Human papillomavirus KC5	0.0	0.0	0.0	0.0	0.0	0	0.0	Human papillomavirus KC5	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0068_s68.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	8	Bacteria	1578	6.7	1.3	13.9	-0.1	Lactobacillus rhamnosus	2.7	3.2	5.6	12.0	0.2	Lactobacillus rhamnosus	3.2	Lactobacillus rhamnosus	0.018263040336355278	0.49792531120331956
+1	1	1	Bacteria	570	68.8	2.1	85.1	1.2	Klebsiella pneumoniae	27.6	2.4	0.7	4.2	0.5	Klebsiella pneumoniae	5.2	Klebsiella pneumoniae	0.11181185126790173	0.17427385892116184
+2	4	2	Bacteria	1678	58.4	4.8	98.1	1.9	Bifidobacterium breve	37.4	1.1	5.8	3.0	0.6	Bifidobacterium animalis	0.1	Bifidobacterium breve	0.12889239258967286	0.12448132780082989
+3	3	0	Bacteria	32008	390.5	5.7	511.7	5.4	Burkholderia cepacia	104.2	1.2	4.6	1.9	0.1	Burkholderia cepacia	0.4	Burkholderia cepacia	0.672316384180791	0.07883817427385892
+4	2	178	Viruses	10509	0.0	0.0	0.0	0.0	0	0.0	1.3	2.2	1.5	2.1	Human mastadenovirus C	1.0	Human mastadenovirus C	0.0	0.062240663900414946
+5	5	37	Bacteria	572511	0.4	0.1	0.5	-0.2	[Ruminococcus] torques	0.3	0.8	1.4	0.8	0.0	[Ruminococcus] torques	0.6	[Ruminococcus] torques	0.000656943896991197	0.033195020746887974
+6	6	7	Bacteria	106589	9.1	1.0	43.8	-0.1	Cupriavidus necator	3.3	0.2	0.6	0.4	-0.4	Cupriavidus necator	0.2	Cupriavidus necator	0.05754828537642886	0.016597510373443987
+7	7	198	Viruses	2003394	0.0	0.0	0.0	0.0	0	0.0	0.2	5.6	0.2	3.1	Bell pepper alphaendornavirus	0.2	Bell pepper alphaendornavirus	0.0	0.008298755186721993
+8	8	12	Bacteria	195950	5.0	2.9	7.9	1.2	Tannerella forsythia	4.6	0.1	0.8	0.1	-0.2	Tannerella forsythia	0.1	Tannerella forsythia	0.010379713572460914	0.004149377593360997
+9	9	110	Viruses	325455	0.1	5.7	0.1	1.6	Gammapapillomavirus 23	0.1	0.0	0.0	0.0	0.0	0	0.0	Gammapapillomavirus 23	0.0001313887793982394	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0077_s77.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	3	Bacteria	1716	13.1	0.3	139.1	-0.4	Corynebacterium maris	12.7	13.5	1.2	56.9	0.4	Corynebacterium ureicelerivorans	0.5	Corynebacterium maris	0.6506080449017774	0.8713629402756511
+1	1	1	Bacteria	724	48.2	1.0	55.1	0.3	Haemophilus influenzae	17.5	3.9	0.3	5.4	-0.1	[Haemophilus] ducreyi	0.6	Haemophilus influenzae	0.2577174929840973	0.08269525267993877
+2	3	8	Bacteria	1678	6.1	3.3	14.9	-0.3	Bifidobacterium pseudocatenulatum	3.8	0.7	5.6	1.8	-0.2	Bifidobacterium pseudolongum	0.1	Bifidobacterium pseudocatenulatum	0.06969130028063611	0.027565084226646257
+3	2	53	Viruses	10509	0.2	2.3	0.2	0.2	Human mastadenovirus F	0.0	0.8	0.9	0.8	0.5	Human mastadenovirus C	0.3	Human mastadenovirus C	0.0009354536950420955	0.012251148545176114
+4	4	11	Bacteria	1868332	4.3	0.2	4.3	0.2	Neomicrococcus aestuarii	8.7	0.3	0.3	0.3	0.3	Neomicrococcus aestuarii	0.1	Neomicrococcus aestuarii	0.020112254443405052	0.004594180704441043
+5	5	139	Viruses	39749	0.0	0.0	0.0	0.0	0	0.0	0.1	5.8	0.1	5.8	Sclerotinia sclerotiorum hypovirus 2	0.1	Sclerotinia sclerotiorum hypovirus 2	0.0	0.0015313935681470143
+6	6	91	Viruses	333922	0.1	1.1	0.1	-0.4	Betapapillomavirus 4	0.1	0.0	0.0	0.0	0.0	0	0.0	Betapapillomavirus 4	0.00046772684752104777	0.0
+7	7	102	Viruses	10405	0.0	5.7	0.1	2.4	Woodchuck hepatitis virus	0.0	0.0	0.0	0.0	0.0	0	0.0	Woodchuck hepatitis virus	0.00046772684752104777	0.0
+8	8	117	Viruses	1985367	0.0	0.1	0.0	0.0	Bovine associated gemykrogvirus 1	0.0	0.0	0.0	0.0	0.0	0	0.0	Bovine associated gemykrogvirus 1	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0078_s78.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	24	Bacteria	32207	17.2	0.1	32.1	0.2	Rothia mucilaginosa	3.1	7.8	0.9	10.0	0.4	Rothia mucilaginosa	0.1	Rothia mucilaginosa	0.06966145833333331	0.32258064516129026
+1	2	15	Bacteria	1716	35.2	3.6	315.6	-0.0	Corynebacterium marinum	30.4	2.0	0.2	9.4	-0.6	Corynebacterium aurimucosum	0.8	Corynebacterium marinum	0.6848958333333331	0.3032258064516129
+2	1	22	Bacteria	547	18.6	0.4	54.8	0.4	Enterobacter cloacae	10.6	4.5	0.8	4.5	0.0	Enterobacter cloacae	0.7	Enterobacter cloacae	0.11892361111111108	0.14516129032258063
+3	11	46	Bacteria	1298	7.4	0.3	20.9	-0.1	Deinococcus radiodurans	4.4	0.2	0.1	3.2	-0.4	Deinococcus radiodurans	0.5	Deinococcus radiodurans	0.04535590277777776	0.1032258064516129
+4	3	248	Viruses	10509	0.1	0.2	0.1	0.1	Human mastadenovirus C	0.0	0.8	0.8	1.0	0.8	Human mastadenovirus C	0.7	Human mastadenovirus C	0.00021701388888888885	0.03225806451612903
+5	5	59	Bacteria	34008	5.2	0.1	11.1	0.2	Rhodovulum sulfidophilum	1.2	0.6	0.8	0.7	0.5	Rhodovulum sulfidophilum	0.8	Rhodovulum sulfidophilum	0.02408854166666666	0.022580645161290318
+6	4	39	Bacteria	29404	9.1	0.1	11.8	0.2	Microlunatus phosphovorus	9.7	0.6	0.4	0.6	0.1	Microlunatus phosphovorus	0.1	Microlunatus phosphovorus	0.025607638888888885	0.019354838709677417
+7	6	62	Bacteria	875170	4.9	0.3	5.0	0.3	Celeribacter indicus	0.7	0.3	0.2	0.3	0.2	Celeribacter indicus	0.1	Celeribacter indicus	0.010850694444444442	0.009677419354838708
+8	7	92	Bacteria	133925	2.7	5.5	6.3	1.9	Olsenella umbonata	0.4	0.3	1.2	0.3	0.1	Olsenella sp. oral taxon 807	0.3	Olsenella umbonata	0.013671874999999997	0.009677419354838708
+9	8	112	Bacteria	57739	1.5	0.2	1.5	0.1	Vogesella sp. LIG4	0.3	0.3	3.1	0.3	2.2	Vogesella sp. LIG4	0.2	Vogesella sp. LIG4	0.0032552083333333326	0.009677419354838708
+10	9	169	Bacteria	44259	0.4	0.2	0.4	0.2	Filifactor alocis	0.4	0.3	0.5	0.3	0.5	Filifactor alocis	0.3	Filifactor alocis	0.0008680555555555554	0.009677419354838708
+11	10	188	Bacteria	572511	0.3	0.2	0.7	-0.0	Blautia obeum	0.4	0.3	0.1	0.3	-0.6	[Ruminococcus] torques	0.2	Blautia obeum	0.0015190972222222218	0.009677419354838708
+12	12	264	Bacteria	85043	0.1	0.3	0.1	-0.1	Williamsia muralis	6.7	0.1	2.1	0.1	-0.1	Williamsia muralis	0.1	Williamsia muralis	0.00021701388888888885	0.0032258064516129032
+13	13	187	Viruses	10358	0.3	3.1	0.3	0.5	Human betaherpesvirus 5	0.3	0.0	0.0	0.0	0.0	0	0.0	Human betaherpesvirus 5	0.0006510416666666664	0.0
+14	14	241	Viruses	11646	0.1	5.6	0.1	1.4	Human immunodeficiency virus 1	0.1	0.0	0.0	0.0	0.0	0	0.0	Human immunodeficiency virus 1	0.00021701388888888885	0.0
+15	15	334	Viruses	325455	0.0	2.7	0.0	0.7	Gammapapillomavirus 1	0.0	0.0	0.0	0.0	0.0	0	0.0	Gammapapillomavirus 1	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0079_s79.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	1	Bacteria	561	41.1	0.2	45.8	0.3	Escherichia coli	38.6	79.6	0.3	113.4	0.7	Escherichia coli	187.3	Escherichia coli	0.29682436811406354	0.9792746113989638
+1	2	5	Bacteria	497	10.3	5.2	50.2	4.3	Psychrobacter sp. DAB_AL43B	1.5	0.2	0.9	1.5	-0.2	Psychrobacter arcticus	0.1	Psychrobacter sp. DAB_AL43B	0.3253402462734932	0.01295336787564767
+2	1	0	Bacteria	528	47.6	2.3	51.5	2.1	Ochrobactrum anthropi	16.7	0.5	0.3	0.6	0.1	Ochrobactrum anthropi	0.4	Ochrobactrum anthropi	0.33376539209332473	0.0051813471502590676
+3	3	10	Bacteria	413496	4.3	2.0	6.2	0.0	Cronobacter malonaticus	0.8	0.1	2.1	0.3	0.9	Cronobacter sakazakii	0.5	Cronobacter malonaticus	0.04018146467919638	0.0025906735751295338
+4	4	38	Viruses	10358	0.1	1.0	0.4	0.7	Human betaherpesvirus 5	0.4	0.0	0.0	0.0	0.0	0	0.0	Human betaherpesvirus 5	0.0025923525599481534	0.0
+5	5	71	Viruses	12103	0.0	3.7	0.0	3.7	Cardiovirus B	0.0	0.0	0.0	0.0	0.0	0	0.0	Cardiovirus B	0.0	0.0
+6	6	73	Viruses	10509	0.0	0.1	0.1	-0.2	Human mastadenovirus F	0.0	0.0	0.0	0.0	0.0	0	0.0	Human mastadenovirus F	0.0006480881399870384	0.0
+7	7	94	Viruses	1891714	0.0	0.8	0.1	1.3	Human polyomavirus 4	0.0	0.0	0.0	0.0	0.0	0	0.0	Human polyomavirus 4	0.0006480881399870384	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0080_s80.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	3	Viruses	10375	0.4	5.7	0.4	5.7	Human gammaherpesvirus 4	0.2	0.0	0.0	0.0	0.0	0	0.0	Human gammaherpesvirus 4	1.0	
+1	1	18	Viruses	-200687329	0.0	0.4	0.0	0.0	Torque teno virus	0.0	0.0	0.0	0.0	0.0	0	0.0	Torque teno virus	0.0	
+2	2	23	Viruses	10358	0.0	1.5	0.0	-0.5	Cercopithecine betaherpesvirus 5	0.0	0.0	0.0	0.0	0.0	0	0.0	Cercopithecine betaherpesvirus 5	0.0	
+3	3	40	Viruses	1891714	0.0	0.9	0.0	0.5	Human polyomavirus 4	0.0	0.0	0.0	0.0	0.0	0	0.0	Human polyomavirus 4	0.0	
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0089_s89.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	4	Bacteria	40323	83.6	0.1	134.9	0.1	Stenotrophomonas maltophilia	48.8	257.6	5.8	349.7	5.8	Stenotrophomonas maltophilia	136.3	Stenotrophomonas maltophilia	0.02579596519743761	0.46116312804958454
+1	1	12	Bacteria	83618	47.0	0.1	51.2	0.1	Pseudoxanthomonas suwonensis	17.3	106.9	5.6	116.5	5.2	Pseudoxanthomonas suwonensis	24.2	Pseudoxanthomonas suwonensis	0.009790610957070464	0.1536331267308453
+2	4	0	Bacteria	1763	275.5	0.3	3964.7	0.3	Mycobacterium sp. YC-RL4	9.2	12.8	5.8	88.5	1.3	Mycobacterium immunogenum	3.3	Mycobacterium sp. YC-RL4	0.7581413137011185	0.1167084267440327
+3	5	3	Bacteria	48736	108.9	0.3	140.8	0.3	Ralstonia pickettii	64.9	9.7	5.0	63.0	5.3	Ralstonia pickettii	4.9	Ralstonia pickettii	0.026924180131943778	0.08308057497032836
+4	2	2	Bacteria	1269	198.6	0.2	211.0	0.2	Micrococcus luteus	85.6	43.5	2.6	43.5	0.9	Micrococcus luteus	9.9	Micrococcus luteus	0.04034802562386461	0.057365158908083864
+5	7	5	Bacteria	1716	76.3	4.7	406.2	0.2	Corynebacterium maris	72.0	3.2	3.7	22.6	-0.3	Corynebacterium kroppenstedtii	1.6	Corynebacterium maris	0.07767472989769575	0.029803507846498746
+6	8	56	Bacteria	379	5.2	0.1	23.8	-0.3	Rhizobium leguminosarum	2.2	2.9	5.8	20.2	0.9	Rhizobium phaseoli	1.0	Rhizobium leguminosarum	0.004551104312075724	0.026638533561914805
+7	3	74	Bacteria	73029	3.8	0.3	3.8	0.3	Dechloromonas aromatica	1.3	19.4	5.8	19.4	5.8	Dechloromonas aromatica	10.0	Dechloromonas aromatica	0.0007266469069700734	0.02558354213372016
+8	11	30	Bacteria	106589	14.0	0.3	54.9	0.2	Cupriavidus gilardii	5.7	1.6	4.1	12.6	5.1	Cupriavidus taiwanensis	2.9	Cupriavidus gilardii	0.01049813557701501	0.01661611499406567
+9	6	65	Bacteria	517	4.2	0.1	20.6	0.0	Bordetella genomosp. 13	1.0	4.0	5.6	11.8	1.1	Bordetella hinzii	3.8	Bordetella genomosp. 13	0.00393919112725882	0.015561123565871027
+10	10	25	Bacteria	1827	20.8	0.2	108.8	0.1	Rhodococcus opacus	1.1	2.1	1.7	4.9	-0.3	Rhodococcus fascians	0.2	Rhodococcus opacus	0.020805048283774736	0.006461822497692206
+11	9	45	Bacteria	85413	8.3	0.2	20.8	0.1	Bosea sp. RAC05	1.7	2.7	5.5	4.3	1.1	Bosea vaviloviae	7.8	Bosea sp. RAC05	0.003977435701309876	0.005670578926546221
+12	12	28	Bacteria	1817	17.7	0.3	75.4	0.2	Nocardia brasiliensis	0.7	0.6	1.5	0.6	-0.3	Nocardia farcinica	0.6	Nocardia brasiliensis	0.014418204417248302	0.0007912435711459843
+13	13	104	Bacteria	34084	1.6	0.7	1.6	0.7	Riemerella anatipestifer	0.5	0.5	0.2	0.5	0.2	Riemerella anatipestifer	2.2	Riemerella anatipestifer	0.000305956592408452	0.0006593696426216536
+14	14	72	Bacteria	75	3.9	0.1	10.7	-0.0	Caulobacter segnis	0.6	0.2	0.3	0.2	-0.5	Caulobacter henricii	2.2	Caulobacter segnis	0.0020460847117315228	0.00026374785704866147
+15	15	223	Viruses	-200687329	0.2	3.8	0.0	0.0	Torque teno virus	0.1	0.0	0.0	0.0	0.0	0	0.0	Torque teno virus	0.0	0.0
+16	16	231	Viruses	333922	0.2	0.1	0.2	-0.2	Betapapillomavirus 2	0.2	0.0	0.0	0.0	0.0	0	0.0	Betapapillomavirus 2	3.82445740510565e-05	0.0
+17	17	278	Viruses	1985367	0.1	3.6	0.1	1.2	Caribou associated gemykrogvirus 1	0.0	0.0	0.0	0.0	0.0	0	0.0	Caribou associated gemykrogvirus 1	1.912228702552825e-05	0.0
+18	18	295	Viruses	-200151340	0.1	3.0	0.0	0.0	Human papillomavirus type 179	0.1	0.0	0.0	0.0	0.0	0	0.0	Human papillomavirus type 179	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0090_s90.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	13	Bacteria	53357	8.7	0.1	8.7	0.1	Intrasporangium calvum	2.2	2.8	0.2	2.8	0.2	Intrasporangium calvum	0.1	Intrasporangium calvum	0.02023726448011165	0.19047619047619047
+1	1	3	Bacteria	53457	70.6	0.5	70.7	0.5	Janibacter indicus	30.4	2.5	0.4	2.7	0.3	Janibacter indicus	0.4	Janibacter indicus	0.16445685043033262	0.1836734693877551
+2	2	18	Bacteria	1654	6.4	0.1	22.2	-0.3	Actinomyces sp. oral taxon 414	0.9	1.0	0.6	2.7	-0.4	Actinomyces oris	0.4	Actinomyces sp. oral taxon 414	0.05163991625959525	0.1836734693877551
+3	6	19	Bacteria	1298	5.6	0.1	14.7	-0.2	Deinococcus radiodurans	1.7	0.3	0.4	2.1	-0.5	Deinococcus radiodurans	0.6	Deinococcus radiodurans	0.034193998604326585	0.14285714285714288
+4	3	2	Bacteria	642	155.3	2.3	296.2	2.1	Aeromonas hydrophila	6.2	0.9	0.6	1.8	-0.1	Aeromonas hydrophila	0.1	Aeromonas hydrophila	0.6889974412654105	0.12244897959183675
+5	5	12	Bacteria	102115	8.8	5.7	15.4	5.7	Stanieria sp. NIES-3757	0.9	0.4	3.7	0.9	4.0	Stanieria cyanosphaera	0.4	Stanieria sp. NIES-3757	0.035822284252151664	0.06122448979591837
+6	4	94	Bacteria	2147	0.1	0.4	0.1	0.4	Acholeplasma brassicae	0.1	0.7	0.7	0.7	0.2	Acholeplasma laidlawii	0.4	Acholeplasma laidlawii	0.00023261223540358222	0.047619047619047616
+7	7	35	Bacteria	572511	0.7	0.7	1.3	0.7	[Ruminococcus] torques	0.4	0.3	0.1	0.7	-0.0	Blautia obeum	0.6	[Ruminococcus] torques	0.0030239590602465687	0.047619047619047616
+8	8	111	Bacteria	1485	0.1	0.3	0.6	-0.5	Clostridium sp. SY8519	0.1	0.1	0.8	0.3	-0.6	Clostridium tetani	0.1	Clostridium sp. SY8519	0.0013956734124214933	0.020408163265306124
+9	9	139	Viruses	12109	0.0	2.4	0.0	2.4	Foot-and-mouth disease virus	0.0	0.0	0.0	0.0	0.0	0	0.0	Foot-and-mouth disease virus	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0091_s91.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	33	Bacteria	561	39.7	0.2	41.3	0.1	Escherichia coli	39.0	120.2	1.4	200.5	2.4	Escherichia coli	317.9	Escherichia coli	0.0034773383627040725	0.37680887051306144
+1	1	91	Bacteria	1847	9.4	0.4	37.6	0.5	Pseudonocardia sp. AL041005-10	1.4	71.6	4.2	106.7	1.1	Pseudonocardia sp. AL041005-10	0.3	Pseudonocardia sp. AL041005-10	0.0031658092599920855	0.20052621687652697
+2	2	0	Bacteria	1912216	8779.8	4.8	8884.0	4.8	Cutibacterium acnes	3016.3	62.9	0.1	65.8	0.1	Cutibacterium acnes	70.2	Cutibacterium acnes	0.7480066347279173	0.12366096598383762
+3	3	135	Bacteria	33877	4.9	0.2	9.5	0.2	Agromyces flavus	0.3	19.7	5.8	29.5	5.8	Agromyces flavus	0.1	Agromyces flavus	0.0007998720204767237	0.055440706634091334
+4	9	123	Bacteria	1578	6.1	1.0	23.4	0.7	Lactobacillus crispatus	5.1	2.3	1.6	23.6	1.1	Lactobacillus gasseri	1.8	Lactobacillus gasseri	0.001970211082016351	0.04435256530727307
+5	4	166	Bacteria	113	3.6	0.2	3.6	0.2	Gemmata sp. SH-PL17	5.8	18.8	5.8	22.4	5.8	Gemmata sp. SH-PL17	0.2	Gemmata sp. SH-PL17	0.0003031093972332848	0.042097350122157484
+6	6	2	Bacteria	1279	511.1	5.5	1067.6	5.1	Staphylococcus capitis	171.2	4.7	0.2	19.3	-0.3	Staphylococcus epidermidis	1.1	Staphylococcus capitis	0.08988877569062634	0.03627137756060891
+7	7	53	Bacteria	1835	23.2	1.7	23.3	1.7	Saccharopolyspora erythraea	13.2	4.1	2.8	11.4	4.2	Saccharopolyspora erythraea	0.1	Saccharopolyspora erythraea	0.0019617913765376488	0.021424544258598008
+8	5	12	Bacteria	590	235.1	0.5	237.0	0.5	Salmonella enterica	163.5	9.5	0.4	9.5	0.3	Salmonella enterica	30.9	Salmonella enterica	0.01995470198452458	0.017853786882165004
+9	39	161	Bacteria	1883	3.7	0.8	109.4	0.2	Streptomyces pactum	0.4	0.1	2.2	8.4	-0.1	Streptomyces rochei	0.1	Streptomyces pactum	0.009211157793700377	0.01578650629580906
+10	42	29	Bacteria	1654	44.6	0.5	167.9	0.7	Actinomyces oris	28.1	0.1	0.1	7.1	0.3	Actinomyces sp. oral taxon 414	0.1	Actinomyces oris	0.014136685498741254	0.013343356511933845
+11	11	114	Bacteria	165695	6.9	0.8	45.2	0.5	Sphingobium sp. RAC03	0.4	1.2	2.9	5.7	0.2	Sphingobium sp. MI1205	0.2	Sphingobium sp. RAC03	0.003805706876373465	0.010712272129299004
+12	8	57	Bacteria	547	22.4	0.7	139.4	2.1	Enterobacter cloacae	22.5	3.9	0.2	5.6	0.6	Enterobacter cloacae	1.0	Enterobacter cloacae	0.011737069437311084	0.010524337530539371
+13	10	10	Bacteria	57493	251.8	1.6	369.5	0.2	Kocuria palustris	122.9	1.6	0.4	4.4	-0.3	Kocuria rhizophila	0.2	Kocuria palustris	0.031110811743805204	0.008269122345423792
+14	12	8	Bacteria	613	317.7	5.5	360.8	4.4	Serratia marcescens	109.0	1.0	2.9	2.2	-0.1	Serratia marcescens	0.4	Serratia marcescens	0.030378297367158098	0.004134561172711896
+15	20	109	Bacteria	53335	7.7	0.1	27.7	-0.1	Pantoea agglomerans	1.0	0.3	1.3	1.9	0.7	Pantoea ananatis	6.0	Pantoea agglomerans	0.0023322584176005525	0.003570757376433001
+16	18	103	Bacteria	848	8.2	4.2	11.1	3.9	Fusobacterium nucleatum	1.9	0.4	0.4	1.5	1.1	Fusobacterium nucleatum	0.7	Fusobacterium nucleatum	0.0009345873081359614	0.0028190189813944748
+17	13	290	Bacteria	162289	0.6	3.4	0.7	2.9	Peptoniphilus sp. ING2-D1G	0.1	0.9	1.1	1.1	0.7	Peptoniphilus sp. ING2-D1G	0.5	Peptoniphilus sp. ING2-D1G	5.893793835091648e-05	0.002067280586355948
+18	17	26	Bacteria	1350	53.6	4.4	65.4	4.1	Enterococcus faecium	24.1	0.5	0.5	1.1	-0.3	Enterococcus faecalis	1.6	Enterococcus faecium	0.005506487383071341	0.002067280586355948
+19	16	102	Bacteria	1111	8.2	0.1	17.7	0.0	Porphyrobacter sp. CACIAM 03H1	1.3	0.6	1.2	1.1	0.9	Porphyrobacter sp. CACIAM 03H1	0.3	Porphyrobacter sp. CACIAM 03H1	0.001490287869730317	0.002067280586355948
+20	28	27	Bacteria	32008	46.5	0.5	107.3	0.7	Burkholderia cepacia	13.9	0.2	2.0	0.9	-0.2	Burkholderia cenocepacia	0.1	Burkholderia cepacia	0.009034343978647627	0.0016914113888366847
+21	14	58	Bacteria	1868332	22.4	4.4	22.4	4.4	Neomicrococcus aestuarii	31.9	0.8	1.5	0.8	1.5	Neomicrococcus aestuarii	0.3	Neomicrococcus aestuarii	0.0018860140272293274	0.0015034767900770532
+22	15	272	Bacteria	2147	0.8	6.4	0.8	5.1	Acholeplasma brassicae	0.3	0.6	0.7	0.6	0.1	Acholeplasma laidlawii	0.4	Acholeplasma brassicae	6.735764382961885e-05	0.0011276075925577898
+23	19	286	Bacteria	44249	0.7	0.1	5.6	0.4	Paenibacillus sp. 32O-W	0.5	0.3	5.7	0.5	0.0	Paenibacillus glucanolyticus	0.1	Paenibacillus sp. 32O-W	0.00047150350680733185	0.0009396729937981583
+24	38	25	Bacteria	642	57.2	0.5	98.7	0.3	Aeromonas hydrophila	6.9	0.1	0.7	0.5	-0.5	Aeromonas salmonicida	0.1	Aeromonas hydrophila	0.008310249307479225	0.0009396729937981583
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0092_s92.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	7	Bacteria	2701	17.4	0.8	17.4	0.8	Gardnerella vaginalis	19.5	7.6	3.7	10.4	3.9	Gardnerella vaginalis	4.9	Gardnerella vaginalis	0.12176347095871237	0.42105263157894735
+1	3	20	Bacteria	32067	1.1	0.3	1.3	-0.1	Leptotrichia buccalis	0.2	0.6	1.5	5.3	4.3	Leptotrichia sp. oral taxon 212	0.3	Leptotrichia sp. oral taxon 212	0.009097270818754374	0.21457489878542507
+2	1	5	Bacteria	547	24.6	0.8	31.0	-0.1	Enterobacter cloacae	7.0	4.3	0.6	4.8	0.2	Enterobacter cloacae	0.4	Enterobacter cloacae	0.21693491952414276	0.194331983805668
+3	6	6	Bacteria	270	24.1	3.2	58.3	3.3	Thermus thermophilus	13.2	0.1	1.8	1.6	3.5	Thermus parvatiensis	0.1	Thermus thermophilus	0.40797760671798455	0.06477732793522267
+4	2	4	Bacteria	613	26.4	0.1	32.1	0.0	Serratia marcescens	9.2	0.6	1.6	0.9	-0.2	Serratia marcescens	0.9	Serratia marcescens	0.22463261021693492	0.03643724696356275
+5	4	108	Viruses	10509	0.0	0.0	0.0	0.0	0	0.0	0.6	0.1	0.7	0.1	Human mastadenovirus C	0.4	Human mastadenovirus C	0.0	0.028340080971659912
+6	5	110	Viruses	11007	0.0	0.0	0.0	0.0	0	0.0	0.6	1.9	0.7	1.9	Saccharomyces cerevisiae virus L-A	0.6	Saccharomyces cerevisiae virus L-A	0.0	0.028340080971659912
+7	7	16	Bacteria	841	2.2	3.2	2.3	1.7	Roseburia intestinalis	1.2	0.1	0.1	0.1	-0.5	Roseburia intestinalis	0.2	Roseburia intestinalis	0.01609517144856543	0.004048582995951417
+8	8	21	Bacteria	194	0.4	0.8	0.5	-0.5	Campylobacter jejuni	0.1	0.1	5.8	0.1	-0.1	Campylobacter cuniculorum	0.1	Campylobacter jejuni	0.003498950314905528	0.004048582995951417
+9	9	118	Viruses	119164	0.0	0.0	0.0	0.0	0	0.0	0.1	4.2	0.1	4.2	Cucurbit aphid-borne yellows virus	0.1	Cucurbit aphid-borne yellows virus	0.0	0.004048582995951417
+10	10	14	Viruses	-200011632	4.0	5.7	0.0	0.0	Citrus endogenous pararetrovirus	5.7	0.0	0.0	0.0	0.0	0	0.0	Citrus endogenous pararetrovirus	0.0	0.0
+11	11	77	Viruses	687332	0.0	5.5	0.0	5.5	Torque teno mini virus 7	0.0	0.0	0.0	0.0	0.0	0	0.0	Torque teno mini virus 7	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0010_s10.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	7	Viruses	12059	0.0	0.0	0.0	0.0	0	0.0	9.3	99.0	9.3	99.0	Enterovirus B	8.9	Enterovirus B		0.9687499999999999
+1	2	10	Viruses	2003394	0.0	0.0	0.0	0.0	0	0.0	0.3	11.4	0.3	5.6	Oryza sativa alphaendornavirus	0.3	Oryza sativa alphaendornavirus		0.031249999999999993
+2	1	9	Viruses	-200687329	0.0	0.0	0.0	0.0	0	0.0	0.3	12.6	0.0	0.0	Torque teno virus	0.1	0		0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0011_s11.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	3	Viruses	39744	0.0	0.0	0.0	0.0	0	0.0	0.7	100.0	0.7	100.0	Mumps rubulavirus	0.6	Mumps rubulavirus		0.7777777777777778
+1	1	7	Viruses	10375	0.0	0.0	0.0	0.0	0	0.0	0.1	100.0	0.1	100.0	Human gammaherpesvirus 4	0.1	Human gammaherpesvirus 4		0.11111111111111113
+2	2	8	Viruses	325455	0.0	0.0	0.0	0.0	0	0.0	0.1	100.0	0.1	1.0	Gammapapillomavirus 7	0.1	Gammapapillomavirus 7		0.11111111111111113
+3	3	1	Viruses	40272	0.0	1.2	0.0	-0.3	Human betaherpesvirus 7	0.0	0.0	0.0	0.0	0.0	0	0.0	Human betaherpesvirus 7		0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0012_s12.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	8	Viruses	11019	0.0	0.0	0.0	0.0	0	0.0	1398.4	99.0	1830.1	99.0	Chikungunya virus	568.6	Chikungunya virus	0.0	0.5864577324873421
+1	1	0	Viruses	1511911	267.1	7.4	268.6	7.4	Primate tetraparvovirus 1	93.0	1172.3	99.0	1175.0	99.0	Primate tetraparvovirus 1	333.9	Primate tetraparvovirus 1	0.7867603983596954	0.37653015445747606
+2	5	3	Bacteria	1716	4.8	0.1	7.5	-0.7	Corynebacterium stationis	4.0	3.4	7.6	51.5	0.3	Corynebacterium stationis	3.1	Corynebacterium stationis	0.02196836555360281	0.016503236557072355
+3	2	2	Bacteria	59732	14.1	4.4	14.3	0.6	Chryseobacterium indologenes	4.9	21.6	72.9	23.9	12.4	Chryseobacterium indologenes	5.1	Chryseobacterium indologenes	0.04188635032220269	0.007658783567262704
+4	3	1	Bacteria	80865	34.4	4.5	50.6	1.7	Delftia tsuruhatensis	2.1	10.5	0.9	23.3	0.1	Delftia tsuruhatensis	2.6	Delftia tsuruhatensis	0.1482132396016403	0.00746651285009293
+5	4	6	Bacteria	1578	0.1	0.1	0.2	-1.2	Lactobacillus acidipiscis	0.1	4.3	1.4	14.8	0.4	Lactobacillus crispatus	10.0	Lactobacillus crispatus	0.0005858230814294083	0.004742677690187784
+6	6	30	Viruses	10509	0.0	0.0	0.0	0.0	0	0.0	1.1	1.8	1.4	2.0	Human mastadenovirus C	0.3	Human mastadenovirus C	0.0	0.0004486316733961417
+7	7	4	Viruses	40121	0.2	13.0	0.2	14.9	Primate erythroparvovirus 1	0.1	0.6	100.0	0.6	100.0	Primate erythroparvovirus 1	0.6	Primate erythroparvovirus 1	0.0005858230814294083	0.000192270717169775
+8	8	45	Viruses	-200687329	0.0	0.0	0.0	0.0	0	0.0	0.6	25.9	0.0	0.0	Torque teno virus	0.6	0	0.0	0.0
+9	9	5	Viruses	-200010780	0.1	3.5	0.0	0.0	Human parvovirus 5	0.0	0.3	100.0	0.0	0.0	Human parvovirus 5	0.1	Human parvovirus 5	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0022_s22.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	16	Viruses	12234	0.0	0.0	0.0	0.0	0	0.0	0.9	100.0	0.9	5.9	Cucumber green mottle mosaic virus	0.9	Cucumber green mottle mosaic virus	0.0	1.0
+1	1	0	Viruses	10358	0.1	0.2	0.1	-0.4	Human betaherpesvirus 5	0.1	0.0	0.0	0.0	0.0	0	0.0	Human betaherpesvirus 5	1.0	0.0
+2	2	2	Viruses	10294	0.0	1.1	0.0	-0.2	Human alphaherpesvirus 1	0.0	0.0	0.0	0.0	0.0	0	0.0	Human alphaherpesvirus 1	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0023_s23.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	1055688	1.2	0.1	1.2	0.1	Sandaracinus amylolyticus	5.3	298.1	99.0	299.6	99.0	Sandaracinus amylolyticus	2.4	Sandaracinus amylolyticus	1.0	0.9907407407407405
+1	1	77	Viruses	11007	0.0	0.0	0.0	0.0	0	0.0	1.0	3.6	1.1	3.3	Saccharomyces cerevisiae virus L-A	0.9	Saccharomyces cerevisiae virus L-A	0.0	0.003637566137566137
+2	3	17	Viruses	687332	0.0	100.0	0.0	9.5	Torque teno mini virus 5	0.0	0.7	99.0	1.0	71.3	TTV-like mini virus	0.2	TTV-like mini virus	0.0	0.003306878306878306
+3	4	154	Viruses	333922	0.0	0.0	0.0	0.0	0	0.0	0.2	4.6	0.2	1.9	Betapapillomavirus 2	0.1	Betapapillomavirus 2	0.0	0.0006613756613756612
+4	5	156	Viruses	40121	0.0	0.0	0.0	0.0	0	0.0	0.2	100.0	0.2	100.0	Primate erythroparvovirus 1	0.2	Primate erythroparvovirus 1	0.0	0.0006613756613756612
+5	6	200	Viruses	1985367	0.0	0.0	0.0	0.0	0	0.0	0.1	2.1	0.1	2.1	Caribou associated gemykrogvirus 1	0.1	Caribou associated gemykrogvirus 1	0.0	0.0003306878306878306
+6	7	202	Viruses	1891714	0.0	0.0	0.0	0.0	0	0.0	0.1	4.6	0.1	4.6	Human polyomavirus 4	0.1	Human polyomavirus 4	0.0	0.0003306878306878306
+7	9	208	Viruses	10912	0.0	0.0	0.0	0.0	0	0.0	0.1	2.8	0.1	2.8	Rotavirus A	0.1	Rotavirus A	0.0	0.0003306878306878306
+8	2	10	Viruses	-200687329	0.0	0.6	0.0	0.0	Torque teno virus	0.1	0.8	35.3	0.0	0.0	Torque teno virus	0.5	Torque teno virus	0.0	0.0
+9	8	206	Viruses	-200011006	0.0	0.0	0.0	0.0	0	0.0	0.1	100.0	0.0	0.0	Red clover powdery mildew-associated totivirus 4	0.3	0	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0034_s34.csv
+
+	level_0	index	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	category_name	genus_taxid	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	1	40	0.0	0.0	0.0	0.0	0	0.0	Viruses	325455	0.1	100.0	0.1	1.6	Gammapapillomavirus 12	0.1	Gammapapillomavirus 12		1.0
+1	0	17	0.0	0.0	0.0	0.0	0	0.0	Viruses	-200687329	0.4	20.4	0.0	0.0	Torque teno virus	0.2	0		0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0035_s35.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	1	1	Viruses	687331	0.2	100.0	0.4	43.6	Torque teno virus 16	0.2	1.2	100.0	2.0	100.0	Torque teno virus 16	1.1	Torque teno virus 16	0.4444444444444445	0.8333333333333333
+1	2	8	Viruses	10358	0.0	0.0	0.0	0.0	0	0.0	0.2	23.4	0.2	0.5	Human betaherpesvirus 5	0.2	Human betaherpesvirus 5	0.0	0.08333333333333333
+2	3	3	Viruses	687332	0.0	100.0	0.0	16.1	Torque teno mini virus 2	0.1	0.1	100.0	0.2	14.3	Torque teno mini virus 2	0.5	Torque teno mini virus 2	0.0	0.08333333333333333
+3	0	0	Viruses	-200687329	1.0	23.1	0.0	0.0	Torque teno virus	0.8	5.5	99.0	0.0	0.0	Torque teno virus	5.1	Torque teno virus	0.0	0.0
+4	4	2	Viruses	40272	0.1	0.4	0.5	0.2	Human herpesvirus 6	0.1	0.0	0.0	0.0	0.0	0	0.0	Human herpesvirus 6	0.5555555555555556	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0046_s46.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	1	1	Bacteria	816	12.3	11.0	25.3	2.0	Bacteroides vulgatus	4.5	12.1	57.4	28.9	14.6	Bacteroides vulgatus	5.6	Bacteroides vulgatus	0.2217353198948291	0.5061295971978984
+1	0	0	Bacteria	1678	60.6	2.6	84.7	1.6	Bifidobacterium longum	31.4	14.6	68.2	22.9	12.1	Bifidobacterium longum	16.6	Bifidobacterium longum	0.7423312883435583	0.40105078809106826
+2	2	2	Bacteria	375288	3.8	1.7	3.8	1.6	Parabacteroides distasonis	0.6	4.1	46.1	4.1	21.8	Parabacteroides distasonis	0.5	Parabacteroides distasonis	0.033304119193689745	0.07180385288966724
+3	3	9	Bacteria	1730	0.3	1.3	0.3	0.2	Eubacterium limosum	0.1	0.3	4.5	1.0	3.0	Eubacterium limosum	0.1	Eubacterium limosum	0.0026292725679228747	0.017513134851138354
+4	5	121	Viruses	12234	0.0	0.0	0.0	0.0	0	0.0	0.1	100.0	0.1	0.3	Pepper mild mottle virus	0.1	Pepper mild mottle virus	0.0	0.0017513134851138354
+5	6	132	Viruses	11007	0.0	0.0	0.0	0.0	0	0.0	0.1	1.0	0.1	0.0	Saccharomyces cerevisiae virus L-BC (La)	0.1	Saccharomyces cerevisiae virus L-BC (La)	0.0	0.0017513134851138354
+6	4	90	Viruses	-200151340	0.0	0.0	0.0	0.0	0	0.0	0.3	100.0	0.0	0.0	Human papillomavirus type 179	0.3	0	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0047_s47.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	1	1	Viruses	687332	0.0	100.0	0.0	13.1	TTV-like mini virus	0.0	9.8	99.0	17.2	99.0	TTV-like mini virus	5.6	TTV-like mini virus		0.7999999999999999
+1	2	5	Viruses	687331	0.0	100.0	0.0	1.6	Torque teno virus 24	0.0	1.9	100.0	4.3	100.0	Torque teno virus 16	2.5	Torque teno virus 16		0.19999999999999998
+2	0	0	Viruses	-200687329	0.2	5.2	0.0	0.0	Torque teno virus	0.2	29.3	99.0	0.0	0.0	Torque teno virus	21.0	Torque teno virus		0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0048_s48.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Viruses	1891714	0.0	0.2	0.0	0.0	Human polyomavirus 4	0.0	0.0	0.0	0.0	0.0	0	0.0	Human polyomavirus 4		
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0058_s58.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Viruses	-200687329	0.0	0.1	0.0	0.0	Torque teno virus	0.0	1.2	56.1	0.0	0.0	Torque teno virus	1.1	Torque teno virus		
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0059_s59.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	40323	172422.6	99.0	211638.1	99.0	Stenotrophomonas maltophilia	71501.1	7726.2	99.0	9808.3	99.0	Stenotrophomonas maltophilia	2581.5	Stenotrophomonas maltophilia	0.989797937045031	0.7453511964922145
+1	1	2	Bacteria	469	303.7	1.6	464.2	-0.2	Acinetobacter baumannii	183.3	1176.8	99.0	3240.9	22.7	Acinetobacter baumannii	408.9	Acinetobacter baumannii	0.002170990017280931	0.2462820970720327
+2	3	1	Bacteria	338	406.1	99.0	1615.9	50.8	Xanthomonas citri	323.8	25.2	99.0	92.0	35.9	Xanthomonas citri	1033.5	Xanthomonas citri	0.007557308851624852	0.006991253334143912
+3	4	30	Viruses	687331	0.0	0.0	0.0	0.0	0	0.0	5.3	100.0	11.2	100.0	Torque teno virus 5	8.3	Torque teno virus 5	0.0	0.0008511091015479546
+4	7	6	Bacteria	53335	14.0	73.5	14.4	-0.4	Pantoea dispersa	0.2	1.3	5.0	3.1	2.0	Pantoea agglomerans	0.1	Pantoea dispersa	6.7346523586483e-05	0.00023557484060702315
+5	6	4	Bacteria	32	59.8	16.0	60.1	2.4	Myxococcus xanthus	15.7	1.4	10.7	1.4	0.1	Myxococcus xanthus	0.6	Myxococcus xanthus	0.00028107819913525194	0.00010638863769349432
+6	12	9	Bacteria	379	4.0	99.0	8.6	-0.8	Rhizobium arachis	7.1	0.1	100.0	1.0	-0.2	Rhizobium arachis	0.5	Rhizobium arachis	4.0220840475260675e-05	7.599188406678167e-05
+7	8	8	Bacteria	29487	6.9	5.4	6.9	0.8	Photorhabdus luminescens	5.5	0.6	27.9	0.6	4.0	Photorhabdus luminescens	1.2	Photorhabdus luminescens	3.22702092185231e-05	4.5595130440069e-05
+8	9	15	Bacteria	2370	1.3	0.1	1.3	0.1	Xylella fastidiosa	35.5	0.4	6.0	0.4	3.7	Xylella fastidiosa	1.5	Xylella fastidiosa	6.0798944904463814e-06	3.0396753626712666e-05
+9	10	7	Bacteria	219181	7.3	4.7	7.3	4.7	Ottowia sp. oral taxon 894	34.8	0.2	1.1	0.2	0.6	Ottowia sp. oral taxon 894	2.7	Ottowia sp. oral taxon 894	3.4140945984814295e-05	1.5198376813356333e-05
+10	11	14	Viruses	10358	2.7	29.7	2.7	8.2	Human betaherpesvirus 5	4.0	0.2	25.1	0.2	0.4	Human betaherpesvirus 5	0.2	Human betaherpesvirus 5	1.2627473172465561e-05	1.5198376813356333e-05
+11	2	29	Viruses	-200687329	0.0	0.0	0.0	0.0	0	0.0	26.3	99.0	0.0	0.0	Torque teno virus	30.5	0	0.0	0.0
+12	5	17	Bacteria	-200032033	0.4	100.0	0.0	0.0	[Pseudomonas] geniculata	149.0	2.9	100.0	0.0	0.0	[Pseudomonas] geniculata	5.9	[Pseudomonas] geniculata	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0060_s60.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	1	41	Viruses	11007	0.0	0.0	0.0	0.0	0	0.0	0.4	1.4	0.9	2.5	Saccharomyces cerevisiae virus L-A	0.4	Saccharomyces cerevisiae virus L-A		0.6
+1	2	49	Viruses	687332	0.0	0.0	0.0	0.0	0	0.0	0.3	67.6	0.5	37.4	TTV-like mini virus	0.6	TTV-like mini virus		0.3333333333333333
+2	3	69	Viruses	119164	0.0	0.0	0.0	0.0	0	0.0	0.1	2.5	0.1	2.5	Cucurbit aphid-borne yellows virus	0.1	Cucurbit aphid-borne yellows virus		0.06666666666666667
+3	0	4	Viruses	-200687329	0.0	100.0	0.0	0.0	Chimpanzee anellovirus	0.0	0.4	18.8	0.0	0.0	Torque teno virus	0.4	Chimpanzee anellovirus		0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0071_s71.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	7	Viruses	11019	0.0	0.0	0.0	0.0	0	0.0	186.6	99.0	242.8	99.0	Chikungunya virus	66.0	Chikungunya virus		0.9995883079456567
+1	1	2	Viruses	40121	0.0	0.5	0.0	0.4	Primate erythroparvovirus 1	0.0	0.1	100.0	0.1	100.0	Primate erythroparvovirus 1	0.1	Primate erythroparvovirus 1		0.0004116920543433512
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0072_s72.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	1	2	Viruses	687331	0.0	100.0	0.1	7.8	Torque teno virus 16	0.1	1.8	100.0	3.3	100.0	Torque teno virus 16	2.4	Torque teno virus 16	0.07692307692307693	0.868421052631579
+1	2	0	Viruses	10358	1.1	12.2	1.2	3.4	Human betaherpesvirus 5	1.2	0.5	75.7	0.5	1.7	Human betaherpesvirus 5	0.4	Human betaherpesvirus 5	0.923076923076923	0.13157894736842105
+2	0	1	Viruses	-200687329	0.1	2.5	0.0	0.0	Torque teno virus	0.1	14.9	99.0	0.0	0.0	Torque teno virus	12.5	Torque teno virus	0.0	0.0
+3	3	3	Viruses	687332	0.0	100.0	0.0	2.2	Torque teno mini virus 5	0.0	0.0	0.0	0.0	0.0	0	0.0	Torque teno mini virus 5	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0082_s82.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	590	162.4	0.2	163.2	0.2	Salmonella enterica	118.7	97.1	36.4	97.8	41.4	Salmonella enterica	72.7	Salmonella enterica	0.81437125748503	0.904717853839038
+1	1	1	Bacteria	270	15.5	1.9	37.2	1.9	Thermus thermophilus	11.1	4.4	47.0	10.1	23.9	Thermus thermophilus	2.1	Thermus thermophilus	0.1856287425149701	0.09343200740055506
+2	2	38	Viruses	11007	0.0	0.0	0.0	0.0	0	0.0	0.1	0.2	0.1	0.0	Saccharomyces cerevisiae virus L-A	0.1	Saccharomyces cerevisiae virus L-A	0.0	0.0009250693802035155
+3	3	39	Viruses	12195	0.0	0.0	0.0	0.0	0	0.0	0.1	100.0	0.1	2.5	Watermelon mosaic virus	0.1	Watermelon mosaic virus	0.0	0.0009250693802035155
+4	4	52	Viruses	-200687329	0.0	0.0	0.0	0.0	0	0.0	0.1	2.5	0.0	0.0	Torque teno virus	0.1	0	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0083_s83.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	561	3586.1	99.0	3989.8	99.0	Escherichia coli	2169.5	80.4	0.4	89.9	0.2	Escherichia coli	44.6	Escherichia coli	1.0	0.9503171247357294
+1	3	15	Viruses	687332	0.0	100.0	0.0	1.8	Torque teno mini virus 18	0.0	1.8	99.0	2.2	99.0	TTV-like mini virus	0.6	TTV-like mini virus	0.0	0.023255813953488372
+2	2	24	Viruses	1511911	0.0	0.0	0.0	0.0	0	0.0	2.1	1.0	2.1	1.0	Primate tetraparvovirus 1	0.5	Primate tetraparvovirus 1	0.0	0.02219873150105708
+3	4	25	Viruses	687331	0.0	0.0	0.0	0.0	0	0.0	0.3	100.0	0.4	100.0	Torque teno virus 3	0.1	Torque teno virus 3	0.0	0.004228329809725159
+4	1	4	Viruses	-200687329	0.1	1.2	0.0	0.0	Torque teno virus	0.1	3.3	99.0	0.0	0.0	Torque teno virus	7.1	Torque teno virus	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0084_s84.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	1	3	Bacteria	286	47.1	0.1	208.5	-0.3	Pseudomonas putida	8.6	3.2	2.1	15.3	-0.5	Pseudomonas fluorescens	1.5	Pseudomonas putida	0.4916293327045508	0.6
+1	0	1	Bacteria	1350	124.7	10.8	131.3	8.9	Enterococcus faecium	60.7	5.9	5.0	6.8	0.1	Enterococcus faecium	3.0	Enterococcus faecium	0.3095967932091488	0.2666666666666666
+2	2	2	Bacteria	283	79.8	0.8	81.0	-0.2	Comamonas testosteroni	49.1	1.6	0.4	1.6	-0.2	Comamonas testosteroni	1.2	Comamonas testosteroni	0.1909926904032068	0.06274509803921569
+3	5	7	Bacteria	338	0.7	1.0	3.3	-1.0	Xanthomonas perforans	0.1	0.1	0.6	0.9	-0.2	Xanthomonas arboricola	0.1	Xanthomonas perforans	0.007781183683093609	0.035294117647058816
+4	3	23	Viruses	10509	0.0	0.0	0.0	0.0	0	0.0	0.6	0.1	0.8	0.3	Human mastadenovirus C	0.1	Human mastadenovirus C	0.0	0.03137254901960784
+5	6	16	Viruses	687332	0.0	100.0	0.0	2.8	TTV-like mini virus	0.0	0.1	11.5	0.1	9.6	TTV-like mini virus	0.3	TTV-like mini virus	0.0	0.00392156862745098
+6	4	37	Viruses	-200687329	0.0	0.0	0.0	0.0	0	0.0	0.3	12.8	0.0	0.0	Torque teno virus	0.4	0	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0093_s93.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	14	Bacteria	1177	0.4	0.4	1.3	-0.3	Nostoc punctiforme	0.1	24.3	55.7	136.4	60.1	Nostoc punctiforme	0.1	Nostoc punctiforme	0.9285714285714285	0.9992673992673993
+1	1	139	Viruses	12195	0.0	0.0	0.0	0.0	0	0.0	0.1	4.8	0.1	4.8	Zucchini yellow mosaic virus	0.1	Zucchini yellow mosaic virus	0.0	0.0007326007326007326
+2	2	64	Viruses	333922	0.1	1.4	0.1	-0.3	Betapapillomavirus 4	0.1	0.0	0.0	0.0	0.0	0	0.0	Betapapillomavirus 4	0.07142857142857142	0.0
+3	3	107	Viruses	325455	0.0	5.0	0.0	0.4	Gammapapillomavirus 12	0.0	0.0	0.0	0.0	0.0	0	0.0	Gammapapillomavirus 12	0.0	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0094_s94.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	8	Viruses	11019	0.0	0.0	0.0	0.0	0	0.0	4387.2	99.0	5495.9	99.0	Chikungunya virus	1644.8	Chikungunya virus		0.999927223768717
+1	1	53	Viruses	10912	0.0	0.0	0.0	0.0	0	0.0	0.2	4.3	0.2	4.3	Rotavirus A	0.2	Rotavirus A		3.638811564143151e-05
+2	2	59	Viruses	333922	0.0	0.0	0.0	0.0	0	0.0	0.1	100.0	0.1	0.9	Betapapillomavirus 1	0.1	Betapapillomavirus 1		1.8194057820715754e-05
+3	3	68	Viruses	325455	0.0	0.0	0.0	0.0	0	0.0	0.1	100.0	0.1	2.8	Gammapapillomavirus 7	0.1	Gammapapillomavirus 7		1.8194057820715754e-05
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0095_s95.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	1	10	Viruses	687331	0.0	0.0	0.0	0.0	0	0.0	0.1	100.0	0.6	100.0	Torque teno virus 24	0.3	Torque teno virus 24		1.0
+1	0	0	Viruses	-200687329	0.2	3.5	0.0	0.0	Torque teno virus	0.2	10.1	99.0	0.0	0.0	Torque teno virus	14.1	Torque teno virus		0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0033_s33.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	1	14	Bacteria	1386	100.1	1.9	127.2	1.6	Bacillus cereus	27.5	0.9	1.2	4.2	-0.2	Bacillus subtilis	0.6	Bacillus cereus	0.10759600744374896	0.24418604651162787
+1	3	43	Bacteria	1578	28.8	5.4	45.0	2.5	Lactobacillus plantarum	20.2	0.6	0.1	4.0	-0.4	Lactobacillus jensenii	0.5	Lactobacillus plantarum	0.03806462527491119	0.2325581395348837
+2	10	24	Bacteria	1827	52.7	2.1	264.3	1.8	Rhodococcus opacus	2.7	0.1	0.7	3.8	-0.4	Rhodococcus sp. BH4	0.1	Rhodococcus opacus	0.22356623244797838	0.22093023255813948
+3	0	508	Viruses	10509	0.0	0.0	0.0	0.0	0	0.0	1.1	1.6	1.2	1.4	Human mastadenovirus C	1.1	Human mastadenovirus C	0.0	0.0697674418604651
+4	4	378	Bacteria	572511	0.4	0.1	0.7	0.1	[Ruminococcus] torques	0.2	0.6	0.5	1.0	0.3	Blautia obeum	1.3	Blautia obeum	0.0005921163931652851	0.05813953488372092
+5	2	5	Bacteria	59753	172.6	5.7	182.6	5.3	Alcanivorax pacificus	205.7	0.8	3.9	0.8	1.3	Alcanivorax pacificus	0.1	Alcanivorax pacificus	0.15445779055997294	0.04651162790697674
+6	9	21	Bacteria	374	55.0	1.9	391.3	2.1	Bradyrhizobium diazoefficiens	1.5	0.1	0.8	0.6	-0.9	Bradyrhizobium sp. ORS 285	0.5	Bradyrhizobium diazoefficiens	0.3309930637793944	0.03488372093023255
+7	5	38	Bacteria	106589	33.9	2.0	134.9	1.9	Cupriavidus gilardii	11.9	0.5	1.2	0.5	-0.4	Cupriavidus metallidurans	0.2	Cupriavidus gilardii	0.1141092877685671	0.02906976744186046
+8	6	42	Bacteria	528	29.6	1.0	32.6	0.9	Ochrobactrum anthropi	10.0	0.5	0.4	0.5	-0.0	Ochrobactrum anthropi	0.2	Ochrobactrum anthropi	0.027575706310268996	0.02906976744186046
+9	7	488	Bacteria	1188227	0.1	1.6	0.1	1.6	Gloeomargarita lithophora	0.1	0.2	5.3	0.2	5.3	Gloeomargarita lithophora	0.1	Gloeomargarita lithophora	8.458805616646931e-05	0.011627906976744184
+10	8	510	Viruses	12320	0.0	0.0	0.0	0.0	0	0.0	0.2	5.0	0.2	5.0	Alfalfa mosaic virus	0.2	Alfalfa mosaic virus	0.0	0.011627906976744184
+11	11	248	Bacteria	195950	2.0	0.7	2.5	-0.1	Tannerella forsythia	0.3	0.1	0.9	0.1	-0.1	Tannerella forsythia	0.1	Tannerella forsythia	0.002114701404161733	0.005813953488372092
+12	12	333	Bacteria	2697	0.7	1.6	0.9	2.1	Heliobacterium modesticaldum	1.4	0.1	1.1	0.1	1.1	Heliobacterium modesticaldum	1.1	Heliobacterium modesticaldum	0.0007612925054982238	0.005813953488372092
+13	13	463	Viruses	-201993640	0.1	5.7	0.0	0.0	Tobacco leaf curl betasatellite	0.0	0.0	0.0	0.0	0.0	0	0.0	Tobacco leaf curl betasatellite	0.0	0.0
+14	14	471	Viruses	1891714	0.1	3.7	0.1	2.5	Human polyomavirus 4	0.1	0.0	0.0	0.0	0.0	0	0.0	Human polyomavirus 4	8.458805616646931e-05	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0045_s45.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	10	17	Bacteria	1716	34.4	0.6	228.8	-0.2	Corynebacterium aurimucosum	7.2	0.4	3.9	27.1	-0.2	Corynebacterium tuberculostearicum	0.2	Corynebacterium aurimucosum	0.032114985121554106	0.3613333333333334
+1	9	34	Bacteria	1301	17.3	0.9	74.7	-0.2	Streptococcus sanguinis	7.9	0.4	1.1	11.4	-0.5	Streptococcus salivarius	0.3	Streptococcus sanguinis	0.010485093481556346	0.15200000000000002
+2	16	127	Bacteria	32008	3.2	0.4	36.4	-0.2	Burkholderia multivorans	1.6	0.1	5.8	7.7	1.9	Burkholderia sp. RPE67	8.3	Burkholderia multivorans	0.005109202178429062	0.10266666666666668
+3	3	1	Bacteria	1763	454.0	1.0	6257.7	1.1	Mycobacterium sp. YC-RL4	14.3	0.7	0.3	7.5	-0.3	Mycobacterium chelonae	1.1	Mycobacterium sp. YC-RL4	0.878347650328449	0.10000000000000002
+4	6	22	Bacteria	1827	28.5	0.7	151.2	0.6	Rhodococcus opacus	1.4	0.5	0.1	7.1	-0.0	Rhodococcus erythropolis	0.2	Rhodococcus opacus	0.02122283981808995	0.09466666666666668
+5	7	26	Bacteria	106589	23.8	1.1	89.3	0.9	Cupriavidus gilardii	8.0	0.5	1.4	3.9	1.2	Cupriavidus metallidurans	0.2	Cupriavidus gilardii	0.012534388860816353	0.05200000000000001
+6	11	168	Bacteria	816	1.5	0.1	7.7	-0.1	Bacteroides thetaiotaomicron	0.2	0.3	0.7	2.1	-0.1	Bacteroides vulgatus	0.2	Bacteroides thetaiotaomicron	0.0010807927685138401	0.028000000000000008
+7	0	248	Bacteria	120652	0.5	0.1	0.5	0.1	Methylocella silvestris	0.7	1.5	4.6	1.5	4.5	Methylocella silvestris	0.1	Methylocella silvestris	7.018134860479481e-05	0.020000000000000004
+8	12	18	Bacteria	374	33.0	1.3	225.4	0.8	Bradyrhizobium sp. S23321	8.3	0.2	0.8	1.3	-0.4	Bradyrhizobium oligotrophicum	0.2	Bradyrhizobium sp. S23321	0.0316377519510415	0.017333333333333336
+9	1	282	Viruses	10509	0.4	1.5	0.4	0.8	Human mastadenovirus C	0.1	0.8	0.7	1.1	1.1	Human mastadenovirus C	0.1	Human mastadenovirus C	5.614507888383585e-05	0.01466666666666667
+10	2	104	Bacteria	1357	4.5	0.7	5.0	0.8	Lactococcus lactis	4.0	0.8	0.1	1.1	0.1	Lactococcus lactis	0.2	Lactococcus lactis	0.0007018134860479481	0.01466666666666667
+11	5	215	Bacteria	572511	0.8	1.4	1.2	0.7	Blautia obeum	0.6	0.6	0.9	0.8	0.1	[Ruminococcus] torques	1.0	Blautia obeum	0.00016843523665150754	0.01066666666666667
+12	13	69	Bacteria	165696	7.2	0.1	22.0	0.3	Novosphingobium resinovorum	1.7	0.2	1.1	0.8	-0.3	Novosphingobium sp. PP1Y	1.5	Novosphingobium resinovorum	0.0030879793386109715	0.01066666666666667
+13	4	32	Bacteria	528	18.0	0.2	19.4	0.1	Ochrobactrum anthropi	3.4	0.7	0.8	0.7	0.2	Ochrobactrum anthropi	0.3	Ochrobactrum anthropi	0.0027230363258660384	0.009333333333333334
+14	15	196	Bacteria	1485	1.1	4.1	2.2	0.1	Clostridium perfringens	1.0	0.2	0.7	0.7	-0.4	Clostridium perfringens	0.2	Clostridium perfringens	0.0003087979338610972	0.009333333333333334
+15	14	182	Bacteria	841	1.3	1.7	2.4	1.8	Roseburia intestinalis	0.4	0.2	1.1	0.2	-0.2	Roseburia intestinalis	0.3	Roseburia intestinalis	0.00033687047330301507	0.0026666666666666674
+16	8	157	Bacteria	-200543314	1.9	3.0	0.0	0.0	[Eubacterium] sulci	1.4	0.5	0.9	0.0	0.0	[Eubacterium] sulci	0.1	[Eubacterium] sulci	0.0	0.0
+17	17	345	Viruses	-200151340	0.1	4.8	0.0	0.0	Human papillomavirus type 179	0.1	0.0	0.0	0.0	0.0	0	0.0	Human papillomavirus type 179	0.0	0.0
+18	18	358	Viruses	1285593	0.1	5.7	0.1	5.7	Musca hytrovirus	0.1	0.0	0.0	0.0	0.0	0	0.0	Musca hytrovirus	1.4036269720958962e-05	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0057_s57.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	0	Bacteria	1912216	1641.1	0.3	1652.3	0.3	Cutibacterium acnes	565.4	164.4	1.7	177.1	1.8	Cutibacterium acnes	240.6	Cutibacterium acnes	0.306162911354877	0.4227739317259488
+1	2	10	Bacteria	1716	165.7	1.9	442.0	0.3	Corynebacterium ureicelerivorans	8.6	7.2	0.4	87.2	1.0	Corynebacterium ureicelerivorans	0.2	Corynebacterium ureicelerivorans	0.08190038541357843	0.20816423967534015
+2	3	48	Bacteria	1279	45.9	0.1	145.5	0.0	Staphylococcus epidermidis	9.0	6.5	0.6	50.5	0.4	Staphylococcus epidermidis	2.1	Staphylococcus epidermidis	0.02696042099021643	0.12055383146335638
+3	5	4	Bacteria	286	369.1	1.1	991.9	-0.0	Pseudomonas stutzeri	189.4	3.5	0.7	36.4	0.2	Pseudomonas stutzeri	0.2	Pseudomonas stutzeri	0.1837941002075304	0.0868942468369539
+4	1	12	Bacteria	469	154.6	0.9	401.3	-0.2	Acinetobacter johnsonii	24.6	11.2	0.2	27.0	-0.2	Acinetobacter johnsonii	0.5	Acinetobacter johnsonii	0.07435887933590277	0.0644545237526856
+5	10	393	Bacteria	1485	0.7	3.5	3.8	0.8	Clostridium beijerinckii	0.3	1.0	5.8	5.0	2.3	Clostridium cadaveris	0.2	Clostridium cadaveris	0.0007041209605692263	0.011936022917163999
+6	11	84	Bacteria	32207	19.4	0.1	28.5	0.1	Rothia mucilaginosa	3.2	0.8	0.6	4.4	-0.5	Rothia dentocariosa	0.1	Rothia mucilaginosa	0.0052809072042691975	0.01050370016710432
+7	14	15	Bacteria	1386	132.9	2.9	191.9	2.9	Bacillus cereus	33.0	0.7	0.6	4.3	-0.1	Bacillus subtilis	1.2	Bacillus cereus	0.03555810850874593	0.010264979708761038
+8	21	218	Bacteria	1578	5.4	0.7	13.9	-0.1	Lactobacillus crispatus	7.5	0.3	0.2	4.3	-0.4	Lactobacillus delbrueckii	0.2	Lactobacillus crispatus	0.0025756003557663807	0.010264979708761038
+9	4	104	Bacteria	547	15.3	0.2	44.1	0.2	Enterobacter cloacae	10.5	4.0	0.3	4.0	-0.3	Enterobacter cloacae	1.1	Enterobacter cloacae	0.008171509042395496	0.0095488183337312
+10	29	208	Bacteria	1350	6.1	2.3	12.5	0.2	Enterococcus cecorum	5.5	0.2	0.1	3.0	-0.1	Enterococcus faecalis	2.2	Enterococcus cecorum	0.0023161873702935076	0.007161613750298399
+11	9	30	Bacteria	149698	75.1	0.9	139.7	0.9	Massilia sp. WG5	0.4	1.0	0.4	3.0	-0.2	Massilia sp. NR 4-1	0.2	Massilia sp. WG5	0.02588571005040024	0.007161613750298399
+12	18	44	Bacteria	1827	52.3	2.1	326.7	2.5	Rhodococcus opacus	3.7	0.5	0.1	2.1	-0.6	Rhodococcus erythropolis	0.1	Rhodococcus opacus	0.06053587310999111	0.005013129625208879
+13	6	235	Bacteria	1357	4.6	0.8	4.7	0.6	Lactococcus lactis	3.7	1.3	0.7	1.5	0.5	Lactococcus lactis	0.2	Lactococcus lactis	0.0008708864512303589	0.0035808068751491994
+14	20	54	Bacteria	72763	38.0	2.4	76.3	1.4	Tessaracoccus flavus	36.9	0.3	0.4	1.2	-0.0	Tessaracoccus flavus	0.1	Tessaracoccus flavus	0.01413800770827157	0.0028646455001193594
+15	8	187	Bacteria	337004	7.2	0.4	7.2	0.4	Microcella alkaliphila	0.4	1.1	0.5	1.1	0.5	Microcella alkaliphila	0.5	Microcella alkaliphila	0.0013341239252890604	0.00262592504177608
+16	7	35	Bacteria	57499	64.7	1.9	64.7	1.9	Kytococcus sedentarius	29.7	1.1	0.4	1.1	0.4	Kytococcus sedentarius	0.5	Kytococcus sedentarius	0.011988585828639195	0.00262592504177608
+17	28	56	Bacteria	53335	35.3	3.3	118.4	2.0	Pantoea sp. PSNIH1	2.2	0.2	0.8	0.9	-0.4	Pantoea vagans	0.1	Pantoea sp. PSNIH1	0.021938926771420106	0.00214848412508952
+18	15	216	Bacteria	414371	5.7	1.3	9.4	0.8	Aureimonas sp. AU20	0.9	0.6	0.2	0.9	-0.2	Aureimonas altamirensis	0.1	Aureimonas sp. AU20	0.0017417729024607179	0.00214848412508952
+19	13	2	Bacteria	233191	622.0	2.5	622.5	2.5	Caldilinea aerophila	1065.4	0.8	0.2	0.8	0.2	Caldilinea aerophila	0.8	Caldilinea aerophila	0.11534613104061668	0.00190976366674624
+20	17	480	Viruses	10509	0.3	1.1	0.4	1.0	Human mastadenovirus C	0.1	0.6	0.2	0.8	0.2	Human mastadenovirus C	0.3	Human mastadenovirus C	7.411799584939224e-05	0.00190976366674624
+21	12	199	Bacteria	398041	6.5	4.3	6.5	4.3	Flavisolibacter tropicus	19.2	0.8	0.7	0.8	0.4	Flavisolibacter tropicus	0.1	Flavisolibacter tropicus	0.0012044174325526239	0.00190976366674624
+22	16	509	Bacteria	1032526	0.3	5.4	0.3	5.4	Pedosphaera parvula	23.3	0.6	3.6	0.6	3.6	Pedosphaera parvula	0.2	Pedosphaera parvula	5.558849688704418e-05	0.0014323227500596797
+23	19	28	Bacteria	1158	80.3	5.5	83.6	5.4	Oscillatoria acuminata	83.0	0.4	1.3	0.6	0.7	Oscillatoria acuminata	0.2	Oscillatoria acuminata	0.015490661132522978	0.0014323227500596797
+24	22	224	Bacteria	911	5.0	0.9	8.7	0.7	Nitrobacter hamburgensis	2.6	0.3	0.2	0.3	0.0	Nitrobacter hamburgensis	0.1	Nitrobacter hamburgensis	0.001612066409724281	0.0007161613750298399
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0069_s69.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	0	104	Bacteria	423349	8.0	5.7	20.1	5.6	Mucilaginibacter mallensis	2.0	28.0	5.8	85.4	5.8	Mucilaginibacter sp. PAMC 26640	0.2	Mucilaginibacter sp. PAMC 26640	0.05927455028015335	0.7286689419795221
+1	1	228	Bacteria	84567	1.9	3.9	5.6	3.0	Pedobacter cryoconitis	1.0	2.6	5.2	16.9	5.7	Pedobacter heparinus	0.1	Pedobacter heparinus	0.016514302565614862	0.14419795221843001
+2	2	176	Bacteria	1578	3.6	0.1	12.1	-0.2	Lactobacillus crispatus	3.2	0.9	0.4	5.3	-0.3	Lactobacillus gasseri	0.2	Lactobacillus crispatus	0.03568268947213211	0.04522184300341296
+3	3	13	Bacteria	1386	113.2	2.3	152.1	2.1	Bacillus cereus	25.8	0.7	0.7	2.7	-0.4	Bacillus subtilis	0.8	Bacillus cereus	0.44854025361250366	0.02303754266211604
+4	8	64	Bacteria	1350	13.6	0.8	25.7	1.1	Enterococcus faecium	6.4	0.2	0.3	2.0	-0.2	Enterococcus gallinarum	0.2	Enterococcus faecium	0.07578885284576821	0.01706484641638225
+5	4	67	Bacteria	1678	13.3	0.8	25.7	-0.0	Bifidobacterium breve	6.9	0.7	0.1	1.2	-0.5	Bifidobacterium adolescentis	3.5	Bifidobacterium breve	0.07578885284576821	0.01023890784982935
+6	6	34	Bacteria	191	32.3	1.5	67.7	1.4	Azospirillum brasilense	13.1	0.5	0.2	1.1	0.0	Azospirillum brasilense	0.9	Azospirillum brasilense	0.19964612208787968	0.009385665529010238
+7	9	209	Bacteria	816	2.6	0.2	14.5	0.7	Bacteroides fragilis	0.6	0.2	0.3	0.9	-0.8	Bacteroides fragilis	13.6	Bacteroides fragilis	0.04276024771453848	0.0076791808873720125
+8	5	102	Bacteria	2005363	8.0	2.3	8.0	2.3	Auricoccus indicus	8.4	0.7	0.2	0.7	0.2	Auricoccus indicus	0.7	Auricoccus indicus	0.023591860808021232	0.005972696245733787
+9	7	213	Bacteria	2747	2.4	1.8	3.7	0.8	Carnobacterium sp. 17-4	0.4	0.3	0.5	0.7	-0.2	Carnobacterium maltaromaticum	0.2	Carnobacterium sp. 17-4	0.01091123562370982	0.005972696245733787
+10	10	524	Viruses	12176	0.0	0.0	0.0	0.0	0	0.0	0.2	4.4	0.2	3.0	Clover yellow mosaic virus	0.2	Clover yellow mosaic virus	0.0	0.001706484641638225
+11	11	195	Bacteria	375288	3.0	1.2	3.0	1.2	Parabacteroides distasonis	0.2	0.1	1.4	0.1	-0.6	Parabacteroides merdae	0.4	Parabacteroides distasonis	0.008846947803007961	0.0008532423208191125
+12	12	416	Viruses	10509	0.3	3.9	0.3	0.5	Human mastadenovirus F	0.3	0.0	0.0	0.0	0.0	0	0.0	Human mastadenovirus F	0.0008846947803007961	0.0
+13	13	497	Viruses	325455	0.1	2.8	0.1	0.7	Gammapapillomavirus 1	0.0	0.0	0.0	0.0	0.0	0	0.0	Gammapapillomavirus 1	0.0002948982601002654	0.0
+14	14	506	Viruses	10358	0.1	0.6	0.5	1.1	Human betaherpesvirus 5	0.1	0.0	0.0	0.0	0.0	0	0.0	Human betaherpesvirus 5	0.001474491300501327	0.0
+
+
+
+----
+./data/070518/rapid-response-007_reports/chrf_rna_0096_s96.csv
+
+	level_0	index	category_name	genus_taxid	NT_rpm DNA	NT_zscore DNA	genus_NT_rpm DNA	genus_NT_zscore DNA	name_x	NR_rpm DNA	NT_rpm RNA	NT_zscore RNA	genus_NT_rpm RNA	genus_NT_zscore RNA	name_y	NR_rpm RNA	Species_Assignment	genus_NT_rpm DNA scaled	genus_NT_rpm RNA scaled
+0	1	19	Bacteria	13687	73.8	1.6	418.3	1.7	Sphingomonas melonis	16.8	4.7	0.3	26.7	-0.4	Sphingomonas taxi	0.6	Sphingomonas melonis	0.034144430205127786	0.25998052580331066
+1	0	91	Bacteria	1847	11.4	0.9	40.9	0.6	Pseudonocardia dioxanivorans	1.4	6.9	0.1	19.5	-0.0	Pseudonocardia dioxanivorans	2.0	Pseudonocardia dioxanivorans	0.00333853023043205	0.18987341772151903
+2	4	5	Bacteria	286	267.2	0.5	934.7	-0.0	Pseudomonas stutzeri	113.3	3.1	0.5	15.4	-0.5	Pseudomonas stutzeri	0.6	Pseudomonas stutzeri	0.07629643536393245	0.14995131450827656
+3	6	1	Bacteria	1763	752.9	2.3	10165.7	2.3	Mycobacterium sp. YC-RL4	19.8	1.0	0.8	7.5	-0.3	Mycobacterium chelonae	1.9	Mycobacterium sp. YC-RL4	0.829792096907166	0.07302823758519963
+4	3	56	Bacteria	724	25.2	0.1	34.8	0.0	Haemophilus parainfluenzae	5.8	3.6	0.7	7.0	0.1	Haemophilus parainfluenzae	0.2	Haemophilus parainfluenzae	0.0028406076288272695	0.06815968841285298
+5	2	73	Bacteria	547	16.1	0.3	52.3	0.3	Enterobacter cloacae	8.1	3.7	0.1	4.4	-0.0	Enterobacter cloacae	0.3	Enterobacter cloacae	0.004269074108840983	0.04284323271665045
+6	13	149	Bacteria	54298	6.2	0.4	6.6	0.4	Chroococcidiopsis thermalis	4.4	0.4	0.1	3.5	0.6	Chroococcidiopsis thermalis	0.3	Chroococcidiopsis thermalis	0.0005387359296051718	0.03407984420642649
+7	21	131	Bacteria	1883	7.1	2.1	163.5	0.8	Streptomyces sp. Mg1	1.7	0.1	0.1	3.3	-0.2	Streptomyces albus	1.0	Streptomyces sp. Mg1	0.013345958256128122	0.03213242453748783
+8	7	295	Bacteria	1379908	1.3	0.1	3.0	-0.3	Rufibacter tibetensis	2.9	1.0	1.1	2.6	0.5	Rufibacter tibetensis	2.0	Rufibacter tibetensis	0.00024487996800235084	0.025316455696202538
+9	5	37	Bacteria	191	37.2	1.9	82.9	1.9	Azospirillum brasilense	12.4	1.7	2.2	2.4	0.9	Azospirillum brasilense	0.2	Azospirillum brasilense	0.006766849782464963	0.02336903602726388
+10	18	103	Bacteria	165695	9.7	1.7	66.4	1.3	Sphingobium sp. TKS	0.8	0.2	0.2	2.2	-0.3	Sphingobium sp. MI1205	0.6	Sphingobium sp. TKS	0.005420009958452033	0.021421616358325225
+11	17	187	Bacteria	838	4.0	0.1	10.6	-0.2	Prevotella intermedia	0.9	0.3	0.1	1.7	-0.1	Prevotella intermedia	0.2	Prevotella intermedia	0.0008652425536083063	0.01655306718597858
+12	12	84	Bacteria	53335	13.2	0.7	44.7	0.3	Pantoea sp. PSNIH1	1.7	0.5	1.1	1.5	0.3	Pantoea agglomerans	0.2	Pantoea sp. PSNIH1	0.003648711523235028	0.014605647517039926
+13	22	83	Bacteria	338	13.8	0.9	63.0	0.9	Xanthomonas sacchari	1.1	0.1	0.3	0.6	-0.3	Xanthomonas arboricola	0.2	Xanthomonas sacchari	0.005142479328049368	0.00584225900681597
+14	14	57	Bacteria	361177	24.8	0.2	55.7	0.3	Altererythrobacter dongtanensis	22.3	0.4	0.5	0.6	-0.5	Altererythrobacter marensis	0.6	Altererythrobacter dongtanensis	0.004546604739243648	0.00584225900681597
+15	9	249	Bacteria	2005363	2.1	0.1	2.1	0.1	Auricoccus indicus	2.0	0.6	0.1	0.6	0.1	Auricoccus indicus	0.6	Auricoccus indicus	0.00017141597760164562	0.00584225900681597
+16	8	573	Viruses	10509	0.0	0.0	0.0	0.0	0	0.0	0.6	0.2	0.6	-0.1	Human mastadenovirus C	0.4	Human mastadenovirus C	0.0	0.00584225900681597
+17	11	575	Viruses	11007	0.0	0.0	0.0	0.0	0	0.0	0.5	1.5	0.5	1.1	Saccharomyces cerevisiae virus L-A	0.3	Saccharomyces cerevisiae virus L-A	0.0	0.004868549172346642
+18	10	266	Bacteria	398041	1.7	0.6	1.7	0.6	Flavisolibacter tropicus	12.2	0.5	0.1	0.5	-0.1	Flavisolibacter tropicus	0.1	Flavisolibacter tropicus	0.00013876531520133213	0.004868549172346642
+19	20	198	Bacteria	816	3.8	0.7	16.0	0.9	Bacteroides fragilis	4.0	0.2	1.3	0.5	-1.0	Bacteroides xylanisolvens	0.1	Bacteroides fragilis	0.001306026496012538	0.004868549172346642
+20	16	148	Bacteria	43356	6.2	1.1	6.2	1.1	Kutzneria albida	0.2	0.3	1.0	0.4	1.4	Kutzneria albida	0.1	Kutzneria albida	0.0005060852672048585	0.0038948393378773136
+21	15	97	Bacteria	63132	10.8	1.6	10.8	1.6	Geitlerinema sp. PCC 7407	13.9	0.3	0.3	0.3	0.2	Geitlerinema sp. PCC 7407	0.2	Geitlerinema sp. PCC 7407	0.0008815678848084631	0.002921129503407985
+22	23	67	Bacteria	379	16.9	1.1	59.8	1.0	Rhizobium sp. NT-26	5.8	0.1	0.1	0.2	-0.2	Rhizobium gallicum	0.1	Rhizobium sp. NT-26	0.00488127402884686	0.0019474196689386568
+23	24	401	Bacteria	319458	0.4	1.1	0.4	1.1	Leadbetterella byssophila	0.1	0.1	1.1	0.1	1.1	Leadbetterella byssophila	0.2	Leadbetterella byssophila	3.265066240031345e-05	0.0009737098344693284
+24	25	143	Bacteria	231454	6.4	1.1	10.8	1.0	Dyella thiooxydans	0.6	0.1	1.1	0.1	-0.3	Dyella sp. LLH-Slr-21	0.1	Dyella thiooxydans	0.0008815678848084631	0.0009737098344693284
+
+

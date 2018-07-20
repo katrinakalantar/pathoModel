@@ -1,0 +1,25 @@
+,index,microbe,microbe_genus,patient
+0,0,Streptococcus pneumoniae,1301,chrf_rna_0002_s2.csv
+1,1,Enterobacter hormaechei,547,chrf_rna_0005_s5.csv
+2,2,Haemophilus influenzae,724,chrf_rna_0015_s15.csv
+3,3,Streptococcus pneumoniae,1301,chrf_rna_0026_s26.csv
+4,4,Haemophilus influenzae,724,chrf_rna_0027_s27.csv
+5,5,Escherichia coli,561,chrf_rna_0040_s40.csv
+6,6,Klebsiella pneumoniae,570,chrf_rna_0041_s41.csv
+7,7,Escherichia coli,561,chrf_rna_0052_s52.csv
+8,8,Salmonella enterica,590,chrf_rna_0052_s52.csv
+9,9,Streptococcus pneumoniae,1301,chrf_rna_0061_s61.csv
+10,10,Neisseria meningitidis,482,chrf_rna_0063_s63.csv
+11,11,Streptococcus pneumoniae,1301,chrf_rna_0064_s64.csv
+12,12,Streptococcus pneumoniae,1301,chrf_rna_0073_s73.csv
+13,13,Chikungunya virus,11019,chrf_rna_0012_s12.csv
+14,14,Stenotrophomonas maltophilia,40323,chrf_rna_0059_s59.csv
+15,15,Chikungunya virus,11019,chrf_rna_0071_s71.csv
+16,16,Salmonella enterica,590,chrf_rna_0082_s82.csv
+17,17,Escherichia coli,561,chrf_rna_0083_s83.csv
+18,18,Chikungunya virus,11019,chrf_rna_0094_s94.csv
+19,19,Salmonella enterica,590,chrf_rna_0006_s6.csv
+20,20,Salmonella enterica,590,chrf_rna_0018_s18.csv
+21,21,Salmonella enterica,590,chrf_rna_0055_s55.csv
+22,22,Acinetobacter junii,469,chrf_rna_0065_s65.csv
+23,23,Salmonella enterica,590,chrf_rna_0091_s91.csv

@@ -1,0 +1,69 @@
+,microbe,microbe_genus,patient
+0,Acinetobacter junii,469,chrf_rna_0065_s65.csv
+1,Pseudomonas mendocina,286,chrf_rna_0065_s65.csv
+2,Rheinheimera sp. F8,67575,chrf_rna_0065_s65.csv
+3,Comamonas aquatica,283,chrf_rna_0065_s65.csv
+4,Bifidobacterium pseudocatenulatum,1678,chrf_rna_0077_s77.csv
+5,Human mastadenovirus C,10509,chrf_rna_0077_s77.csv
+6,Corynebacterium maris,1716,chrf_rna_0089_s89.csv
+7,Salmonella enterica,590,chrf_rna_0018_s18.csv
+8,Human mastadenovirus C,10509,chrf_rna_0018_s18.csv
+9,Aeromonas hydrophila,642,chrf_rna_0090_s90.csv
+10,Lactobacillus plantarum,1578,chrf_rna_0066_s66.csv
+11,Human mastadenovirus C,10509,chrf_rna_0066_s66.csv
+12,Serratia marcescens,613,chrf_rna_0091_s91.csv
+13,Streptomyces pactum,1883,chrf_rna_0091_s91.csv
+14,Lactobacillus gasseri,1578,chrf_rna_0091_s91.csv
+15,Sphingobium sp. RAC03,165695,chrf_rna_0091_s91.csv
+16,Saccharopolyspora erythraea,1835,chrf_rna_0091_s91.csv
+17,Murine leukemia virus,153135,chrf_rna_0091_s91.csv
+18,Psychrobacter sp. DAB_AL43B,497,chrf_rna_0079_s79.csv
+19,Streptomyces venezuelae,1883,chrf_rna_0054_s54.csv
+20,Bradyrhizobium sp. CCGE-LA001,374,chrf_rna_0054_s54.csv
+21,Lactobacillus amylovorus,1578,chrf_rna_0054_s54.csv
+22,Gardnerella vaginalis,2701,chrf_rna_0054_s54.csv
+23,Bacteroides dorei,816,chrf_rna_0054_s54.csv
+24,Rhodoplanes sp. Z2-YC6860,29407,chrf_rna_0054_s54.csv
+25,Brevundimonas diminuta,41275,chrf_rna_0020_s20.csv
+26,Human mastadenovirus C,10509,chrf_rna_0020_s20.csv
+27,Burkholderia cepacia,32008,chrf_rna_0068_s68.csv
+28,Klebsiella pneumoniae,570,chrf_rna_0068_s68.csv
+29,Bifidobacterium breve,1678,chrf_rna_0068_s68.csv
+30,Lactobacillus rhamnosus,1578,chrf_rna_0068_s68.csv
+31,Cupriavidus necator,106589,chrf_rna_0068_s68.csv
+32,Human mastadenovirus C,10509,chrf_rna_0068_s68.csv
+33,White clover mosaic virus,12176,chrf_rna_0008_s8.csv
+34,Bacteroides fragilis,816,chrf_rna_0006_s6.csv
+35,Oryza sativa alphaendornavirus,2003394,chrf_rna_0006_s6.csv
+36,Bifidobacterium longum,1678,chrf_rna_0056_s56.csv
+37,Rhodococcus sp. B7740,1827,chrf_rna_0056_s56.csv
+38,Lactobacillus crispatus,1578,chrf_rna_0056_s56.csv
+39,Tessaracoccus flavescens,72763,chrf_rna_0056_s56.csv
+40,Chryseobacterium indologenes,59732,chrf_rna_0056_s56.csv
+41,Rotavirus A,10912,chrf_rna_0056_s56.csv
+42,Gardnerella vaginalis,2701,chrf_rna_0092_s92.csv
+43,Enterobacter cloacae,547,chrf_rna_0092_s92.csv
+44,Thermus thermophilus,270,chrf_rna_0092_s92.csv
+45,Saccharomyces cerevisiae virus L-A,11007,chrf_rna_0092_s92.csv
+46,Kocuria palustris,57493,chrf_rna_0053_s53.csv
+47,Human mastadenovirus C,10509,chrf_rna_0053_s53.csv
+48,Pseudomonas alcaligenes,286,chrf_rna_0067_s67.csv
+49,Massilia sp. WG5,149698,chrf_rna_0019_s19.csv
+50,Anoxybacillus flavithermus,150247,chrf_rna_0019_s19.csv
+51,Leclercia adecarboxylata,83654,chrf_rna_0019_s19.csv
+52,Alphapapillomavirus 4,333750,chrf_rna_0019_s19.csv
+53,Lactobacillus salivarius,1578,chrf_rna_0043_s43.csv
+54,Tessaracoccus flavus,72763,chrf_rna_0043_s43.csv
+55,Saccharomyces cerevisiae virus L-A,11007,chrf_rna_0043_s43.csv
+56,Human herpesvirus 6,40272,chrf_rna_0044_s44.csv
+57,Olsenella umbonata,133925,chrf_rna_0078_s78.csv
+58,Human mastadenovirus C,10509,chrf_rna_0078_s78.csv
+59,Kocuria turfanensis,57493,chrf_rna_0007_s7.csv
+60,Human mastadenovirus C,10509,chrf_rna_0007_s7.csv
+61,Streptomyces sp. 4F,1883,chrf_rna_0031_s31.csv
+62,Lactococcus lactis,1357,chrf_rna_0032_s32.csv
+63,Primate tetraparvovirus 1,1511911,chrf_rna_0032_s32.csv
+64,Staphylococcus epidermidis,1279,chrf_rna_0021_s21.csv
+65,Saccharomyces cerevisiae virus L-A,11007,chrf_rna_0021_s21.csv
+66,Corynebacterium timonense,1716,chrf_rna_0009_s9.csv
+67,Saccharomyces cerevisiae virus L-A,11007,chrf_rna_0009_s9.csv

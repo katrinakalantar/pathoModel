@@ -1,0 +1,659 @@
+,RNAvalue,DNAvalue,nrnt,groupID,ranks,microbe,patient,microbe_genus,nt_Z_rna,nt_Z_dna,pathogenic_red,pathogenic_green,pathogenic_darkblue,positive
+0,3.251638220448212,4.489326958281691,1,1.0,0,Escherichia coli,chrf_rna_0052_s52.csv,561,39.5,99.0,True,False,False,True
+1,0.9242792860618817,1.6074550232146685,1,1.0,1,Citrobacter freundii,chrf_rna_0052_s52.csv,544,99.0,1.7,False,False,True,False
+2,0.785329835010767,1.6354837468149122,1,1.0,2,Klebsiella pneumoniae,chrf_rna_0052_s52.csv,570,2.3,0.6,True,False,False,False
+3,0.785329835010767,1.8518696007297664,1,1.0,3,Shigella flexneri,chrf_rna_0052_s52.csv,620,2.1,7.9,True,False,False,False
+4,0.3010299956639812,1.3692158574101427,1,1.0,4,Yersinia enterocolitica,chrf_rna_0052_s52.csv,629,6.9,3.1,False,False,True,False
+5,0.146128035678238,0.0,1,1.0,5,TTV-like mini virus,chrf_rna_0052_s52.csv,687332,25.0,0.0,False,True,False,False
+6,0.04139268515822508,0.5314789170422551,1,1.0,6,Shimwellia blattae,chrf_rna_0052_s52.csv,1335483,0.3,0.3,False,False,True,False
+7,0.0,0.0,1,1.0,7,Torque teno virus,chrf_rna_0052_s52.csv,-200687329,99.0,0.9,False,True,False,False
+8,0.0,0.04139268515822508,1,1.0,8,Hokovirus HKV1,chrf_rna_0052_s52.csv,1977636,0.0,100.0,False,True,False,False
+9,0.0,0.0,1,1.0,9,Emiliania huxleyi virus 163,chrf_rna_0052_s52.csv,346673,0.0,100.0,False,True,False,False
+10,3.47845105314715,3.1204752166965255,1,1.0,0,Streptococcus pneumoniae,chrf_rna_0064_s64.csv,1301,99.0,47.7,True,False,False,True
+11,2.552911450216509,2.396548037987132,1,1.0,0,Streptococcus pneumoniae,chrf_rna_0076_s76.csv,1301,99.0,8.4,True,False,False,True
+12,0.6334684555795865,0.6720978579357175,1,1.0,1,Rhodoferax saidenbachensis,chrf_rna_0076_s76.csv,28065,2.0,0.3,False,False,True,False
+13,0.146128035678238,0.0,1,1.0,2,Tobacco mild green mosaic virus,chrf_rna_0076_s76.csv,12234,100.0,0.0,False,True,False,False
+14,0.0,0.0,1,1.0,3,TTV-like mini virus,chrf_rna_0076_s76.csv,687332,0.0,100.0,False,True,False,False
+15,2.070037866607755,3.1860800860914518,1,1.0,0,Elizabethkingia anophelis,chrf_rna_0088_s88.csv,308865,99.0,99.0,True,False,False,True
+16,0.04139268515822508,0.0,1,1.0,1,Zucchini yellow mosaic virus,chrf_rna_0088_s88.csv,12195,2.1,0.0,False,True,False,False
+17,0.04139268515822508,0.0,1,1.0,2,Cucurbit chlorotic yellows virus,chrf_rna_0088_s88.csv,67753,100.0,0.0,False,True,False,False
+18,0.0,0.0,1,1.0,3,0,chrf_rna_0088_s88.csv,-200039724,7.3,0.0,False,False,True,False
+19,2.6692238739308056,3.5807311527409778,1,1.0,0,Enterobacter hormaechei,chrf_rna_0005_s5.csv,547,99.0,99.0,False,False,True,True
+20,1.6138418218760693,2.4149733479708178,1,1.0,1,Citrobacter freundii,chrf_rna_0005_s5.csv,544,99.0,22.1,False,False,True,False
+21,0.6127838567197355,1.1931245983544616,1,1.0,2,Pluralibacter gergoviae,chrf_rna_0005_s5.csv,1330546,59.8,3.4,False,False,True,False
+22,0.11394335230683679,0.0,1,1.0,3,Betapapillomavirus 2,chrf_rna_0005_s5.csv,333922,5.3,0.0,False,True,False,False
+23,1.1789769472931695,0.25527250510330607,1,1.0,0,Streptococcus oralis,chrf_rna_0017_s17.csv,1301,0.3,0.4,False,False,True,False
+24,1.021189299069938,1.3961993470957363,1,1.0,1,Bacteroides fragilis,chrf_rna_0017_s17.csv,816,30.0,8.1,False,False,True,False
+25,0.07918124604762482,0.0,1,1.0,2,Saccharomyces cerevisiae virus L-A,chrf_rna_0017_s17.csv,11007,0.4,0.0,False,True,False,False
+26,0.0,0.0,1,1.0,3,Torque teno midi virus,chrf_rna_0017_s17.csv,-200687329,100.0,100.0,False,True,False,False
+27,3.760399863329876,3.7561186017049333,1,1.0,0,Elizabethkingia anophelis,chrf_rna_0029_s29.csv,308865,99.0,99.0,True,False,False,True
+28,0.9493900066449128,0.7708520116421442,1,1.0,1,Chryseobacterium indologenes,chrf_rna_0029_s29.csv,59732,4.2,3.8,False,False,True,False
+29,0.7403626894942439,0.9444826721501687,1,1.0,2,Riemerella anatipestifer,chrf_rna_0029_s29.csv,34084,8.5,7.2,False,False,True,False
+30,0.414973347970818,0.43136376415898736,1,1.0,3,Flavobacterium columnare,chrf_rna_0029_s29.csv,237,0.7,1.2,False,False,True,False
+31,0.04139268515822508,0.0,1,1.0,4,Zucchini yellow mosaic virus,chrf_rna_0029_s29.csv,12195,2.0,0.0,False,True,False,False
+32,1.3424226808222062,2.889189612047073,1,1.0,0,Klebsiella pneumoniae,chrf_rna_0041_s41.csv,570,6.3,10.8,True,False,False,True
+33,1.173186268412274,3.004794110388712,1,1.0,1,Aeromonas hydrophila,chrf_rna_0041_s41.csv,642,6.3,9.9,False,False,True,False
+34,0.4623979978989561,1.9385197251764918,1,1.0,2,Citrobacter freundii,chrf_rna_0041_s41.csv,544,4.7,6.5,False,False,True,False
+35,0.04139268515822508,0.0,1,1.0,3,Garlic virus A,chrf_rna_0041_s41.csv,140568,100.0,0.0,False,True,False,False
+36,0.0,0.04139268515822508,1,1.0,4,Sapporo virus,chrf_rna_0041_s41.csv,95341,0.0,100.0,False,True,False,False
+37,0.0,0.0,1,1.0,5,TTV-like mini virus,chrf_rna_0041_s41.csv,687332,0.0,100.0,False,True,False,False
+38,0.7160033436347992,1.7331972651065695,1,1.0,0,Altererythrobacter dongtanensis,chrf_rna_0040_s40.csv,361177,1.4,0.3,False,False,True,False
+39,0.6627578316815741,0.3010299956639812,1,1.0,1,Paenibacillus beijingensis,chrf_rna_0040_s40.csv,44249,0.4,2.0,False,False,True,False
+40,0.47712125471966244,0.8061799739838872,1,1.0,2,Ilumatobacter coccineus,chrf_rna_0040_s40.csv,682522,1.5,0.3,False,False,True,False
+41,0.36172783601759284,0.8920946026904804,1,1.0,3,Glutamicibacter arilaitensis,chrf_rna_0040_s40.csv,1742989,2.8,0.4,False,False,True,False
+42,0.3222192947339193,1.4548448600085102,1,1.0,4,Pectobacterium carotovorum,chrf_rna_0040_s40.csv,122277,2.8,1.4,False,False,True,False
+43,0.07918124604762482,0.0,1,1.0,5,Saccharomyces cerevisiae virus L-A,chrf_rna_0040_s40.csv,11007,0.3,0.0,False,True,False,False
+44,0.04139268515822508,0.2787536009528289,1,1.0,6,Candidatus Methylopumilus turicensis,chrf_rna_0040_s40.csv,1679002,0.9,0.8,False,False,True,False
+45,0.04139268515822508,0.36172783601759284,1,1.0,7,Aurantimonas coralicida,chrf_rna_0040_s40.csv,182269,0.7,0.3,False,False,True,False
+46,0.04139268515822508,0.0,1,1.0,8,Persea americana chrysovirus,chrf_rna_0040_s40.csv,11014,100.0,0.0,False,True,False,False
+47,0.0,1.841984804590114,1,1.0,9,Primate tetraparvovirus 1,chrf_rna_0040_s40.csv,1511911,0.0,1.7,False,True,False,False
+48,0.0,0.0,1,1.0,10,Torque teno virus,chrf_rna_0040_s40.csv,-200687329,0.0,2.4,False,True,False,False
+49,0.0,0.0,1,1.0,11,TTV-like mini virus,chrf_rna_0040_s40.csv,687332,0.0,100.0,False,True,False,False
+50,0.04139268515822508,0.0,1,1.0,0,Zika virus,chrf_rna_0004_s4.csv,11051,100.0,0.0,False,True,False,False
+51,0.3010299956639812,0.0,1,1.0,0,TTV-like mini virus,chrf_rna_0039_s39.csv,687332,99.0,0.0,False,True,False,False
+52,0.25527250510330607,0.0,1,1.0,1,Torque teno virus 5,chrf_rna_0039_s39.csv,687331,100.0,0.0,False,True,False,False
+53,0.0,0.0,1,1.0,2,0,chrf_rna_0039_s39.csv,-200687329,24.2,0.0,False,False,True,False
+54,0.2787536009528289,0.0,1,1.0,0,Human mastadenovirus C,chrf_rna_0028_s28.csv,10509,0.9,0.0,False,True,False,False
+55,0.07918124604762482,0.0,1,1.0,1,Saccharomyces cerevisiae virus L-A,chrf_rna_0028_s28.csv,11007,0.4,0.0,False,True,False,False
+56,0.0,0.04139268515822508,1,1.0,2,Human gammaherpesvirus 4,chrf_rna_0028_s28.csv,10375,0.0,0.9,False,True,False,False
+57,0.0,0.0,1,1.0,3,Tomato leaf curl New Delhi virus,chrf_rna_0028_s28.csv,10814,0.0,100.0,False,True,False,False
+58,3.5347112933903264,3.7209114288540146,1,1.0,0,Neisseria meningitidis,chrf_rna_0063_s63.csv,482,99.0,99.0,True,False,False,True
+59,0.11394335230683679,0.0,1,1.0,1,Torque teno virus 24,chrf_rna_0063_s63.csv,687331,100.0,100.0,False,True,False,False
+60,0.0,0.0,1,1.0,2,Torque teno midi virus,chrf_rna_0063_s63.csv,-200687329,100.0,100.0,False,True,False,False
+61,0.0,0.146128035678238,1,1.0,3,Torque teno midi virus 1,chrf_rna_0063_s63.csv,687333,0.0,100.0,False,True,False,False
+62,1.651278013998144,1.808210972924222,1,1.0,0,Streptococcus pneumoniae,chrf_rna_0050_s50.csv,1301,23.0,1.7,True,False,False,True
+63,0.07918124604762482,0.0,1,1.0,1,Saccharomyces cerevisiae virus L-BC (La),chrf_rna_0050_s50.csv,11007,2.0,0.0,False,True,False,False
+64,0.6127838567197355,1.6190933306267428,1,1.0,0,Streptococcus pneumoniae,chrf_rna_0087_s87.csv,1301,1.1,0.9,True,False,False,True
+65,0.04139268515822508,0.0,1,1.0,1,Torque teno virus 3,chrf_rna_0087_s87.csv,687331,100.0,0.0,False,True,False,False
+66,0.0,0.0,1,1.0,2,0,chrf_rna_0087_s87.csv,-200687329,8.1,0.0,False,False,True,False
+67,0.0,0.0,1,1.0,0,0,chrf_rna_0038_s38.csv,-200687329,19.5,0.0,False,False,True,False
+68,1.0128372247051722,1.7745169657285496,1,1.0,0,Streptococcus pneumoniae,chrf_rna_0075_s75.csv,1301,10.7,1.5,True,False,False,True
+69,0.0,0.0,1,1.0,1,0,chrf_rna_0075_s75.csv,-200687329,15.9,0.0,False,False,True,False
+70,0.9294189257142927,1.9969492484953812,1,1.0,0,Streptococcus pneumoniae,chrf_rna_0037_s37.csv,1301,9.4,3.0,True,False,False,True
+71,0.0,0.0,1,1.0,1,0,chrf_rna_0037_s37.csv,-200687329,22.8,0.0,False,False,True,False
+72,1.75815462196739,2.9909600996821992,1,1.0,0,Haemophilus influenzae,chrf_rna_0027_s27.csv,724,64.3,29.3,True,False,False,True
+73,0.0,0.0,1,1.0,1,Human alphaherpesvirus 1,chrf_rna_0027_s27.csv,10294,0.0,0.3,False,True,False,False
+74,1.2810333672477277,0.07918124604762482,1,1.0,0,Torque teno virus 12,chrf_rna_0074_s74.csv,687331,100.0,100.0,False,True,False,False
+75,0.6020599913279624,0.0,1,1.0,1,TTV-like mini virus,chrf_rna_0074_s74.csv,687332,99.0,100.0,False,True,False,False
+76,0.0,0.0,1,1.0,2,Torque teno virus,chrf_rna_0074_s74.csv,-200687329,99.0,34.8,False,True,False,False
+77,0.0,0.07918124604762482,1,1.0,3,Human gammaherpesvirus 4,chrf_rna_0074_s74.csv,10375,0.0,3.3,False,True,False,False
+78,1.4871383754771865,1.9380190974762104,1,1.0,0,Streptococcus pneumoniae,chrf_rna_0014_s14.csv,1301,33.4,2.5,True,False,False,True
+79,0.568201724066995,0.0,1,1.0,1,TTV-like mini virus,chrf_rna_0014_s14.csv,687332,99.0,0.0,False,True,False,False
+80,0.0,0.0,1,1.0,2,Torque teno midi virus,chrf_rna_0014_s14.csv,-200687329,99.0,100.0,False,True,False,False
+81,1.568201724066995,1.7512791039833422,1,1.0,0,Streptococcus pneumoniae,chrf_rna_0025_s25.csv,1301,30.7,1.4,True,False,False,True
+82,0.7708520116421442,0.04139268515822508,1,1.0,1,Torque teno virus 5,chrf_rna_0025_s25.csv,687331,100.0,100.0,False,True,False,False
+83,0.11394335230683679,0.0,1,1.0,2,Human betaherpesvirus 5,chrf_rna_0025_s25.csv,10358,38.9,0.0,False,True,False,False
+84,0.07918124604762482,0.0,1,1.0,3,Torque teno mini virus 1,chrf_rna_0025_s25.csv,687332,100.0,0.0,False,True,False,False
+85,0.0,0.0,1,1.0,4,Torque teno virus,chrf_rna_0025_s25.csv,-200687329,99.0,5.9,False,True,False,False
+86,2.0253058652647704,2.037824750588342,1,1.0,0,Streptococcus pneumoniae,chrf_rna_0085_s85.csv,1301,18.2,3.3,True,False,False,True
+87,1.919078092376074,1.8075350280688534,1,1.0,0,Streptococcus pneumoniae,chrf_rna_0086_s86.csv,1301,76.0,1.7,True,False,False,True
+88,0.2041199826559248,0.0,1,1.0,1,Torque teno mini virus 5,chrf_rna_0086_s86.csv,687332,31.5,0.0,False,True,False,False
+89,0.0,0.0,1,1.0,2,Torque teno virus,chrf_rna_0086_s86.csv,-200687329,99.0,1.1,False,True,False,False
+90,1.6222140229662954,1.7084209001347128,1,1.0,0,Streptococcus pneumoniae,chrf_rna_0062_s62.csv,1301,53.3,1.2,True,False,False,True
+91,0.7558748556724915,0.0,1,1.0,1,TTV-like mini virus,chrf_rna_0062_s62.csv,687332,99.0,100.0,False,True,False,False
+92,0.11394335230683679,0.0,1,1.0,2,Torque teno virus 3,chrf_rna_0062_s62.csv,687331,100.0,0.0,False,True,False,False
+93,0.0,0.0,1,1.0,3,0,chrf_rna_0062_s62.csv,-200687329,99.0,0.0,False,False,True,False
+94,2.744918542441353,2.901948465073084,1,1.0,0,Streptococcus pneumoniae,chrf_rna_0073_s73.csv,1301,99.0,28.1,True,False,False,True
+95,1.8762178405916423,2.649334858712142,1,1.0,0,Streptococcus pneumoniae,chrf_rna_0061_s61.csv,1301,68.1,15.8,True,False,False,True
+96,1.816241299991783,2.5287881917748964,1,1.0,0,Streptococcus pneumoniae,chrf_rna_0051_s51.csv,1301,86.4,11.6,True,False,False,True
+97,0.5440680443502757,0.04139268515822508,1,1.0,1,TTV-like mini virus,chrf_rna_0051_s51.csv,687332,99.0,100.0,False,True,False,False
+98,0.0,0.0,1,1.0,2,Torque teno virus,chrf_rna_0051_s51.csv,-200687329,99.0,4.9,False,True,False,False
+99,4.282062175976147,4.287380663181422,1,1.0,0,Streptococcus pneumoniae,chrf_rna_0002_s2.csv,1301,99.0,99.0,True,False,False,True
+100,2.8195439355418688,3.0091108061322127,1,1.0,0,Streptococcus pneumoniae,chrf_rna_0026_s26.csv,1301,99.0,36.3,True,False,False,True
+101,0.9684829485539351,0.04139268515822508,1,1.0,0,Torque teno virus 16,chrf_rna_0003_s3.csv,687331,100.0,100.0,False,True,False,False
+102,0.2304489213782739,0.0,1,1.0,1,TTV-like mini virus,chrf_rna_0003_s3.csv,687332,91.9,100.0,False,True,False,False
+103,0.0,0.0,1,1.0,2,Torque teno virus,chrf_rna_0003_s3.csv,-200687329,99.0,3.1,False,True,False,False
+104,2.147985320683805,3.0679259496815217,1,1.0,0,Primate tetraparvovirus 1,chrf_rna_0015_s15.csv,1511911,80.4,32.2,False,True,False,False
+105,1.1958996524092338,2.6472851450253665,1,1.0,1,Haemophilus influenzae,chrf_rna_0015_s15.csv,724,1.9,12.9,True,False,False,False
+106,0.7708520116421442,0.7160033436347992,1,1.0,2,Tannerella sp. oral taxon HOT-286,chrf_rna_0015_s15.csv,195950,34.9,0.6,False,False,True,False
+107,0.6627578316815741,0.6127838567197355,1,1.0,3,Faecalibacterium prausnitzii,chrf_rna_0015_s15.csv,216851,0.9,0.9,False,False,True,False
+108,0.414973347970818,0.0,1,1.0,4,Human mastadenovirus C,chrf_rna_0015_s15.csv,10509,3.1,0.0,False,True,False,False
+109,0.146128035678238,0.25527250510330607,1,1.0,5,Campylobacter gracilis,chrf_rna_0015_s15.csv,194,2.0,0.4,False,False,True,False
+110,0.07918124604762482,0.0,1,1.0,6,Pepino mosaic virus,chrf_rna_0015_s15.csv,12176,100.0,0.0,False,True,False,False
+111,0.04139268515822508,0.0,1,1.0,7,Zucchini yellow mosaic virus,chrf_rna_0015_s15.csv,12195,2.7,0.0,False,True,False,False
+112,0.0,0.6812412373755872,1,1.0,8,Human betaherpesvirus 5,chrf_rna_0015_s15.csv,10358,0.0,40.6,False,True,False,False
+113,0.0,0.0,1,1.0,9,Human parvovirus 5,chrf_rna_0015_s15.csv,-200010780,0.0,34.5,False,True,False,False
+114,0.6901960800285137,1.2148438480476977,1,1.0,0,Deinococcus radiodurans,chrf_rna_0016_s16.csv,1298,0.7,0.4,False,False,True,False
+115,0.11394335230683679,0.0,1,1.0,1,Clover yellow mosaic virus,chrf_rna_0016_s16.csv,12176,5.4,0.0,False,True,False,False
+116,0.07918124604762482,0.0,1,1.0,2,Leek yellow stripe virus,chrf_rna_0016_s16.csv,12195,100.0,0.0,False,True,False,False
+117,0.0,0.04139268515822508,1,1.0,3,Primate erythroparvovirus 1,chrf_rna_0016_s16.csv,40121,0.0,1.5,False,True,False,False
+118,0.9084850188786497,1.7737864449811935,1,4.0,0,Neisseria sicca,chrf_rna_0006_s6.csv,482,0.3,1.1,False,False,True,False
+119,0.8061799739838872,1.8561244442423004,1,4.0,1,Enterobacter cloacae,chrf_rna_0006_s6.csv,547,1.2,0.5,False,False,True,False
+120,0.4623979978989561,1.2148438480476977,1,4.0,2,Bacteroides fragilis,chrf_rna_0006_s6.csv,816,0.7,4.0,False,False,True,False
+121,0.4623979978989561,1.8344207036815325,1,4.0,3,Arthrobacter saudimassiliensis,chrf_rna_0006_s6.csv,1663,0.3,0.3,False,False,True,False
+122,0.3979400086720376,0.4623979978989561,1,4.0,4,Flavisolibacter tropicus,chrf_rna_0006_s6.csv,398041,0.7,0.8,False,False,True,False
+123,0.2787536009528289,0.146128035678238,1,4.0,5,Peptoniphilus sp. ING2-D1G,chrf_rna_0006_s6.csv,162289,0.7,2.3,False,False,True,False
+124,0.17609125905568124,0.6334684555795865,1,4.0,6,Clostridium botulinum,chrf_rna_0006_s6.csv,1485,0.8,5.1,False,False,True,False
+125,0.07918124604762482,0.0,1,4.0,7,Oryza sativa alphaendornavirus,chrf_rna_0006_s6.csv,2003394,5.8,0.0,False,True,False,False
+126,0.04139268515822508,0.0,1,4.0,8,Drosophila melanogaster sigmavirus,chrf_rna_0006_s6.csv,1308858,5.8,0.0,False,True,False,False
+127,0.0,0.0,1,4.0,9,Torque teno virus,chrf_rna_0006_s6.csv,-200687329,0.0,0.4,False,True,False,False
+128,0.0,0.0,1,4.0,10,uncultured endornavirus,chrf_rna_0006_s6.csv,-200564644,0.0,5.7,False,True,False,False
+129,0.0,0.0,1,4.0,11,Cercopithecine betaherpesvirus 5,chrf_rna_0006_s6.csv,10358,0.0,2.2,False,True,False,False
+130,0.0,0.0,1,4.0,12,Human associated gemykibivirus 1,chrf_rna_0006_s6.csv,1941236,0.0,100.0,False,True,False,False
+131,1.8813846567705728,3.4297361349260327,1,4.0,0,Kocuria turfanensis,chrf_rna_0007_s7.csv,57493,5.5,5.7,False,False,True,False
+132,1.7596678446896306,2.343014497150768,1,4.0,1,Sphingomonas melonis,chrf_rna_0007_s7.csv,13687,0.5,0.3,False,False,True,False
+133,1.546542663478131,3.5842294246682163,1,4.0,2,Mycobacterium sp. YC-RL4,chrf_rna_0007_s7.csv,1763,0.9,0.3,True,False,False,False
+134,1.3242824552976926,2.5090680450171616,1,4.0,3,Deinococcus geothermalis,chrf_rna_0007_s7.csv,1298,4.7,5.7,False,False,True,False
+135,1.0,1.0043213737826426,1,4.0,4,Bifidobacterium thermophilum,chrf_rna_0007_s7.csv,1678,5.1,1.4,False,False,True,False
+136,0.8573324964312685,0.8129133566428556,1,4.0,5,Salinicoccus halodurans,chrf_rna_0007_s7.csv,45669,0.3,0.3,False,False,True,False
+137,0.8573324964312685,2.3554515201265174,1,4.0,6,Truepera radiovictrix,chrf_rna_0007_s7.csv,332248,5.6,5.7,False,False,True,False
+138,0.8512583487190752,1.8987251815894934,1,4.0,7,Bacillus cereus,chrf_rna_0007_s7.csv,1386,2.3,0.7,True,False,False,False
+139,0.8325089127062363,2.219846386024361,1,4.0,8,Streptomyces albus,chrf_rna_0007_s7.csv,1883,1.0,1.1,False,False,True,False
+140,0.6812412373755872,1.429752280002408,1,4.0,9,Bosea sp. RAC05,chrf_rna_0007_s7.csv,85413,0.6,0.5,False,False,True,False
+141,0.6720978579357175,1.5797835966168101,1,4.0,10,Sphingobium cloacae,chrf_rna_0007_s7.csv,165695,0.4,0.6,False,False,True,False
+142,0.6532125137753437,0.785329835010767,1,4.0,11,Spirosoma radiotolerans,chrf_rna_0007_s7.csv,107,0.9,3.0,False,False,True,False
+143,0.5563025007672873,2.185258765296585,1,4.0,12,Bradyrhizobium diazoefficiens,chrf_rna_0007_s7.csv,374,1.3,0.4,False,False,True,False
+144,0.43136376415898736,1.760422483423212,1,4.0,13,Cupriavidus gilardii,chrf_rna_0007_s7.csv,106589,1.0,0.3,False,False,True,False
+145,0.43136376415898736,1.0644579892269184,1,4.0,14,Caulobacter sp. K31,chrf_rna_0007_s7.csv,75,1.6,0.3,False,False,True,False
+146,0.414973347970818,1.0086001717619175,1,4.0,15,Curtobacterium sp. BH-2-1-1,chrf_rna_0007_s7.csv,2034,0.4,0.9,False,False,True,False
+147,0.38021124171160603,1.390935107103379,1,4.0,16,Actinoplanes friuliensis,chrf_rna_0007_s7.csv,1865,0.8,0.4,False,False,True,False
+148,0.38021124171160603,1.787460474518415,1,4.0,17,Thauera humireducens,chrf_rna_0007_s7.csv,33057,2.6,0.7,False,False,True,False
+149,0.36172783601759284,1.5403294747908738,1,4.0,18,Myxococcus fulvus,chrf_rna_0007_s7.csv,32,0.3,1.2,False,False,True,False
+150,0.3424226808222063,2.3394514413064407,1,4.0,19,Caldilinea aerophila,chrf_rna_0007_s7.csv,233191,0.8,0.3,False,False,True,False
+151,0.3010299956639812,1.0606978403536116,1,4.0,20,Arsenicicoccus sp. oral taxon 190,chrf_rna_0007_s7.csv,267408,0.5,0.3,False,False,True,False
+152,0.3010299956639812,0.0,1,4.0,21,Human mastadenovirus C,chrf_rna_0007_s7.csv,10509,0.7,0.0,False,True,False,False
+153,0.3010299956639812,1.608526033577194,1,4.0,22,Azospirillum brasilense,chrf_rna_0007_s7.csv,191,0.3,0.6,False,False,True,False
+154,0.3010299956639812,1.9222062774390163,1,4.0,23,Nocardia farcinica,chrf_rna_0007_s7.csv,1817,0.5,0.3,False,False,True,False
+155,0.2787536009528289,1.608526033577194,1,4.0,24,Burkholderia multivorans,chrf_rna_0007_s7.csv,32008,3.5,0.5,False,False,True,False
+156,2.028977705208778,1.9508514588885464,1,4.0,0,Escherichia coli,chrf_rna_0008_s8.csv,561,0.4,1.5,True,False,False,False
+157,0.11394335230683679,0.11394335230683679,1,4.0,1,Coprococcus catus,chrf_rna_0008_s8.csv,33042,0.3,0.4,False,False,True,False
+158,0.07918124604762482,0.0,1,4.0,2,White clover mosaic virus,chrf_rna_0008_s8.csv,12176,5.8,0.0,False,True,False,False
+159,0.0,1.8438554226231612,1,4.0,3,Murine leukemia virus,chrf_rna_0008_s8.csv,153135,0.0,5.2,False,True,False,False
+160,1.9973863843973134,1.5171958979499742,1,4.0,0,Staphylococcus saprophyticus,chrf_rna_0009_s9.csv,1279,5.8,1.4,False,False,True,False
+161,1.9666109866819343,2.5079907248196913,1,4.0,1,Corynebacterium timonense,chrf_rna_0009_s9.csv,1716,2.7,3.5,False,False,True,False
+162,1.6424645202421213,0.47712125471966244,1,4.0,2,Nitrosomonas sp. Is79A3,chrf_rna_0009_s9.csv,914,5.8,1.3,False,False,True,False
+163,1.5440680443502757,1.7909884750888159,1,4.0,3,Streptococcus pneumoniae,chrf_rna_0009_s9.csv,1301,0.7,0.4,True,False,False,False
+164,1.255272505103306,1.6304278750250238,1,4.0,4,Haemophilus influenzae,chrf_rna_0009_s9.csv,724,3.1,0.7,True,False,False,False
+165,1.146128035678238,1.6551384348113822,1,4.0,5,Enterococcus faecium,chrf_rna_0009_s9.csv,1350,4.6,2.9,False,False,True,False
+166,0.9777236052888477,1.8645110810583918,1,4.0,6,Moraxella catarrhalis,chrf_rna_0009_s9.csv,475,4.7,5.2,False,False,True,False
+167,0.8061799739838872,1.0969100130080565,1,4.0,7,Bacteroides fragilis,chrf_rna_0009_s9.csv,816,4.5,1.9,False,False,True,False
+168,0.568201724066995,2.2345172835126865,1,4.0,8,Bifidobacterium longum,chrf_rna_0009_s9.csv,1678,1.5,3.7,False,False,True,False
+169,0.5440680443502757,0.8750612633917001,1,4.0,9,Prevotella dentalis,chrf_rna_0009_s9.csv,838,1.4,1.2,False,False,True,False
+170,0.3979400086720376,0.0,1,4.0,10,Saccharomyces cerevisiae virus L-A,chrf_rna_0009_s9.csv,11007,4.8,0.0,False,True,False,False
+171,0.3010299956639812,1.424881636631067,1,4.0,11,Tessaracoccus flavescens,chrf_rna_0009_s9.csv,72763,0.5,1.1,False,False,True,False
+172,0.11394335230683679,0.0,1,4.0,12,Gammapapillomavirus 22,chrf_rna_0009_s9.csv,325455,5.8,0.0,False,True,False,False
+173,0.0,0.6334684555795865,1,4.0,13,Human herpesvirus 6,chrf_rna_0009_s9.csv,40272,0.0,3.2,False,True,False,False
+174,0.0,0.07918124604762482,1,4.0,14,Human mastadenovirus C,chrf_rna_0009_s9.csv,10509,0.0,0.6,False,True,False,False
+175,0.0,0.0,1,4.0,15,Human papillomavirus type 174,chrf_rna_0009_s9.csv,-200151340,0.0,5.7,False,True,False,False
+176,1.1367205671564067,3.2256193813333995,1,4.0,0,Salmonella enterica,chrf_rna_0018_s18.csv,590,1.7,5.3,True,False,False,False
+177,0.5314789170422551,0.9493900066449128,1,4.0,1,Bacteroides fragilis,chrf_rna_0018_s18.csv,816,1.4,1.6,False,False,True,False
+178,0.3010299956639812,0.0,1,4.0,2,Human mastadenovirus C,chrf_rna_0018_s18.csv,10509,1.0,0.0,False,True,False,False
+179,0.2787536009528289,1.2148438480476977,1,4.0,3,Pontibacter actiniarum,chrf_rna_0018_s18.csv,323449,0.6,0.3,False,False,True,False
+180,0.17609125905568124,0.04139268515822508,1,4.0,4,Betapapillomavirus 4,chrf_rna_0018_s18.csv,333922,5.8,2.1,False,True,False,False
+181,0.17609125905568124,0.0,1,4.0,5,Saccharomyces cerevisiae virus L-BC (La),chrf_rna_0018_s18.csv,11007,3.7,0.0,False,True,False,False
+182,0.07918124604762482,0.04139268515822508,1,4.0,6,Rickettsia felis,chrf_rna_0018_s18.csv,780,3.9,0.3,False,False,True,False
+183,0.04139268515822508,0.505149978319906,1,4.0,7,Parvimonas micra,chrf_rna_0018_s18.csv,543311,0.9,1.4,False,False,True,False
+184,0.0,0.04139268515822508,1,4.0,8,Human betaherpesvirus 7,chrf_rna_0018_s18.csv,40272,0.0,5.7,False,True,False,False
+185,0.0,0.0,1,4.0,9,Gemycircularvirus HV-GcV1,chrf_rna_0018_s18.csv,1542744,0.0,5.6,False,True,False,False
+186,1.1846914308175989,2.521530341278711,1,4.0,0,Massilia sp. WG5,chrf_rna_0019_s19.csv,149698,2.0,2.9,False,False,True,False
+187,0.9822712330395684,2.0584260244570056,1,4.0,1,Anoxybacillus flavithermus,chrf_rna_0019_s19.csv,150247,3.4,1.3,False,False,True,False
+188,0.43136376415898736,1.4065401804339552,1,4.0,2,Ochrobactrum anthropi,chrf_rna_0019_s19.csv,528,3.1,0.5,False,False,True,False
+189,0.36172783601759284,1.8767949762007006,1,4.0,3,Leclercia adecarboxylata,chrf_rna_0019_s19.csv,83654,3.4,4.0,False,False,True,False
+190,0.25527250510330607,0.9590413923210935,1,4.0,4,Nitrobacter winogradskyi,chrf_rna_0019_s19.csv,911,1.9,0.8,False,False,True,False
+191,0.25527250510330607,0.11394335230683679,1,4.0,5,Fuerstia marisgermanicae,chrf_rna_0019_s19.csv,1936111,1.5,0.9,False,False,True,False
+192,0.25527250510330607,1.0043213737826426,1,4.0,6,Croceicoccus marinus,chrf_rna_0019_s19.csv,1295327,1.1,0.4,False,False,True,False
+193,0.146128035678238,0.0,1,4.0,7,Alphapapillomavirus 4,chrf_rna_0019_s19.csv,333750,5.8,0.0,False,True,False,False
+194,0.07918124604762482,0.47712125471966244,1,4.0,8,Aurantimonas coralicida,chrf_rna_0019_s19.csv,182269,3.2,1.2,False,False,True,False
+195,0.0,0.04139268515822508,1,4.0,9,Hyphantria cunea nucleopolyhedrovirus,chrf_rna_0019_s19.csv,558016,0.0,4.9,False,True,False,False
+196,0.0,0.0,1,4.0,10,Cercopithecine betaherpesvirus 5,chrf_rna_0019_s19.csv,10358,0.0,1.5,False,True,False,False
+197,2.5120169694961265,2.853515696756929,1,4.0,0,Brevundimonas diminuta,chrf_rna_0020_s20.csv,41275,5.8,5.5,False,False,True,False
+198,2.3180633349627615,1.2648178230095364,1,4.0,1,Devosia sp. H5989,chrf_rna_0020_s20.csv,46913,5.8,0.3,False,False,True,False
+199,2.011993114659257,1.6937269489236468,1,4.0,2,Rhizobium sp. NT-26,chrf_rna_0020_s20.csv,379,5.8,2.8,False,False,True,False
+200,1.586587304671755,1.1553360374650619,1,4.0,3,Sinorhizobium sp. RAC02,chrf_rna_0020_s20.csv,28105,5.8,0.6,False,False,True,False
+201,1.526339277389844,1.2648178230095364,1,4.0,4,Shinella sp. HZN7,chrf_rna_0020_s20.csv,323620,5.8,1.2,False,False,True,False
+202,1.4563660331290431,3.140004950619449,1,4.0,5,Pseudomonas stutzeri,chrf_rna_0020_s20.csv,286,2.2,5.0,False,False,True,False
+203,1.403120521175818,2.8023631743095474,1,4.0,6,Corynebacterium jeikeium,chrf_rna_0020_s20.csv,1716,0.6,2.3,False,False,True,False
+204,1.3521825181113625,1.235528446907549,1,4.0,7,Myxococcus fulvus,chrf_rna_0020_s20.csv,32,5.6,2.5,False,False,True,False
+205,1.3031960574204888,0.4623979978989561,1,4.0,8,Pusillimonas sp. T7-7,chrf_rna_0020_s20.csv,305976,5.8,1.6,False,False,True,False
+206,1.1789769472931695,2.2607866686549762,1,4.0,9,Streptococcus gordonii,chrf_rna_0020_s20.csv,1301,3.4,5.3,False,False,True,False
+207,0.8388490907372553,2.3384564936046046,1,4.0,10,Actinomyces oris,chrf_rna_0020_s20.csv,1654,1.3,0.8,False,False,True,False
+208,0.7993405494535817,2.11293997608408,1,4.0,11,Acidovorax ebreus,chrf_rna_0020_s20.csv,12916,2.6,3.7,False,False,True,False
+209,0.7634279935629372,1.4199557484897578,1,4.0,12,Ochrobactrum anthropi,chrf_rna_0020_s20.csv,528,4.0,0.5,False,False,True,False
+210,0.7160033436347992,0.4471580313422192,1,4.0,13,Pseudopedobacter saltans,chrf_rna_0020_s20.csv,1649482,5.4,2.6,False,False,True,False
+211,0.6812412373755872,0.8260748027008264,1,4.0,14,Flavobacterium psychrophilum,chrf_rna_0020_s20.csv,237,4.2,1.1,False,False,True,False
+212,0.5440680443502757,0.9542425094393249,1,4.0,15,Aggregatibacter aphrophilus,chrf_rna_0020_s20.csv,416916,0.4,1.0,False,False,True,False
+213,0.5314789170422551,1.1702617153949575,1,4.0,16,Pseudopropionibacterium propionicum,chrf_rna_0020_s20.csv,1912217,4.5,0.9,False,False,True,False
+214,0.47712125471966244,1.1072099696478683,1,4.0,17,Psychrobacter sp. DAB_AL43B,chrf_rna_0020_s20.csv,497,1.9,0.3,False,False,True,False
+215,0.4471580313422192,1.7323937598229686,1,4.0,18,Tessaracoccus sp. T2.5-30,chrf_rna_0020_s20.csv,72763,1.4,0.9,False,False,True,False
+216,0.3979400086720376,0.8325089127062363,1,4.0,19,Microterricola viridarii,chrf_rna_0020_s20.csv,518733,3.4,0.4,False,False,True,False
+217,0.3424226808222063,1.209515014542631,1,4.0,20,Dietzia timorensis,chrf_rna_0020_s20.csv,37914,1.9,1.0,False,False,True,False
+218,0.2787536009528289,0.0,1,4.0,21,Human mastadenovirus C,chrf_rna_0020_s20.csv,10509,0.6,0.0,False,True,False,False
+219,0.25527250510330607,0.7781512503836436,1,4.0,22,Paenibacillus sp. Y412MC10,chrf_rna_0020_s20.csv,44249,3.2,5.2,False,False,True,False
+220,0.25527250510330607,1.3636119798921444,1,4.0,23,Leclercia adecarboxylata,chrf_rna_0020_s20.csv,83654,2.1,0.8,False,False,True,False
+221,0.25527250510330607,1.24551266781415,1,4.0,24,Leptotrichia sp. oral taxon 212,chrf_rna_0020_s20.csv,32067,0.9,3.4,False,False,True,False
+222,2.429429264381788,2.3014640731432996,1,4.0,0,Staphylococcus epidermidis,chrf_rna_0021_s21.csv,1279,5.3,1.3,False,False,True,False
+223,2.229169702539101,2.3630475945210936,1,4.0,1,Micrococcus luteus,chrf_rna_0021_s21.csv,1269,4.1,0.3,False,False,True,False
+224,1.9405164849325673,0.9912260756924949,1,4.0,2,Enterococcus cecorum,chrf_rna_0021_s21.csv,1350,5.8,1.3,False,False,True,False
+225,1.7846172926328754,1.1172712956557642,1,4.0,3,Lactobacillus crispatus,chrf_rna_0021_s21.csv,1578,3.4,2.9,False,False,True,False
+226,1.1931245983544616,0.146128035678238,1,4.0,4,Jeotgalibaca sp. PTS2502,chrf_rna_0021_s21.csv,1470540,5.3,0.7,False,False,True,False
+227,1.1702617153949575,0.8512583487190752,1,4.0,5,Rubrobacter radiotolerans,chrf_rna_0021_s21.csv,42255,5.8,0.7,False,False,True,False
+228,0.9493900066449128,2.273695587930092,1,4.0,6,Anoxybacillus flavithermus,chrf_rna_0021_s21.csv,150247,3.4,2.8,False,False,True,False
+229,0.6720978579357175,0.146128035678238,1,4.0,7,Ruminiclostridium thermocellum,chrf_rna_0021_s21.csv,1508657,3.8,1.0,False,False,True,False
+230,0.6232492903979004,0.4623979978989561,1,4.0,8,Listeria grayi,chrf_rna_0021_s21.csv,1637,5.8,1.1,False,False,True,False
+231,0.4471580313422192,0.11394335230683679,1,4.0,9,Fictibacillus arsenicus,chrf_rna_0021_s21.csv,1329200,1.0,0.3,False,False,True,False
+232,0.4471580313422192,1.8518696007297664,1,4.0,10,Thermus thermophilus,chrf_rna_0021_s21.csv,270,4.8,4.3,False,False,True,False
+233,0.43136376415898736,1.0128372247051722,1,4.0,11,Acidipropionibacterium acidipropionici,chrf_rna_0021_s21.csv,1912215,1.3,0.3,False,False,True,False
+234,0.2304489213782739,0.0,1,4.0,12,Saccharomyces cerevisiae virus L-A,chrf_rna_0021_s21.csv,11007,1.6,0.0,False,True,False,False
+235,0.07918124604762482,0.0,1,4.0,13,Betapapillomavirus 5,chrf_rna_0021_s21.csv,333922,5.8,0.0,False,True,False,False
+236,0.07918124604762482,0.0,1,4.0,14,Tomato mosaic virus,chrf_rna_0021_s21.csv,12234,0.8,0.0,False,True,False,False
+237,0.04139268515822508,0.146128035678238,1,4.0,15,Rickettsia bellii,chrf_rna_0021_s21.csv,780,5.8,4.9,False,False,True,False
+238,0.0,0.36172783601759284,1,4.0,16,Human herpesvirus 6,chrf_rna_0021_s21.csv,40272,0.0,1.0,False,True,False,False
+239,0.0,0.07918124604762482,1,4.0,17,Gammapapillomavirus 13,chrf_rna_0021_s21.csv,325455,0.0,5.7,False,True,False,False
+240,0.0,0.0,1,4.0,18,Human papillomavirus,chrf_rna_0021_s21.csv,-200151340,0.0,0.8,False,True,False,False
+241,0.04139268515822508,0.0,1,4.0,0,Rotavirus A,chrf_rna_0030_s30.csv,10912,2.0,0.0,False,True,False,False
+242,0.0,0.146128035678238,1,4.0,1,Betapapillomavirus 2,chrf_rna_0030_s30.csv,333922,0.0,0.4,False,True,False,False
+243,0.0,0.04139268515822508,1,4.0,2,Human mastadenovirus F,chrf_rna_0030_s30.csv,10509,0.0,0.7,False,True,False,False
+244,0.0,0.04139268515822508,1,4.0,3,Spodoptera litura nucleopolyhedrovirus,chrf_rna_0030_s30.csv,558016,0.0,2.6,False,True,False,False
+245,0.0,0.0,1,4.0,4,Primate erythroparvovirus 1,chrf_rna_0030_s30.csv,40121,0.0,1.2,False,True,False,False
+246,0.0,0.0,1,4.0,5,Human polyomavirus 4,chrf_rna_0030_s30.csv,1891714,0.0,1.1,False,True,False,False
+247,2.6661434272915585,1.5314789170422551,1,4.0,0,Pseudonocardia dioxanivorans,chrf_rna_0031_s31.csv,1847,5.8,0.3,False,False,True,False
+248,2.218010042984363,2.2390490931401916,1,4.0,1,Sphingomonas koreensis,chrf_rna_0031_s31.csv,13687,3.8,0.5,False,False,True,False
+249,1.3579348470004537,2.0595634179012676,1,4.0,2,Streptomyces sp. 4F,chrf_rna_0031_s31.csv,1883,4.1,3.8,False,False,True,False
+250,1.276461804173244,1.57287160220048,1,4.0,3,Pimelobacter simplex,chrf_rna_0031_s31.csv,2044,5.5,0.4,False,False,True,False
+251,0.8388490907372553,1.787460474518415,1,4.0,4,Arthrobacter saudimassiliensis,chrf_rna_0031_s31.csv,1663,0.7,0.3,False,False,True,False
+252,0.2041199826559248,0.7634279935629372,1,4.0,5,Allokutzneria albata,chrf_rna_0031_s31.csv,1137960,0.5,0.5,False,False,True,False
+253,0.2041199826559248,0.3979400086720376,1,4.0,6,Riemerella anatipestifer,chrf_rna_0031_s31.csv,34084,0.5,0.5,False,False,True,False
+254,0.17609125905568124,1.615950051656401,1,4.0,7,Xanthomonas sacchari,chrf_rna_0031_s31.csv,338,0.3,0.4,False,False,True,False
+255,0.0,0.11394335230683679,1,4.0,8,Betapapillomavirus 1,chrf_rna_0031_s31.csv,333922,0.0,0.4,False,True,False,False
+256,0.0,0.07918124604762482,1,4.0,9,Cercopithecine betaherpesvirus 5,chrf_rna_0031_s31.csv,10358,0.0,1.9,False,True,False,False
+257,0.0,0.0,1,4.0,10,Human papillomavirus,chrf_rna_0031_s31.csv,-200151340,0.0,0.3,False,True,False,False
+258,1.0492180226701815,2.3251049829714074,1,4.0,0,Primate tetraparvovirus 1,chrf_rna_0032_s32.csv,1511911,5.8,5.7,False,True,False,False
+259,0.5185139398778874,0.8325089127062363,1,4.0,1,Lactococcus lactis,chrf_rna_0032_s32.csv,1357,1.2,1.0,False,False,True,False
+260,0.25527250510330607,0.2041199826559248,1,4.0,2,Clostridium perfringens,chrf_rna_0032_s32.csv,1485,0.6,1.3,False,False,True,False
+261,0.04139268515822508,0.0,1,4.0,3,Zucchini yellow mosaic virus,chrf_rna_0032_s32.csv,12195,4.9,0.0,False,True,False,False
+262,0.04139268515822508,0.0,1,4.0,4,Cucurbit aphid-borne yellows virus,chrf_rna_0032_s32.csv,119164,2.0,0.0,False,True,False,False
+263,0.0,0.6434526764861874,1,4.0,5,Betapapillomavirus 2,chrf_rna_0032_s32.csv,333922,0.0,5.4,False,True,False,False
+264,0.0,0.0,1,4.0,6,Human parvovirus 5,chrf_rna_0032_s32.csv,-200010780,0.0,5.7,False,True,False,False
+265,0.0,0.3979400086720376,1,4.0,7,Human alphaherpesvirus 1,chrf_rna_0032_s32.csv,10294,0.0,3.9,False,True,False,False
+266,0.0,0.0,1,4.0,8,Cardiovirus B,chrf_rna_0032_s32.csv,12103,0.0,4.1,False,True,False,False
+267,0.0,0.0,1,4.0,9,Human mastadenovirus B,chrf_rna_0032_s32.csv,10509,0.0,0.9,False,True,False,False
+268,0.0,0.0,1,4.0,10,Enterovirus B,chrf_rna_0032_s32.csv,12059,0.0,3.0,True,True,False,False
+269,0.11394335230683679,0.04139268515822508,1,4.0,0,Roseburia intestinalis,chrf_rna_0042_s42.csv,841,0.3,0.4,False,False,True,False
+270,0.0,0.17609125905568124,1,4.0,1,Bovine associated gemykrogvirus 1,chrf_rna_0042_s42.csv,1985367,0.0,5.7,False,True,False,False
+271,2.4353665066126613,2.3370597263205246,1,4.0,0,Corynebacterium urealyticum,chrf_rna_0043_s43.csv,1716,5.8,0.5,False,False,True,False
+272,1.717670503002262,1.0718820073061255,1,4.0,1,Lactobacillus salivarius,chrf_rna_0043_s43.csv,1578,5.8,0.8,False,False,True,False
+273,1.021189299069938,0.25527250510330607,1,4.0,2,Calothrix sp. NIES-2098,chrf_rna_0043_s43.csv,1186,5.7,0.3,False,False,True,False
+274,0.8573324964312685,0.3222192947339193,1,4.0,3,Scytonema sp. NIES-4073,chrf_rna_0043_s43.csv,1203,5.8,0.6,False,False,True,False
+275,0.785329835010767,1.481442628502305,1,4.0,4,Tessaracoccus flavus,chrf_rna_0043_s43.csv,72763,2.7,0.9,False,False,True,False
+276,0.6812412373755872,0.724275869600789,1,4.0,5,Flavobacterium johnsoniae,chrf_rna_0043_s43.csv,237,4.8,1.2,False,False,True,False
+277,0.38021124171160603,0.3222192947339193,1,4.0,6,Leptolyngbya boryana,chrf_rna_0043_s43.csv,47251,5.7,1.0,False,False,True,False
+278,0.36172783601759284,0.11394335230683679,1,4.0,7,Cyanothece sp. PCC 7822,chrf_rna_0043_s43.csv,43988,5.8,1.0,False,False,True,False
+279,0.3010299956639812,0.3222192947339193,1,4.0,8,Clostridium botulinum,chrf_rna_0043_s43.csv,1485,0.5,0.6,False,False,True,False
+280,0.25527250510330607,0.47712125471966244,1,4.0,9,Nitrosomonas eutropha,chrf_rna_0043_s43.csv,914,1.0,0.6,False,False,True,False
+281,0.17609125905568124,0.04139268515822508,1,4.0,10,Buchnera aphidicola,chrf_rna_0043_s43.csv,32199,0.4,1.1,False,False,True,False
+282,0.146128035678238,0.2041199826559248,1,4.0,11,Fictibacillus arsenicus,chrf_rna_0043_s43.csv,1329200,5.3,4.3,False,False,True,False
+283,0.11394335230683679,0.0,1,4.0,12,Saccharomyces cerevisiae virus L-A,chrf_rna_0043_s43.csv,11007,0.7,0.0,False,True,False,False
+284,0.07918124604762482,0.146128035678238,1,4.0,13,Gloeobacter violaceus,chrf_rna_0043_s43.csv,33071,5.3,0.5,False,False,True,False
+285,0.07918124604762482,0.3222192947339193,1,4.0,14,Rickettsia felis,chrf_rna_0043_s43.csv,780,4.0,5.2,False,False,True,False
+286,0.04139268515822508,0.2304489213782739,1,4.0,15,Roseiflexus sp. RS-1,chrf_rna_0043_s43.csv,120961,0.8,0.3,False,False,True,False
+287,0.04139268515822508,0.25527250510330607,1,4.0,16,Halomicronema hongdechloris,chrf_rna_0043_s43.csv,170610,4.1,3.5,False,False,True,False
+288,0.04139268515822508,0.0,1,4.0,17,Clover yellow mosaic virus,chrf_rna_0043_s43.csv,12176,1.5,0.0,False,True,False,False
+289,0.0,0.0,1,4.0,18,Enterovirus B,chrf_rna_0043_s43.csv,12059,0.0,3.8,True,True,False,False
+290,0.0,0.0,1,4.0,19,Human polyomavirus 4,chrf_rna_0043_s43.csv,1891714,0.0,1.3,False,True,False,False
+291,0.0,0.0,1,4.0,20,Mupapillomavirus 2,chrf_rna_0043_s43.csv,334202,0.0,2.7,False,True,False,False
+292,0.07918124604762482,0.07918124604762482,1,4.0,0,Campylobacter hominis,chrf_rna_0044_s44.csv,194,4.5,0.5,False,False,True,False
+293,0.07918124604762482,0.7323937598229685,1,4.0,1,Human herpesvirus 6,chrf_rna_0044_s44.csv,40272,5.8,4.4,False,True,False,False
+294,0.0,0.11394335230683679,1,4.0,2,Molluscum contagiosum virus,chrf_rna_0044_s44.csv,10278,0.0,5.7,False,True,False,False
+295,0.0,0.0,1,4.0,3,Beet curly top virus,chrf_rna_0044_s44.csv,10813,0.0,5.7,False,True,False,False
+296,1.9206450014067875,2.773347541980823,1,4.0,0,Kocuria palustris,chrf_rna_0053_s53.csv,57493,5.7,1.5,False,False,True,False
+297,1.6031443726201824,1.5224442335063197,1,4.0,1,Enterococcus faecium,chrf_rna_0053_s53.csv,1350,0.8,2.7,False,False,True,False
+298,1.1172712956557642,2.455910240382743,1,4.0,2,Streptococcus pneumoniae,chrf_rna_0053_s53.csv,1301,0.9,5.1,True,False,False,False
+299,0.8512583487190752,1.3404441148401183,1,4.0,3,Lactobacillus crispatus,chrf_rna_0053_s53.csv,1578,0.5,0.8,False,False,True,False
+300,0.785329835010767,2.245759355967277,1,4.0,4,Lysobacter enzymogenes,chrf_rna_0053_s53.csv,68,4.1,2.3,False,False,True,False
+301,0.7403626894942439,2.119915410257991,1,4.0,5,Xanthomonas translucens,chrf_rna_0053_s53.csv,338,1.7,3.3,False,False,True,False
+302,0.6627578316815741,2.2068258760318495,1,4.0,6,Altererythrobacter dongtanensis,chrf_rna_0053_s53.csv,361177,1.1,2.7,False,False,True,False
+303,0.6127838567197355,0.8633228601204559,1,4.0,7,Leuconostoc lactis,chrf_rna_0053_s53.csv,1243,2.2,2.9,False,False,True,False
+304,0.5440680443502757,2.4940153747571436,1,4.0,8,Streptomyces albulus,chrf_rna_0053_s53.csv,1883,1.1,4.0,False,False,True,False
+305,0.4623979978989561,2.180125875164054,1,4.0,9,Bacillus cereus,chrf_rna_0053_s53.csv,1386,2.1,1.4,True,False,False,False
+306,0.43136376415898736,2.2345172835126865,1,4.0,10,Sphingopyxis macrogoltabida,chrf_rna_0053_s53.csv,165697,1.5,3.6,False,False,True,False
+307,0.3979400086720376,1.6541765418779606,1,4.0,11,Friedmanniella luteola,chrf_rna_0053_s53.csv,53387,0.6,2.2,False,False,True,False
+308,0.38021124171160603,1.6560982020128319,1,4.0,12,Caulobacter segnis,chrf_rna_0053_s53.csv,75,2.0,3.4,False,False,True,False
+309,0.36172783601759284,1.8027737252919758,1,4.0,13,Porphyrobacter sp. CACIAM 03H1,chrf_rna_0053_s53.csv,1111,2.5,2.4,False,False,True,False
+310,0.3424226808222063,1.0043213737826426,1,4.0,14,Starkeya novella,chrf_rna_0053_s53.csv,152053,0.4,2.3,False,False,True,False
+311,0.2787536009528289,0.9344984512435677,1,4.0,15,Chroococcidiopsis thermalis,chrf_rna_0053_s53.csv,54298,0.4,0.6,False,False,True,False
+312,0.25527250510330607,1.276461804173244,1,4.0,16,Myxococcus fulvus,chrf_rna_0053_s53.csv,32,0.9,0.4,False,False,True,False
+313,0.25527250510330607,0.0,1,4.0,17,Human mastadenovirus C,chrf_rna_0053_s53.csv,10509,0.9,0.0,False,True,False,False
+314,0.25527250510330607,1.0253058652647702,1,4.0,18,Bdellovibrio bacteriovorus,chrf_rna_0053_s53.csv,958,0.3,3.1,False,False,True,False
+315,0.25527250510330607,0.6334684555795865,1,4.0,19,Lacunisphaera limnophila,chrf_rna_0053_s53.csv,1961799,2.9,1.8,False,False,True,False
+316,0.2304489213782739,2.2345172835126865,1,4.0,20,Cupriavidus gilardii,chrf_rna_0053_s53.csv,106589,0.3,2.7,False,False,True,False
+317,0.2041199826559248,1.24551266781415,1,4.0,21,Dokdonella koreensis,chrf_rna_0053_s53.csv,323413,0.8,3.2,False,False,True,False
+318,0.17609125905568124,1.69810054562339,1,4.0,22,Amycolatopsis methanolica,chrf_rna_0053_s53.csv,1813,0.3,1.9,False,False,True,False
+319,0.17609125905568124,1.359835482339888,1,4.0,23,Alcanivorax sp. N3-7A,chrf_rna_0053_s53.csv,59753,1.8,1.9,False,False,True,False
+320,0.146128035678238,0.4471580313422192,1,4.0,24,Listeria monocytogenes,chrf_rna_0053_s53.csv,1637,1.0,0.9,False,False,True,False
+321,0.9493900066449128,1.7315887651867388,1,4.0,0,Lactobacillus amylovorus,chrf_rna_0054_s54.csv,1578,0.8,5.3,False,False,True,False
+322,0.6532125137753437,2.1861083798132053,1,4.0,1,Bradyrhizobium sp. CCGE-LA001,chrf_rna_0054_s54.csv,374,1.9,0.9,False,False,True,False
+323,0.5910646070264992,1.5740312677277188,1,4.0,2,Phenylobacterium zucineum,chrf_rna_0054_s54.csv,20,0.5,2.1,False,False,True,False
+324,0.568201724066995,2.6217992240026677,1,4.0,3,Streptomyces venezuelae,chrf_rna_0054_s54.csv,1883,0.9,3.9,False,False,True,False
+325,0.5314789170422551,1.8762178405916423,1,4.0,4,Gardnerella vaginalis,chrf_rna_0054_s54.csv,2701,0.6,4.7,False,False,True,False
+326,0.505149978319906,0.9590413923210935,1,4.0,5,Rhodoplanes sp. Z2-YC6860,chrf_rna_0054_s54.csv,29407,4.4,2.2,False,False,True,False
+327,0.17609125905568124,1.5693739096150459,1,4.0,6,Bacteroides dorei,chrf_rna_0054_s54.csv,816,2.3,5.9,False,False,True,False
+328,0.07918124604762482,0.4471580313422192,1,4.0,7,Acetobacter pasteurianus,chrf_rna_0054_s54.csv,434,2.9,1.9,False,False,True,False
+329,0.07918124604762482,0.17609125905568124,1,4.0,8,Ethanoligenens harbinense,chrf_rna_0054_s54.csv,253238,0.3,3.7,False,False,True,False
+330,0.04139268515822508,0.146128035678238,1,4.0,9,Desulfococcus multivorans,chrf_rna_0054_s54.csv,896,0.3,1.0,False,False,True,False
+331,0.0,0.0,1,4.0,10,Comamonadaceae bacterium A1,chrf_rna_0054_s54.csv,-200080864,0.6,0.5,False,False,True,False
+332,0.0,0.146128035678238,1,4.0,11,Human betaherpesvirus 5,chrf_rna_0054_s54.csv,10358,0.0,4.2,False,True,False,False
+333,0.0,0.146128035678238,1,4.0,12,Betapapillomavirus 1,chrf_rna_0054_s54.csv,333922,0.0,0.7,False,True,False,False
+334,0.0,0.04139268515822508,1,4.0,13,Caribou associated gemykrogvirus 1,chrf_rna_0054_s54.csv,1985367,0.0,4.3,False,True,False,False
+335,0.0,0.04139268515822508,1,4.0,14,Gammapapillomavirus 1,chrf_rna_0054_s54.csv,325455,0.0,2.9,False,True,False,False
+336,1.2966651902615312,2.386498965550653,1,4.0,0,Paracoccus yeei,chrf_rna_0056_s56.csv,265,1.5,0.4,False,False,True,False
+337,1.146128035678238,2.6808791744268112,1,4.0,1,Kocuria palustris,chrf_rna_0056_s56.csv,57493,0.3,3.3,False,False,True,False
+338,1.0128372247051722,1.6910814921229684,1,4.0,2,Rhodococcus sp. B7740,chrf_rna_0056_s56.csv,1827,2.4,0.7,False,False,True,False
+339,0.7708520116421442,1.3404441148401183,1,4.0,3,Lactobacillus crispatus,chrf_rna_0056_s56.csv,1578,0.6,1.8,False,False,True,False
+340,0.7481880270062004,2.1290450598879582,1,4.0,4,Brachybacterium faecium,chrf_rna_0056_s56.csv,43668,0.4,1.2,False,False,True,False
+341,0.6334684555795865,2.0867156639448825,1,4.0,5,Bifidobacterium longum,chrf_rna_0056_s56.csv,1678,5.3,3.7,False,False,True,False
+342,0.5314789170422551,1.9576072870600953,1,4.0,6,Janibacter indicus,chrf_rna_0056_s56.csv,53457,0.3,0.9,False,False,True,False
+343,0.47712125471966244,0.8750612633917001,1,4.0,7,Bacteroides fragilis,chrf_rna_0056_s56.csv,816,0.4,0.3,False,False,True,False
+344,0.4471580313422192,1.2600713879850747,1,4.0,8,Chryseobacterium indologenes,chrf_rna_0056_s56.csv,59732,2.2,0.7,False,False,True,False
+345,0.38021124171160603,1.5622928644564746,1,4.0,9,Tessaracoccus flavescens,chrf_rna_0056_s56.csv,72763,2.3,0.6,False,False,True,False
+346,0.36172783601759284,1.2068258760318498,1,4.0,10,Defluviimonas alba,chrf_rna_0056_s56.csv,1097466,0.9,0.5,False,False,True,False
+347,0.3222192947339193,0.7323937598229685,1,4.0,11,Leuconostoc mesenteroides,chrf_rna_0056_s56.csv,1243,0.9,1.8,False,False,True,False
+348,0.3222192947339193,1.4742162640762553,1,4.0,12,Saccharopolyspora erythraea,chrf_rna_0056_s56.csv,1835,0.4,2.3,False,False,True,False
+349,0.17609125905568124,0.6627578316815741,1,4.0,13,Pelagibaca abyssi,chrf_rna_0056_s56.csv,360528,2.6,0.3,False,False,True,False
+350,0.146128035678238,0.6720978579357175,1,4.0,14,Weissella cibaria,chrf_rna_0056_s56.csv,46255,3.2,0.6,False,False,True,False
+351,0.11394335230683679,0.6232492903979004,1,4.0,15,Ketogulonicigenium vulgare,chrf_rna_0056_s56.csv,92944,0.9,0.6,False,False,True,False
+352,0.11394335230683679,0.7075701760979364,1,4.0,16,Martelella sp. AD-3,chrf_rna_0056_s56.csv,293088,0.8,0.3,False,False,True,False
+353,0.07918124604762482,0.0,1,4.0,17,Caribou associated gemykrogvirus 1,chrf_rna_0056_s56.csv,1985367,5.8,0.0,False,True,False,False
+354,0.07918124604762482,0.0,1,4.0,18,Rotavirus A,chrf_rna_0056_s56.csv,10912,4.6,0.0,False,True,False,False
+355,0.04139268515822508,0.0,1,4.0,19,Alfalfa mosaic virus,chrf_rna_0056_s56.csv,12320,2.8,0.0,False,True,False,False
+356,0.0,0.04139268515822508,1,4.0,20,Human polyomavirus 4,chrf_rna_0056_s56.csv,1891714,0.0,3.0,False,True,False,False
+357,0.0,0.07918124604762482,1,4.0,21,Human betaherpesvirus 5,chrf_rna_0056_s56.csv,10358,0.0,0.6,False,True,False,False
+358,0.0,0.04139268515822508,1,4.0,22,Betapapillomavirus 4,chrf_rna_0056_s56.csv,333922,0.0,0.8,False,True,False,False
+359,0.0,0.0,1,4.0,23,Human immunodeficiency virus 1,chrf_rna_0056_s56.csv,11646,0.0,0.8,False,True,False,False
+360,0.0,0.0,1,4.0,24,Wheat dwarf virus,chrf_rna_0056_s56.csv,10812,0.0,5.7,False,True,False,False
+361,2.932169245920792,4.778230140048929,1,4.0,0,Acinetobacter junii,chrf_rna_0065_s65.csv,469,5.8,5.8,True,False,False,False
+362,2.525304009958239,3.969686097390427,1,4.0,1,Rheinheimera sp. F8,chrf_rna_0065_s65.csv,67575,5.8,5.8,False,False,True,False
+363,2.295786940251609,4.313964187922536,1,4.0,2,Pseudomonas mendocina,chrf_rna_0065_s65.csv,286,5.8,5.7,False,False,True,False
+364,2.083860800866573,4.346440998194865,1,4.0,3,Comamonas aquatica,chrf_rna_0065_s65.csv,283,5.8,5.8,False,False,True,False
+365,1.6541765418779606,3.4496018045961385,1,4.0,4,Shewanella putrefaciens,chrf_rna_0065_s65.csv,22,5.8,6.0,False,False,True,False
+366,1.5599066250361124,3.2947306904843314,1,4.0,5,Vibrio cholerae,chrf_rna_0065_s65.csv,662,5.8,5.8,False,False,True,False
+367,1.5145477526602862,3.0600553648248447,1,4.0,6,Pseudoalteromonas rubra,chrf_rna_0065_s65.csv,53246,5.8,5.8,False,False,True,False
+368,1.2068258760318498,2.4734869700645685,1,4.0,7,Cellvibrio sp. PSBB006,chrf_rna_0065_s65.csv,10,5.8,5.6,False,False,True,False
+369,1.0492180226701815,2.471438407389299,1,4.0,8,Salmonella enterica,chrf_rna_0065_s65.csv,590,0.5,0.6,True,False,False,False
+370,1.0253058652647702,2.5428254269591797,1,4.0,9,Aeromonas hydrophila,chrf_rna_0065_s65.csv,642,1.7,1.1,False,False,True,False
+371,0.9493900066449128,2.759969857554307,1,4.0,10,Alteromonas macleodii,chrf_rna_0065_s65.csv,226,5.8,5.6,False,False,True,False
+372,0.9395192526186185,2.5298151966446305,1,4.0,11,Lacimicrobium alkaliphilum,chrf_rna_0065_s65.csv,1751872,5.8,5.7,False,False,True,False
+373,0.8864907251724818,2.291368850451583,1,4.0,12,Klebsiella pneumoniae,chrf_rna_0065_s65.csv,570,2.9,2.7,True,False,False,False
+374,0.8573324964312685,2.4138025167693513,1,4.0,13,Enterobacter cloacae,chrf_rna_0065_s65.csv,547,0.7,5.2,False,False,True,False
+375,0.7403626894942439,2.439332693830263,1,4.0,14,Colwellia sp. MT41,chrf_rna_0065_s65.csv,28228,5.8,6.9,False,False,True,False
+376,0.7323937598229685,2.3434085938038574,1,4.0,15,Idiomarina loihiensis,chrf_rna_0065_s65.csv,135575,5.8,5.8,False,False,True,False
+377,0.7160033436347992,2.219846386024361,1,4.0,16,Oceanisphaera profunda,chrf_rna_0065_s65.csv,225143,5.8,5.8,False,False,True,False
+378,0.6989700043360189,2.133858125203335,1,4.0,17,Photobacterium damselae,chrf_rna_0065_s65.csv,657,5.5,6.0,False,False,True,False
+379,0.6901960800285137,2.270911639410481,1,4.0,18,Citrobacter freundii,chrf_rna_0065_s65.csv,544,2.2,5.8,False,False,True,False
+380,0.6901960800285137,2.4350476413399647,1,4.0,19,Serratia marcescens,chrf_rna_0065_s65.csv,613,1.9,1.0,False,False,True,False
+381,0.6627578316815741,2.3769417571467586,1,4.0,20,Pantoea agglomerans,chrf_rna_0065_s65.csv,53335,2.5,2.9,False,False,True,False
+382,0.6532125137753437,2.609914410085998,1,4.0,21,Acidovorax sp. KKS102,chrf_rna_0065_s65.csv,12916,0.4,1.4,False,False,True,False
+383,0.6532125137753437,1.9405164849325673,1,4.0,22,Oceanimonas sp. GK1,chrf_rna_0065_s65.csv,129577,5.8,5.6,False,False,True,False
+384,0.6532125137753437,2.395675785269936,1,4.0,23,Yersinia enterocolitica,chrf_rna_0065_s65.csv,629,4.6,6.5,False,False,True,False
+385,0.6020599913279624,2.0350292822023683,1,4.0,24,Ferrimonas balearica,chrf_rna_0065_s65.csv,44011,5.8,5.8,False,False,True,False
+386,1.2329961103921538,1.5477747053878226,1,4.0,0,Lactobacillus plantarum,chrf_rna_0066_s66.csv,1578,5.8,1.5,False,False,True,False
+387,0.8864907251724818,0.7781512503836436,1,4.0,1,Psychrobacter sp. G,chrf_rna_0066_s66.csv,497,4.0,0.5,False,False,True,False
+388,0.47712125471966244,0.505149978319906,1,4.0,2,Paludisphaera borealis,chrf_rna_0066_s66.csv,1763521,5.1,0.5,False,False,True,False
+389,0.38021124171160603,0.6434526764861874,1,4.0,3,Planctomyces sp. SH-PL62,chrf_rna_0066_s66.csv,118,2.3,0.4,False,False,True,False
+390,0.2787536009528289,0.07918124604762482,1,4.0,4,Human mastadenovirus C,chrf_rna_0066_s66.csv,10509,1.1,5.6,False,True,False,False
+391,0.2041199826559248,0.7708520116421442,1,4.0,5,Roseburia intestinalis,chrf_rna_0066_s66.csv,841,0.9,3.6,False,False,True,False
+392,0.146128035678238,0.8750612633917001,1,4.0,6,Geitlerinema sp. PCC 7407,chrf_rna_0066_s66.csv,63132,0.7,0.6,False,False,True,False
+393,0.04139268515822508,0.0,1,4.0,7,Rotavirus A,chrf_rna_0066_s66.csv,10912,1.4,0.0,False,True,False,False
+394,0.0,0.0,1,4.0,8,Torque teno virus,chrf_rna_0066_s66.csv,-200687329,5.8,3.0,False,True,False,False
+395,0.0,0.0,1,4.0,9,Foot-and-mouth disease virus,chrf_rna_0066_s66.csv,12109,0.0,5.1,False,True,False,False
+396,0.0,0.0,1,4.0,10,Hyphantria cunea nucleopolyhedrovirus,chrf_rna_0066_s66.csv,558016,0.0,2.8,False,True,False,False
+397,1.60422605308447,2.298853076409707,1,4.0,0,Pseudomonas alcaligenes,chrf_rna_0067_s67.csv,286,1.5,0.8,False,False,True,False
+398,1.0374264979406236,1.9253120914996495,1,4.0,1,Microbacterium aurum,chrf_rna_0067_s67.csv,33882,1.3,0.3,False,False,True,False
+399,0.7481880270062004,1.0413926851582251,1,4.0,2,Azotobacter vinelandii,chrf_rna_0067_s67.csv,352,5.2,2.7,False,False,True,False
+400,0.47712125471966244,0.146128035678238,1,4.0,3,Clostridium tetani,chrf_rna_0067_s67.csv,1485,2.1,0.4,False,False,True,False
+401,0.0,0.8061799739838872,1,4.0,4,Alphapapillomavirus 4,chrf_rna_0067_s67.csv,333750,0.0,5.7,False,True,False,False
+402,0.0,0.36172783601759284,1,4.0,5,Betapapillomavirus 1,chrf_rna_0067_s67.csv,333922,0.0,4.3,False,True,False,False
+403,0.0,0.0,1,4.0,6,Human papillomavirus,chrf_rna_0067_s67.csv,-200151340,0.0,4.0,False,True,False,False
+404,0.0,0.07918124604762482,1,4.0,7,Human mastadenovirus F,chrf_rna_0067_s67.csv,10509,0.0,2.1,False,True,False,False
+405,0.0,0.11394335230683679,1,4.0,8,Human betaherpesvirus 6B,chrf_rna_0067_s67.csv,40272,0.0,0.9,False,True,False,False
+406,0.0,0.3979400086720376,1,4.0,9,Human alphaherpesvirus 1,chrf_rna_0067_s67.csv,10294,0.0,3.4,False,True,False,False
+407,0.0,0.0,1,4.0,10,Enterovirus B,chrf_rna_0067_s67.csv,12059,0.0,2.6,True,True,False,False
+408,0.0,0.0,1,4.0,11,LNras*SN acutely transforming retrovirus,chrf_rna_0067_s67.csv,-200011632,0.0,5.7,False,True,False,False
+409,0.0,0.07918124604762482,1,4.0,12,Macaca mulatta polyomavirus 1,chrf_rna_0067_s67.csv,1891714,0.0,5.7,False,True,False,False
+410,0.0,0.0,1,4.0,13,Spodoptera litura nucleopolyhedrovirus,chrf_rna_0067_s67.csv,558016,0.0,0.9,False,True,False,False
+411,0.0,0.0,1,4.0,14,Human papillomavirus KC5,chrf_rna_0067_s67.csv,325455,0.0,5.7,False,True,False,False
+412,1.1139433523068367,1.173186268412274,1,4.0,0,Lactobacillus rhamnosus,chrf_rna_0068_s68.csv,1578,5.6,1.3,False,False,True,False
+413,0.7160033436347992,1.9350031514536548,1,4.0,1,Klebsiella pneumoniae,chrf_rna_0068_s68.csv,570,0.7,2.1,True,False,False,False
+414,0.6020599913279624,1.9960736544852753,1,4.0,2,Bifidobacterium breve,chrf_rna_0068_s68.csv,1678,5.8,4.8,False,False,True,False
+415,0.4623979978989561,2.709863317440399,1,4.0,3,Burkholderia cepacia,chrf_rna_0068_s68.csv,32008,4.6,5.7,False,False,True,False
+416,0.3979400086720376,0.0,1,4.0,4,Human mastadenovirus C,chrf_rna_0068_s68.csv,10509,2.2,0.0,False,True,False,False
+417,0.146128035678238,1.651278013998144,1,4.0,5,Cupriavidus necator,chrf_rna_0068_s68.csv,106589,0.6,1.0,False,False,True,False
+418,0.07918124604762482,0.0,1,4.0,6,Bell pepper alphaendornavirus,chrf_rna_0068_s68.csv,2003394,5.6,0.0,False,True,False,False
+419,0.04139268515822508,0.9493900066449128,1,4.0,7,Tannerella forsythia,chrf_rna_0068_s68.csv,195950,0.8,2.9,False,False,True,False
+420,0.0,0.04139268515822508,1,4.0,8,Gammapapillomavirus 23,chrf_rna_0068_s68.csv,325455,0.0,5.7,False,True,False,False
+421,1.7626785637274363,2.1464381352857744,1,4.0,0,Corynebacterium maris,chrf_rna_0077_s77.csv,1716,1.2,0.3,False,False,True,False
+422,0.8061799739838872,1.7489628612561614,1,4.0,1,Haemophilus influenzae,chrf_rna_0077_s77.csv,724,0.3,1.0,True,False,False,False
+423,0.4471580313422192,1.2013971243204515,1,4.0,2,Bifidobacterium pseudocatenulatum,chrf_rna_0077_s77.csv,1678,5.6,3.3,False,False,True,False
+424,0.25527250510330607,0.07918124604762482,1,4.0,3,Human mastadenovirus C,chrf_rna_0077_s77.csv,10509,0.9,2.3,False,True,False,False
+425,0.04139268515822508,0.0,1,4.0,4,Sclerotinia sclerotiorum hypovirus 2,chrf_rna_0077_s77.csv,39749,5.8,0.0,False,True,False,False
+426,0.0,0.04139268515822508,1,4.0,5,Betapapillomavirus 4,chrf_rna_0077_s77.csv,333922,0.0,1.1,False,True,False,False
+427,0.0,0.04139268515822508,1,4.0,6,Woodchuck hepatitis virus,chrf_rna_0077_s77.csv,10405,0.0,5.7,False,True,False,False
+428,0.7403626894942439,1.7466341989375787,1,4.0,0,Enterobacter cloacae,chrf_rna_0078_s78.csv,547,0.8,0.4,False,False,True,False
+429,0.3010299956639812,0.0,1,4.0,1,Human mastadenovirus C,chrf_rna_0078_s78.csv,10509,0.8,0.0,False,True,False,False
+430,0.11394335230683679,0.8633228601204559,1,4.0,2,Olsenella umbonata,chrf_rna_0078_s78.csv,133925,1.2,5.5,False,False,True,False
+431,0.04139268515822508,0.04139268515822508,1,4.0,3,Williamsia muralis,chrf_rna_0078_s78.csv,85043,2.1,0.3,False,False,True,False
+432,0.0,0.11394335230683679,1,4.0,4,Human betaherpesvirus 5,chrf_rna_0078_s78.csv,10358,0.0,3.1,False,True,False,False
+433,0.0,0.04139268515822508,1,4.0,5,Human immunodeficiency virus 1,chrf_rna_0078_s78.csv,11646,0.0,5.6,False,True,False,False
+434,0.0,0.0,1,4.0,6,Gammapapillomavirus 1,chrf_rna_0078_s78.csv,325455,0.0,2.7,False,True,False,False
+435,0.3979400086720376,1.7092699609758308,1,4.0,0,Psychrobacter sp. DAB_AL43B,chrf_rna_0079_s79.csv,497,0.9,5.2,False,False,True,False
+436,0.2041199826559248,1.7201593034059568,1,4.0,1,Ochrobactrum anthropi,chrf_rna_0079_s79.csv,528,0.3,2.3,False,False,True,False
+437,0.11394335230683679,0.8573324964312685,1,4.0,2,Cronobacter malonaticus,chrf_rna_0079_s79.csv,413496,1.4,2.0,False,False,True,False
+438,0.0,0.146128035678238,1,4.0,3,Cercopithecine betaherpesvirus 5,chrf_rna_0079_s79.csv,10358,0.0,3.3,False,True,False,False
+439,0.0,0.0,1,4.0,4,Cardiovirus B,chrf_rna_0079_s79.csv,12103,0.0,3.7,False,True,False,False
+440,0.0,0.04139268515822508,1,4.0,5,Human polyomavirus 4,chrf_rna_0079_s79.csv,1891714,0.0,0.8,False,True,False,False
+441,0.0,0.146128035678238,1,4.0,0,Human gammaherpesvirus 4,chrf_rna_0080_s80.csv,10375,0.0,5.7,False,True,False,False
+442,0.0,0.0,1,4.0,1,Cercopithecine betaherpesvirus 5,chrf_rna_0080_s80.csv,10358,0.0,1.5,False,True,False,False
+443,0.0,0.0,1,4.0,2,Torque teno virus,chrf_rna_0080_s80.csv,-200687329,0.0,0.4,False,True,False,False
+444,0.0,0.0,1,4.0,3,Human polyomavirus 4,chrf_rna_0080_s80.csv,1891714,0.0,0.9,False,True,False,False
+445,1.951823035315912,3.5983198573043524,1,4.0,0,Mycobacterium sp. YC-RL4,chrf_rna_0089_s89.csv,1763,5.8,0.3,True,False,False,False
+446,1.806179973983887,2.151676230847048,1,4.0,1,Ralstonia pickettii,chrf_rna_0089_s89.csv,48736,5.0,0.3,False,False,True,False
+447,1.3729120029701065,2.6098077693287025,1,4.0,2,Corynebacterium maris,chrf_rna_0089_s89.csv,1716,3.7,4.7,False,False,True,False
+448,1.3096301674258988,0.6812412373755872,1,4.0,3,Dechloromonas aromatica,chrf_rna_0089_s89.csv,73029,5.8,0.3,False,False,True,False
+449,1.1335389083702174,1.7474118078864234,1,4.0,4,Cupriavidus gilardii,chrf_rna_0089_s89.csv,106589,4.1,0.3,False,False,True,False
+450,0.2041199826559248,1.88309335857569,1,4.0,5,Nocardia brasiliensis,chrf_rna_0089_s89.csv,1817,1.5,0.3,False,False,True,False
+451,0.0,0.0,1,4.0,6,Torque teno virus,chrf_rna_0089_s89.csv,-200687329,0.0,3.8,False,True,False,False
+452,0.0,0.0,1,4.0,7,Human papillomavirus type 179,chrf_rna_0089_s89.csv,-200151340,0.0,3.0,False,True,False,False
+453,0.0,0.04139268515822508,1,4.0,8,Caribou associated gemykrogvirus 1,chrf_rna_0089_s89.csv,1985367,0.0,3.6,False,True,False,False
+454,0.568201724066995,1.8555191556678001,1,4.0,0,Janibacter indicus,chrf_rna_0090_s90.csv,53457,0.4,0.5,False,False,True,False
+455,0.4471580313422192,2.4730488050885375,1,4.0,1,Aeromonas hydrophila,chrf_rna_0090_s90.csv,642,0.6,2.3,False,False,True,False
+456,0.2787536009528289,1.2148438480476977,1,4.0,2,Stanieria sp. NIES-3757,chrf_rna_0090_s90.csv,102115,3.7,5.7,False,False,True,False
+457,0.2304489213782739,0.04139268515822508,1,4.0,3,Acholeplasma laidlawii,chrf_rna_0090_s90.csv,2147,0.7,0.4,False,False,True,False
+458,0.11394335230683679,0.2041199826559248,1,4.0,4,Clostridium sp. SY8519,chrf_rna_0090_s90.csv,1485,0.8,0.3,False,False,True,False
+459,0.0,0.0,1,4.0,5,Foot-and-mouth disease virus,chrf_rna_0090_s90.csv,12109,0.0,2.4,False,True,False,False
+460,2.0322157032979815,1.586587304671755,1,4.0,0,Pseudonocardia sp. AL041005-10,chrf_rna_0091_s91.csv,1847,4.2,0.4,False,False,True,False
+461,1.390935107103379,1.3873898263387294,1,4.0,1,Lactobacillus gasseri,chrf_rna_0091_s91.csv,1578,1.6,1.0,False,False,True,False
+462,1.0934216851622351,1.3856062735983121,1,4.0,2,Saccharopolyspora erythraea,chrf_rna_0091_s91.csv,1835,2.8,1.7,False,False,True,False
+463,1.021189299069938,2.376576957056512,1,4.0,3,Salmonella enterica,chrf_rna_0091_s91.csv,590,0.4,0.5,True,False,False,False
+464,0.9731278535996987,2.0429690733931802,1,4.0,4,Streptomyces pactum,chrf_rna_0091_s91.csv,1883,2.2,0.8,False,False,True,False
+465,0.8260748027008264,1.6646419755561255,1,4.0,5,Sphingobium sp. RAC03,chrf_rna_0091_s91.csv,165695,2.9,0.8,False,False,True,False
+466,0.7323937598229685,2.568788212315347,1,4.0,6,Kocuria palustris,chrf_rna_0091_s91.csv,57493,0.4,1.6,False,False,True,False
+467,0.505149978319906,2.558468562523795,1,4.0,7,Serratia marcescens,chrf_rna_0091_s91.csv,613,2.9,5.5,False,False,True,False
+468,0.3979400086720376,1.08278537031645,1,4.0,8,Fusobacterium nucleatum,chrf_rna_0091_s91.csv,848,0.4,4.2,False,False,True,False
+469,0.3222192947339193,0.2304489213782739,1,4.0,9,Peptoniphilus sp. ING2-D1G,chrf_rna_0091_s91.csv,162289,1.1,3.4,False,False,True,False
+470,0.3222192947339193,1.8221680793680175,1,4.0,10,Enterococcus faecium,chrf_rna_0091_s91.csv,1350,0.5,4.4,False,False,True,False
+471,0.2787536009528289,2.0346284566253203,1,4.0,11,Burkholderia cepacia,chrf_rna_0091_s91.csv,32008,0.5,0.5,False,False,True,False
+472,0.25527250510330607,1.3692158574101427,1,4.0,12,Neomicrococcus aestuarii,chrf_rna_0091_s91.csv,1868332,1.5,4.4,False,False,True,False
+473,0.2041199826559248,0.25527250510330607,1,4.0,13,Acholeplasma brassicae,chrf_rna_0091_s91.csv,2147,0.7,6.4,False,False,True,False
+474,0.17609125905568124,1.9986951583116557,1,4.0,14,Aeromonas hydrophila,chrf_rna_0091_s91.csv,642,0.7,0.5,False,False,True,False
+475,0.17609125905568124,0.6127838567197355,1,4.0,15,Clostridium botulinum,chrf_rna_0091_s91.csv,1485,0.8,1.3,False,False,True,False
+476,0.146128035678238,1.6180480967120927,1,4.0,16,Citrobacter koseri,chrf_rna_0091_s91.csv,544,0.8,4.3,False,False,True,False
+477,0.11394335230683679,1.1903316981702914,1,4.0,17,Capnocytophaga sp. ChDC OS43,chrf_rna_0091_s91.csv,1016,1.6,1.1,False,False,True,False
+478,0.07918124604762482,0.0,1,4.0,18,Murine leukemia virus,chrf_rna_0091_s91.csv,153135,0.8,0.0,False,True,False,False
+479,0.07918124604762482,1.6444385894678386,1,4.0,19,Methylovorus glucosotrophus,chrf_rna_0091_s91.csv,81682,1.8,5.8,False,False,True,False
+480,0.07918124604762482,0.2304489213782739,1,4.0,20,Labrenzia sp. CP4,chrf_rna_0091_s91.csv,478070,1.7,0.4,False,False,True,False
+481,0.07918124604762482,0.6532125137753437,1,4.0,21,Nitrosomonas sp. AL212,chrf_rna_0091_s91.csv,914,1.3,2.6,False,False,True,False
+482,0.04139268515822508,0.3222192947339193,1,4.0,22,Kushneria marisflavi,chrf_rna_0091_s91.csv,504090,4.9,1.8,False,False,True,False
+483,0.04139268515822508,0.5185139398778874,1,4.0,23,Sulfuriferula sp. AH1,chrf_rna_0091_s91.csv,1778653,1.3,3.7,False,False,True,False
+484,0.04139268515822508,0.6232492903979004,1,4.0,24,Brucella sp. 10RB9215,chrf_rna_0091_s91.csv,234,1.6,0.6,False,False,True,False
+485,1.0569048513364727,1.2648178230095364,1,4.0,0,Gardnerella vaginalis,chrf_rna_0092_s92.csv,2701,3.7,0.8,False,False,True,False
+486,0.7993405494535817,0.36172783601759284,1,4.0,1,Leptotrichia sp. oral taxon 212,chrf_rna_0092_s92.csv,32067,1.5,0.3,False,False,True,False
+487,0.7634279935629372,1.505149978319906,1,4.0,2,Enterobacter cloacae,chrf_rna_0092_s92.csv,547,0.6,0.8,False,False,True,False
+488,0.414973347970818,1.7730546933642626,1,4.0,3,Thermus thermophilus,chrf_rna_0092_s92.csv,270,1.8,3.2,False,False,True,False
+489,0.2304489213782739,0.0,1,4.0,4,Saccharomyces cerevisiae virus L-A,chrf_rna_0092_s92.csv,11007,1.9,0.0,False,True,False,False
+490,0.04139268515822508,0.17609125905568124,1,4.0,5,Campylobacter jejuni,chrf_rna_0092_s92.csv,194,5.8,0.8,False,False,True,False
+491,0.04139268515822508,0.0,1,4.0,6,Cucurbit aphid-borne yellows virus,chrf_rna_0092_s92.csv,119164,4.2,0.0,False,True,False,False
+492,0.0,0.0,1,4.0,7,Citrus endogenous pararetrovirus,chrf_rna_0092_s92.csv,-200011632,0.0,5.7,False,True,False,False
+493,0.0,0.0,1,4.0,8,Torque teno mini virus 7,chrf_rna_0092_s92.csv,687332,0.0,5.5,False,True,False,False
+494,1.0128372247051722,0.0,1,3.0,0,Enterovirus B,chrf_rna_0010_s10.csv,12059,99.0,0.0,True,True,False,False
+495,0.11394335230683679,0.0,1,3.0,1,Oryza sativa alphaendornavirus,chrf_rna_0010_s10.csv,2003394,11.4,0.0,False,True,False,False
+496,0.0,0.0,1,3.0,2,0,chrf_rna_0010_s10.csv,-200687329,12.6,0.0,False,False,True,False
+497,0.2304489213782739,0.0,1,3.0,0,Mumps rubulavirus,chrf_rna_0011_s11.csv,39744,100.0,0.0,True,True,False,False
+498,0.04139268515822508,0.0,1,3.0,1,Human gammaherpesvirus 4,chrf_rna_0011_s11.csv,10375,100.0,0.0,False,True,False,False
+499,0.04139268515822508,0.0,1,3.0,2,Gammapapillomavirus 7,chrf_rna_0011_s11.csv,325455,100.0,0.0,False,True,False,False
+500,0.0,0.0,1,3.0,3,Human betaherpesvirus 7,chrf_rna_0011_s11.csv,40272,0.0,1.2,False,True,False,False
+501,3.262712062631726,0.0,1,3.0,0,Chikungunya virus,chrf_rna_0012_s12.csv,11019,99.0,0.0,True,True,False,False
+502,3.0704073217401198,2.4307198878632823,1,3.0,1,Primate tetraparvovirus 1,chrf_rna_0012_s12.csv,1511911,99.0,7.4,False,True,False,False
+503,1.3961993470957363,1.1846914308175989,1,3.0,2,Chryseobacterium indologenes,chrf_rna_0012_s12.csv,59732,72.9,4.4,False,False,True,False
+504,1.3856062735983121,1.7126497016272113,1,3.0,3,Delftia tsuruhatensis,chrf_rna_0012_s12.csv,80865,0.9,4.5,False,False,True,False
+505,0.38021124171160603,0.0,1,3.0,4,Human mastadenovirus C,chrf_rna_0012_s12.csv,10509,1.8,0.0,False,True,False,False
+506,0.2041199826559248,0.07918124604762482,1,3.0,5,Primate erythroparvovirus 1,chrf_rna_0012_s12.csv,40121,100.0,13.0,False,True,False,False
+507,0.0,0.0,1,3.0,6,0,chrf_rna_0012_s12.csv,-200687329,25.9,0.0,False,False,True,False
+508,0.0,0.0,1,3.0,7,Human parvovirus 5,chrf_rna_0012_s12.csv,-200010780,100.0,3.5,False,True,False,False
+509,0.2787536009528289,0.0,1,3.0,0,Cucumber green mottle mosaic virus,chrf_rna_0022_s22.csv,12234,100.0,0.0,False,True,False,False
+510,0.0,0.0,1,3.0,1,Human alphaherpesvirus 1,chrf_rna_0022_s22.csv,10294,0.0,1.1,False,True,False,False
+511,0.3222192947339193,0.0,1,3.0,0,Saccharomyces cerevisiae virus L-A,chrf_rna_0023_s23.csv,11007,3.6,0.0,False,True,False,False
+512,0.3010299956639812,0.0,1,3.0,1,TTV-like mini virus,chrf_rna_0023_s23.csv,687332,99.0,100.0,False,True,False,False
+513,0.07918124604762482,0.0,1,3.0,2,Primate erythroparvovirus 1,chrf_rna_0023_s23.csv,40121,100.0,0.0,False,True,False,False
+514,0.07918124604762482,0.0,1,3.0,3,Betapapillomavirus 2,chrf_rna_0023_s23.csv,333922,4.6,0.0,False,True,False,False
+515,0.04139268515822508,0.0,1,3.0,4,Caribou associated gemykrogvirus 1,chrf_rna_0023_s23.csv,1985367,2.1,0.0,False,True,False,False
+516,0.04139268515822508,0.0,1,3.0,5,Rotavirus A,chrf_rna_0023_s23.csv,10912,2.8,0.0,False,True,False,False
+517,0.04139268515822508,0.0,1,3.0,6,Human polyomavirus 4,chrf_rna_0023_s23.csv,1891714,4.6,0.0,False,True,False,False
+518,0.0,0.0,1,3.0,7,Torque teno virus,chrf_rna_0023_s23.csv,-200687329,35.3,0.6,False,True,False,False
+519,0.0,0.0,1,3.0,8,0,chrf_rna_0023_s23.csv,-200011006,100.0,0.0,False,False,True,False
+520,0.04139268515822508,0.0,1,3.0,0,Gammapapillomavirus 12,chrf_rna_0034_s34.csv,325455,100.0,0.0,False,True,False,False
+521,0.0,0.0,1,3.0,1,0,chrf_rna_0034_s34.csv,-200687329,20.4,0.0,False,False,True,False
+522,0.47712125471966244,0.146128035678238,1,3.0,0,Torque teno virus 16,chrf_rna_0035_s35.csv,687331,100.0,100.0,False,True,False,False
+523,0.07918124604762482,0.0,1,3.0,1,Human betaherpesvirus 5,chrf_rna_0035_s35.csv,10358,23.4,0.0,False,True,False,False
+524,0.07918124604762482,0.0,1,3.0,2,Torque teno mini virus 2,chrf_rna_0035_s35.csv,687332,100.0,100.0,False,True,False,False
+525,0.0,0.0,1,3.0,3,Torque teno virus,chrf_rna_0035_s35.csv,-200687329,99.0,23.1,False,True,False,False
+526,0.0,0.17609125905568124,1,3.0,4,Human herpesvirus 6,chrf_rna_0035_s35.csv,40272,0.0,0.4,False,True,False,False
+527,1.4756711883244296,1.4199557484897578,1,3.0,0,Bacteroides vulgatus,chrf_rna_0046_s46.csv,816,57.4,11.0,False,False,True,False
+528,1.3783979009481377,1.932980821923198,1,3.0,1,Bifidobacterium longum,chrf_rna_0046_s46.csv,1678,68.2,2.6,False,False,True,False
+529,0.7075701760979364,0.6812412373755872,1,3.0,2,Parabacteroides distasonis,chrf_rna_0046_s46.csv,375288,46.1,1.7,False,False,True,False
+530,0.3010299956639812,0.11394335230683679,1,3.0,3,Eubacterium limosum,chrf_rna_0046_s46.csv,1730,4.5,1.3,False,False,True,False
+531,0.04139268515822508,0.0,1,3.0,4,Pepper mild mottle virus,chrf_rna_0046_s46.csv,12234,100.0,0.0,False,True,False,False
+532,0.04139268515822508,0.0,1,3.0,5,Saccharomyces cerevisiae virus L-BC (La),chrf_rna_0046_s46.csv,11007,1.0,0.0,False,True,False,False
+533,0.0,0.0,1,3.0,6,0,chrf_rna_0046_s46.csv,-200151340,100.0,0.0,False,False,True,False
+534,1.2600713879850747,0.0,1,3.0,0,TTV-like mini virus,chrf_rna_0047_s47.csv,687332,99.0,100.0,False,True,False,False
+535,0.724275869600789,0.0,1,3.0,1,Torque teno virus 16,chrf_rna_0047_s47.csv,687331,100.0,100.0,False,True,False,False
+536,0.0,0.0,1,3.0,2,Torque teno virus,chrf_rna_0047_s47.csv,-200687329,99.0,5.2,False,True,False,False
+537,0.0,0.0,1,3.0,0,0,chrf_rna_0058_s58.csv,-200687329,56.1,0.0,False,False,True,False
+538,3.991638016861687,5.325595906016961,1,3.0,0,Stenotrophomonas maltophilia,chrf_rna_0059_s59.csv,40323,99.0,99.0,True,False,False,False
+539,3.5107996144242795,2.667639706056411,1,3.0,1,Acinetobacter baumannii,chrf_rna_0059_s59.csv,469,99.0,1.6,True,False,False,False
+540,1.968482948553935,3.208683161037417,1,3.0,2,Xanthomonas citri,chrf_rna_0059_s59.csv,338,99.0,99.0,False,False,True,False
+541,1.0863598306747482,0.0,1,3.0,3,Torque teno virus 5,chrf_rna_0059_s59.csv,687331,100.0,0.0,False,True,False,False
+542,0.6127838567197355,1.187520720836463,1,3.0,4,Pantoea dispersa,chrf_rna_0059_s59.csv,53335,5.0,73.5,False,False,True,False
+543,0.38021124171160603,1.7860412102425542,1,3.0,5,Myxococcus xanthus,chrf_rna_0059_s59.csv,32,10.7,16.0,False,False,True,False
+544,0.3010299956639812,0.9822712330395684,1,3.0,6,Rhizobium arachis,chrf_rna_0059_s59.csv,379,100.0,99.0,False,False,True,False
+545,0.2041199826559248,0.8976270912904415,1,3.0,7,Photorhabdus luminescens,chrf_rna_0059_s59.csv,29487,27.9,5.4,False,False,True,False
+546,0.07918124604762482,0.919078092376074,1,3.0,8,Ottowia sp. oral taxon 894,chrf_rna_0059_s59.csv,219181,1.1,4.7,False,False,True,False
+547,0.07918124604762482,0.568201724066995,1,3.0,9,Human betaherpesvirus 5,chrf_rna_0059_s59.csv,10358,25.1,29.7,False,True,False,False
+548,0.0,0.0,1,3.0,10,0,chrf_rna_0059_s59.csv,-200687329,99.0,0.0,False,False,True,False
+549,0.0,0.0,1,3.0,11,[Pseudomonas] geniculata,chrf_rna_0059_s59.csv,-200032033,100.0,100.0,False,False,True,False
+550,0.2787536009528289,0.0,1,3.0,0,Saccharomyces cerevisiae virus L-A,chrf_rna_0060_s60.csv,11007,1.4,0.0,False,True,False,False
+551,0.17609125905568124,0.0,1,3.0,1,TTV-like mini virus,chrf_rna_0060_s60.csv,687332,67.6,0.0,False,True,False,False
+552,0.04139268515822508,0.0,1,3.0,2,Cucurbit aphid-borne yellows virus,chrf_rna_0060_s60.csv,119164,2.5,0.0,False,True,False,False
+553,0.0,0.0,1,3.0,3,Chimpanzee anellovirus,chrf_rna_0060_s60.csv,-200687329,18.8,100.0,False,True,False,False
+554,2.387033701282363,0.0,1,3.0,0,Chikungunya virus,chrf_rna_0071_s71.csv,11019,99.0,0.0,True,True,False,False
+555,0.04139268515822508,0.0,1,3.0,1,Primate erythroparvovirus 1,chrf_rna_0071_s71.csv,40121,100.0,0.5,False,True,False,False
+556,0.6334684555795865,0.04139268515822508,1,3.0,0,Torque teno virus 16,chrf_rna_0072_s72.csv,687331,100.0,100.0,False,True,False,False
+557,0.17609125905568124,0.3424226808222063,1,3.0,1,Human betaherpesvirus 5,chrf_rna_0072_s72.csv,10358,75.7,12.2,False,True,False,False
+558,0.0,0.0,1,3.0,2,Torque teno virus,chrf_rna_0072_s72.csv,-200687329,99.0,2.5,False,True,False,False
+559,0.0,0.0,1,3.0,3,Torque teno mini virus 5,chrf_rna_0072_s72.csv,687332,0.0,100.0,False,True,False,False
+560,1.0453229787866574,1.5820633629117087,1,3.0,0,Thermus thermophilus,chrf_rna_0082_s82.csv,270,47.0,1.9,False,False,True,False
+561,0.04139268515822508,0.0,1,3.0,1,Watermelon mosaic virus,chrf_rna_0082_s82.csv,12195,100.0,0.0,False,True,False,False
+562,0.0,0.0,1,3.0,2,0,chrf_rna_0082_s82.csv,-200687329,2.5,0.0,False,False,True,False
+563,1.9585638832219674,3.6010599635462825,1,3.0,0,Escherichia coli,chrf_rna_0083_s83.csv,561,0.4,99.0,True,False,False,False
+564,0.505149978319906,0.0,1,3.0,1,TTV-like mini virus,chrf_rna_0083_s83.csv,687332,99.0,100.0,False,True,False,False
+565,0.4913616938342727,0.0,1,3.0,2,Primate tetraparvovirus 1,chrf_rna_0083_s83.csv,1511911,1.0,0.0,False,True,False,False
+566,0.146128035678238,0.0,1,3.0,3,Torque teno virus 3,chrf_rna_0083_s83.csv,687331,100.0,0.0,False,True,False,False
+567,0.0,0.0,1,3.0,4,Torque teno virus,chrf_rna_0083_s83.csv,-200687329,99.0,1.2,False,True,False,False
+568,0.8920946026904804,2.121559844187501,1,3.0,0,Enterococcus faecium,chrf_rna_0084_s84.csv,1350,5.0,10.8,False,False,True,False
+569,0.414973347970818,1.9138138523837167,1,3.0,1,Comamonas testosteroni,chrf_rna_0084_s84.csv,283,0.4,0.8,False,False,True,False
+570,0.2787536009528289,0.6334684555795865,1,3.0,2,Xanthomonas perforans,chrf_rna_0084_s84.csv,338,0.6,1.0,False,False,True,False
+571,0.04139268515822508,0.0,1,3.0,3,TTV-like mini virus,chrf_rna_0084_s84.csv,687332,11.5,100.0,False,True,False,False
+572,0.0,0.0,1,3.0,4,0,chrf_rna_0084_s84.csv,-200687329,12.8,0.0,False,False,True,False
+573,2.137986732723532,0.36172783601759284,1,3.0,0,Nostoc punctiforme,chrf_rna_0093_s93.csv,1177,55.7,0.4,False,False,True,False
+574,0.04139268515822508,0.0,1,3.0,1,Zucchini yellow mosaic virus,chrf_rna_0093_s93.csv,12195,4.8,0.0,False,True,False,False
+575,0.0,0.04139268515822508,1,3.0,2,Betapapillomavirus 4,chrf_rna_0093_s93.csv,333922,0.0,1.4,False,True,False,False
+576,0.0,0.0,1,3.0,3,Gammapapillomavirus 12,chrf_rna_0093_s93.csv,325455,0.0,5.0,False,True,False,False
+577,3.7401178363211565,0.0,1,3.0,0,Chikungunya virus,chrf_rna_0094_s94.csv,11019,99.0,0.0,True,True,False,False
+578,0.07918124604762482,0.0,1,3.0,1,Rotavirus A,chrf_rna_0094_s94.csv,10912,4.3,0.0,False,True,False,False
+579,0.04139268515822508,0.0,1,3.0,2,Betapapillomavirus 1,chrf_rna_0094_s94.csv,333922,100.0,0.0,False,True,False,False
+580,0.04139268515822508,0.0,1,3.0,3,Gammapapillomavirus 7,chrf_rna_0094_s94.csv,325455,100.0,0.0,False,True,False,False
+581,0.2041199826559248,0.0,1,3.0,0,Torque teno virus 24,chrf_rna_0095_s95.csv,687331,100.0,0.0,False,True,False,False
+582,0.0,0.0,1,3.0,1,Torque teno virus,chrf_rna_0095_s95.csv,-200687329,99.0,3.5,False,True,False,False
+583,0.7160033436347992,2.1078880251827985,1,5.0,0,Bacillus cereus,chrf_rna_0033_s33.csv,1386,1.2,1.9,True,False,False,False
+584,0.6812412373755872,2.423737249982329,1,5.0,1,Rhodococcus opacus,chrf_rna_0033_s33.csv,1827,0.7,2.1,False,False,True,False
+585,0.3424226808222063,0.0,1,5.0,2,Human mastadenovirus C,chrf_rna_0033_s33.csv,10509,1.6,0.0,False,True,False,False
+586,0.25527250510330607,2.2638726768652235,1,5.0,3,Alcanivorax pacificus,chrf_rna_0033_s33.csv,59753,3.9,5.7,False,False,True,False
+587,0.2041199826559248,2.593618308129536,1,5.0,4,Bradyrhizobium diazoefficiens,chrf_rna_0033_s33.csv,374,0.8,1.9,False,False,True,False
+588,0.17609125905568124,2.1332194567324945,1,5.0,5,Cupriavidus gilardii,chrf_rna_0033_s33.csv,106589,1.2,2.0,False,False,True,False
+589,0.17609125905568124,1.526339277389844,1,5.0,6,Ochrobactrum anthropi,chrf_rna_0033_s33.csv,528,0.4,1.0,False,False,True,False
+590,0.07918124604762482,0.04139268515822508,1,5.0,7,Gloeomargarita lithophora,chrf_rna_0033_s33.csv,1188227,5.3,1.6,False,False,True,False
+591,0.07918124604762482,0.0,1,5.0,8,Alfalfa mosaic virus,chrf_rna_0033_s33.csv,12320,5.0,0.0,False,True,False,False
+592,0.04139268515822508,0.5440680443502757,1,5.0,9,Tannerella forsythia,chrf_rna_0033_s33.csv,195950,0.9,0.7,False,False,True,False
+593,0.04139268515822508,0.2787536009528289,1,5.0,10,Heliobacterium modesticaldum,chrf_rna_0033_s33.csv,2697,1.1,1.6,False,False,True,False
+594,0.0,0.0,1,5.0,11,Tobacco leaf curl betasatellite,chrf_rna_0033_s33.csv,-201993640,0.0,5.7,False,False,True,False
+595,0.0,0.04139268515822508,1,5.0,12,Human polyomavirus 4,chrf_rna_0033_s33.csv,1891714,0.0,3.7,False,True,False,False
+596,1.4487063199050798,2.3613500243522663,1,5.0,0,Corynebacterium aurimucosum,chrf_rna_0045_s45.csv,1716,3.9,0.6,False,False,True,False
+597,1.0934216851622351,1.8790958795000727,1,5.0,1,Streptococcus sanguinis,chrf_rna_0045_s45.csv,1301,1.1,0.9,False,False,True,False
+598,0.9395192526186185,1.57287160220048,1,5.0,2,Burkholderia multivorans,chrf_rna_0045_s45.csv,32008,5.8,0.4,False,False,True,False
+599,0.9294189257142927,3.7964841348945497,1,5.0,3,Mycobacterium sp. YC-RL4,chrf_rna_0045_s45.csv,1763,0.3,1.0,True,False,False,False
+600,0.6901960800285137,1.9556877503135057,1,5.0,4,Cupriavidus gilardii,chrf_rna_0045_s45.csv,106589,1.4,1.1,False,False,True,False
+601,0.36172783601759284,2.354876422516234,1,5.0,5,Bradyrhizobium sp. S23321,chrf_rna_0045_s45.csv,374,0.8,1.3,False,False,True,False
+602,0.3222192947339193,0.146128035678238,1,5.0,6,Human mastadenovirus C,chrf_rna_0045_s45.csv,10509,0.7,1.5,False,True,False,False
+603,0.25527250510330607,0.3424226808222063,1,5.0,7,Blautia obeum,chrf_rna_0045_s45.csv,572511,0.9,1.4,False,False,True,False
+604,0.2304489213782739,0.505149978319906,1,5.0,8,Clostridium perfringens,chrf_rna_0045_s45.csv,1485,0.7,4.1,False,False,True,False
+605,0.07918124604762482,0.5314789170422551,1,5.0,9,Roseburia intestinalis,chrf_rna_0045_s45.csv,841,1.1,1.7,False,False,True,False
+606,0.0,0.0,1,5.0,10,[Eubacterium] sulci,chrf_rna_0045_s45.csv,-200543314,0.9,3.0,False,False,True,False
+607,0.0,0.0,1,5.0,11,Human papillomavirus type 179,chrf_rna_0045_s45.csv,-200151340,0.0,4.8,False,True,False,False
+608,0.0,0.04139268515822508,1,5.0,12,Musca hytrovirus,chrf_rna_0045_s45.csv,1285593,0.0,5.7,False,True,False,False
+609,2.2506639194632436,3.218351665745133,1,5.0,0,Cutibacterium acnes,chrf_rna_0057_s57.csv,1912216,1.7,0.3,False,False,True,False
+610,1.9454685851318196,2.6464037262230695,1,5.0,1,Corynebacterium ureicelerivorans,chrf_rna_0057_s57.csv,1716,0.4,1.9,False,False,True,False
+611,1.57287160220048,2.996905510695666,1,5.0,2,Pseudomonas stutzeri,chrf_rna_0057_s57.csv,286,0.7,1.1,False,False,True,False
+612,0.7781512503836436,0.6812412373755872,1,5.0,3,Clostridium botulinum,chrf_rna_0057_s57.csv,1485,5.4,3.5,False,False,True,False
+613,0.724275869600789,2.2853322276438846,1,5.0,4,Bacillus cereus,chrf_rna_0057_s57.csv,1386,1.5,2.9,True,False,False,False
+614,0.6020599913279624,2.1482940974347455,1,5.0,5,Massilia sp. WG5,chrf_rna_0057_s57.csv,149698,0.4,0.9,False,False,True,False
+615,0.3979400086720376,0.7558748556724915,1,5.0,6,Lactococcus lactis,chrf_rna_0057_s57.csv,1357,0.7,0.8,False,False,True,False
+616,0.3424226808222063,1.888179493918325,1,5.0,7,Tessaracoccus flavus,chrf_rna_0057_s57.csv,72763,0.4,2.4,False,False,True,False
+617,0.3222192947339193,1.8175653695597809,1,5.0,8,Kytococcus sedentarius,chrf_rna_0057_s57.csv,57499,0.4,1.9,False,False,True,False
+618,0.3222192947339193,0.9138138523837167,1,5.0,9,Microcella alkaliphila,chrf_rna_0057_s57.csv,337004,0.5,0.4,False,False,True,False
+619,0.2787536009528289,2.0770043267933502,1,5.0,10,Pantoea sp. PSNIH1,chrf_rna_0057_s57.csv,53335,0.8,3.3,False,False,True,False
+620,0.25527250510330607,0.8750612633917001,1,5.0,11,Flavisolibacter tropicus,chrf_rna_0057_s57.csv,398041,0.7,4.3,False,False,True,False
+621,0.2041199826559248,1.9273703630390235,1,5.0,12,Oscillatoria acuminata,chrf_rna_0057_s57.csv,1158,1.3,5.5,False,False,True,False
+622,0.2041199826559248,0.11394335230683679,1,5.0,13,Pedosphaera parvula,chrf_rna_0057_s57.csv,1032526,3.6,5.4,False,False,True,False
+623,0.11394335230683679,2.185258765296585,1,5.0,14,Cupriavidus gilardii,chrf_rna_0057_s57.csv,106589,1.7,2.7,False,False,True,False
+624,0.07918124604762482,0.5185139398778874,1,5.0,15,Thermoanaerobacterium thermosaccharolyticum,chrf_rna_0057_s57.csv,28895,1.4,5.4,False,False,True,False
+625,0.07918124604762482,0.6232492903979004,1,5.0,16,Parabacteroides distasonis,chrf_rna_0057_s57.csv,375288,0.9,1.3,False,False,True,False
+626,0.07918124604762482,1.5118833609788744,1,5.0,17,Parvibaculum lavamentivorans,chrf_rna_0057_s57.csv,256616,1.4,2.6,False,False,True,False
+627,0.07918124604762482,0.0,1,5.0,18,Cucumis melo alphaendornavirus,chrf_rna_0057_s57.csv,2003394,5.8,0.0,False,True,False,False
+628,0.04139268515822508,0.146128035678238,1,5.0,19,Acetobacter pasteurianus,chrf_rna_0057_s57.csv,434,0.6,0.3,False,False,True,False
+629,0.04139268515822508,1.8142475957319202,1,5.0,20,Meiothermus silvanus,chrf_rna_0057_s57.csv,65551,0.7,2.2,False,False,True,False
+630,0.0,0.0,1,5.0,21,Comamonadaceae bacterium B1,chrf_rna_0057_s57.csv,-200080864,0.3,2.3,False,False,True,False
+631,0.0,0.146128035678238,1,5.0,22,Human mastadenovirus C,chrf_rna_0057_s57.csv,10509,0.0,1.1,False,True,False,False
+632,1.9365137424788934,1.3242824552976926,1,5.0,0,Mucilaginibacter sp. PAMC 26640,chrf_rna_0069_s69.csv,423349,5.8,5.7,False,False,True,False
+633,1.252853030979893,0.8195439355418687,1,5.0,1,Pedobacter heparinus,chrf_rna_0069_s69.csv,84567,5.2,3.9,False,False,True,False
+634,0.568201724066995,2.184975190698261,1,5.0,2,Bacillus cereus,chrf_rna_0069_s69.csv,1386,0.7,2.3,True,False,False,False
+635,0.47712125471966244,1.4265112613645752,1,5.0,3,Enterococcus faecium,chrf_rna_0069_s69.csv,1350,0.3,0.8,False,False,True,False
+636,0.2304489213782739,0.6720978579357175,1,5.0,4,Carnobacterium sp. 17-4,chrf_rna_0069_s69.csv,2747,0.5,1.8,False,False,True,False
+637,0.07918124604762482,0.0,1,5.0,5,Clover yellow mosaic virus,chrf_rna_0069_s69.csv,12176,4.4,0.0,False,True,False,False
+638,0.04139268515822508,0.6020599913279624,1,5.0,6,Parabacteroides distasonis,chrf_rna_0069_s69.csv,375288,1.4,1.2,False,False,True,False
+639,0.0,0.11394335230683679,1,5.0,7,Human mastadenovirus F,chrf_rna_0069_s69.csv,10509,0.0,3.9,False,True,False,False
+640,0.0,0.04139268515822508,1,5.0,8,Gammapapillomavirus 1,chrf_rna_0069_s69.csv,325455,0.0,2.8,False,True,False,False
+641,0.0,0.17609125905568124,1,5.0,9,Human betaherpesvirus 5,chrf_rna_0069_s69.csv,10358,0.0,0.6,False,True,False,False
+642,1.4424797690644486,2.6225248624035684,1,5.0,0,Sphingomonas melonis,chrf_rna_0096_s96.csv,13687,0.3,1.6,False,False,True,False
+643,1.2148438480476977,2.9711366294768062,1,5.0,1,Pseudomonas stutzeri,chrf_rna_0096_s96.csv,286,0.5,0.5,False,False,True,False
+644,0.9294189257142927,4.007180008541123,1,5.0,2,Mycobacterium sp. YC-RL4,chrf_rna_0096_s96.csv,1763,0.8,2.3,True,False,False,False
+645,0.6334684555795865,2.216165902285993,1,5.0,3,Streptomyces sp. Mg1,chrf_rna_0096_s96.csv,1883,1.2,2.1,False,False,True,False
+646,0.5314789170422551,1.9237619608287002,1,5.0,4,Azospirillum brasilense,chrf_rna_0096_s96.csv,191,2.2,1.9,False,False,True,False
+647,0.3979400086720376,1.6599162000698502,1,5.0,5,Pantoea sp. PSNIH1,chrf_rna_0096_s96.csv,53335,1.1,0.7,False,False,True,False
+648,0.2041199826559248,1.806179973983887,1,5.0,6,Xanthomonas sacchari,chrf_rna_0096_s96.csv,338,0.3,0.9,False,False,True,False
+649,0.17609125905568124,0.0,1,5.0,7,Saccharomyces cerevisiae virus L-A,chrf_rna_0096_s96.csv,11007,1.5,0.0,False,True,False,False
+650,0.17609125905568124,1.2304489213782739,1,5.0,8,Bacteroides fragilis,chrf_rna_0096_s96.csv,816,1.3,0.7,False,False,True,False
+651,0.146128035678238,0.8573324964312685,1,5.0,9,Kutzneria albida,chrf_rna_0096_s96.csv,43356,1.0,1.1,False,False,True,False
+652,0.11394335230683679,1.0718820073061255,1,5.0,10,Geitlerinema sp. PCC 7407,chrf_rna_0096_s96.csv,63132,0.3,1.6,False,False,True,False
+653,0.04139268515822508,1.0718820073061255,1,5.0,11,Dyella thiooxydans,chrf_rna_0096_s96.csv,231454,1.1,1.1,False,False,True,False
+654,0.04139268515822508,0.146128035678238,1,5.0,12,Leadbetterella byssophila,chrf_rna_0096_s96.csv,319458,1.1,1.1,False,False,True,False
+655,0.0,0.0,1,5.0,13,Comamonadaceae bacterium B1,chrf_rna_0096_s96.csv,-200080864,0.7,1.4,False,False,True,False
+656,0.0,0.17609125905568124,1,5.0,14,Betapapillomavirus 4,chrf_rna_0096_s96.csv,333922,0.0,5.3,False,True,False,False
+657,0.0,0.04139268515822508,1,5.0,15,Alphapapillomavirus 7,chrf_rna_0096_s96.csv,333750,0.0,5.7,False,True,False,False
