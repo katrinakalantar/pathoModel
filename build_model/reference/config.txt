@@ -1,0 +1,7 @@
+model_parameters: log(genus_NT_rpm),reference_pathogen,perc_NR2
+plot_x: log(genus_NR_rpm)
+label: LRTIstatus
+positive_class: LRTI+C+M
+negative_class: no-LRTI
+unknown_class: LRTI+C,LRTI-unk
+training_set: mBAL-212-RNA-TA,mBAL-225-RNA-TA,mBAL-298-RNA-TA,mBAL-304-RNA-TA,mBAL-314-RNA-TA,mBAL-315-RNA-TA,mBAL-335-RNA-TA,mBAL-337-RNA-TA,mBAL-343-RNA-TA,mBAL-350-RNA-TA,mBAL-349-RNA-TA,mBAL-273-RNA-TA,mBAL-331-RNA-TA,mBAL-221-RNA-TA,mBAL-220-RNA-TA,mBAL-215-RNA-TA,mBAL-270-RNA-TA,mBAL-241-RNA-TA,mBAL-211-RNA-TA,mBAL-218-RNA-TA
