@@ -14,10 +14,17 @@ def log_transform_rpm(matrix):
     
 def set_percent(matrix):
 	""" get the percentage of non-host reads represented by this pathogen via non-host read value in metadata """
-	matrix['perc_NRr'] = matrix['NR_r'] / matrix['nonhost_reads']
-	matrix['perc_NTr'] = matrix['NT_r'] / matrix['nonhost_reads']
-	matrix['perc_genus_NRr'] = matrix['genus_NR_r'] / matrix['nonhost_reads']
-	matrix['perc_genus_NTr'] = matrix['genus_NT_r'] / matrix['nonhost_reads']
+
+	nonhost_rpm = matrix['nonhost_reads_percent'] * 10000
+	matrix['perc_NRr'] = matrix['NR_rpm'] / nonhost_rpm
+	matrix['perc_NTr'] = matrix['NT_rpm'] / nonhost_rpm
+	matrix['perc_genus_NRr'] = matrix['genus_NR_rpm'] / nonhost_rpm
+	matrix['perc_genus_NTr'] = matrix['genus_NT_rpm'] / nonhost_rpm
+
+	#matrix['perc_NRr'] = matrix['NR_r'] / matrix['nonhost_reads']
+	#matrix['perc_NTr'] = matrix['NT_r'] / matrix['nonhost_reads']
+	#matrix['perc_genus_NRr'] = matrix['genus_NR_r'] / matrix['nonhost_reads']
+	#matrix['perc_genus_NTr'] = matrix['genus_NT_r'] / matrix['nonhost_reads']
     
 def set_nucl_type(matrix):
 	""" indicate whether this is RNA- or DNA-seq (by parsing sample ID """
@@ -173,7 +180,7 @@ def parse_data(samplename, project_directory):
 	merged = merged.loc[idx]   # keep the species with max rM for each genus
 	
 	# filters after selecting most abundant species
-	merged = merged[merged.NT_zscore > .5]
+	#merged = merged[merged.NT_zscore > .5]
 	#merged = merged[merged.NR_zscore > .5]
 
 	merged['sampleID'] = samplename
@@ -209,17 +216,17 @@ def set_pathogenicity(matrix, filename):
 
 ## Run the script ## 
 
-#metadata_filename = '/Users/kkalantar/Desktop/pathoModel/build_model/benchmark_data/project-mbal_study_sample-table_073018.csv'
 metadata_filename = '/Users/kkalantar/Downloads/project-rapid_response_007_sample-table_BN.tsv'
-
-#project_directory_name = '/Users/kkalantar/Desktop/pathoModel/build_model/benchmark_data/mbal_study_reports_073018'
 project_directory_name = '/Users/kkalantar/Desktop/pathoModel/data/070518/rapid-response-007_reports'
-
-#output_directory_name = '/Users/kkalantar/Desktop/pathoModel/build_model/output/073018'
 output_directory_name = '/Users/kkalantar/Desktop/pathoModel/build_model/output/080218_BN_2'
-
-#reference_pathogen_filename = '/Users/kkalantar/Desktop/pathoModel/build_model/reference/known_respiratory_pathogens.txt'
 reference_pathogen_filename = '/Users/kkalantar/Desktop/pathoModel/reference/pathogens_bangladesh_official.txt'
+
+'''
+metadata_filename = '/Users/kkalantar/Desktop/pathoModel/build_model/benchmark_data/project-mbal_study_sample-table_073018.csv'
+project_directory_name = '/Users/kkalantar/Desktop/pathoModel/build_model/benchmark_data/mbal_study_reports_073018'
+output_directory_name = '/Users/kkalantar/Desktop/pathoModel/build_model/output/073018'
+reference_pathogen_filename = '/Users/kkalantar/Desktop/pathoModel/build_model/reference/known_respiratory_pathogens.txt'
+'''
 
 
 create_idseq_project(project_directory_name, metadata_filename, output_directory_name, reference_pathogen_filename)
